@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap');
+
+:root {
+  font-family: 'DM Sans', sans-serif;
+  color: #142c4c;
+  background: #f7f4ed;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.home-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 1.5rem;
+  background:
+    radial-gradient(ellipse at 50% 35%, rgb(255 255 255 / 90%), transparent 54%),
+    #f7f4ed;
+}
+
+.flag-card {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  width: min(100%, 760px);
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+  border-radius: 18px;
+  box-shadow: 0 28px 70px rgb(27 42 58 / 18%), 0 4px 12px rgb(27 42 58 / 8%);
+}
+
+.flag-stripe--red {
+  background: #ae1c28;
+}
+
+.flag-stripe--white {
+  display: grid;
+  place-items: center;
+  background: #fff;
+}
+
+.flag-stripe--blue {
+  background: #21468b;
+}
+
+h1 {
+  margin: 0;
+  padding: 0.5rem;
+  color: #ae1c28;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: clamp(2.25rem, 8vw, 5.75rem);
+  line-height: 1;
+  letter-spacing: -0.045em;
+  text-align: center;
+}
+
+h1 span {
+  color: #21468b;
+  white-space: nowrap;
+}
+
+@media (max-width: 480px) {
+  .flag-card {
+    aspect-ratio: 4 / 3;
+    border-radius: 12px;
+  }
+}
