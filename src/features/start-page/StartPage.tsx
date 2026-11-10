@@ -2,10 +2,11 @@ import { useMemo, useState } from 'react'
 import FilterPanel from '../../components/FilterPanel'
 import GlobalControls, { type Direction } from '../../components/GlobalControls'
 import ModeActions from '../../components/ModeActions'
-import { getSelectedEntries, getWordTypeOptions, toggleAll, toggleSelection } from '../../domain/vocabulary'
+import { getSelectedEntries, getWordTypeOptions, shuffleEntries, toggleAll, toggleSelection } from '../../domain/vocabulary'
 import { vocabularyEntries, vocabularies } from '../../data/vocabularies'
 import type { Locale } from '../../types/vocabulary'
 import { startPageCopy } from './copy'
+import FlashcardsSession from '../flashcards/FlashcardsSession'
 
 export default function StartPage() {
   const [locale, setLocale] = useState<Locale>('ru')
@@ -16,6 +17,7 @@ export default function StartPage() {
   const [selectedTypeIds, setSelectedTypeIds] = useState(
     () => new Set(vocabularyEntries.map(({ type_en }) => type_en)),
   )
+  const [flashcardEntries, setFlashcardEntries] = useState<typeof vocabularyEntries | null>(null)
 
   const copy = startPageCopy[locale]
   const typeOptions = useMemo(() => getWordTypeOptions(vocabularyEntries), []).map(({ id, label }) => ({
@@ -29,6 +31,26 @@ export default function StartPage() {
     () => getSelectedEntries(vocabularies, selectedDictionaryIds, selectedTypeIds),
     [selectedDictionaryIds, selectedTypeIds],
   )
+
+  if (flashcardEntries) {
+    return (
+      <FlashcardsSession
+        direction={direction}
+        entries={flashcardEntries}
+        locale={locale}
+        onDirectionToggle={() => setDirection((current) =>
+          current === 'dutch-to-translation' ? 'translation-to-dutch' : 'dutch-to-translation')}
+        onExit={() => {
+          setFlashcardEntries(null)
+          setLocale('ru')
+          setDirection('dutch-to-translation')
+          setSelectedDictionaryIds(new Set(vocabularies.map(({ id }) => id)))
+          setSelectedTypeIds(new Set(vocabularyEntries.map(({ type_en }) => type_en)))
+        }}
+        onLocaleChange={setLocale}
+      />
+    )
+  }
 
   return (
     <main className="home-page">
@@ -77,6 +99,7 @@ export default function StartPage() {
             testLabel={copy.test}
             wordCount={selectedEntries.length}
             wordsInSetLabel={copy.wordsInSet}
+            onStartFlashcards={() => setFlashcardEntries(shuffleEntries(selectedEntries))}
           />
         </section>
       </div>

@@ -51,3 +51,12 @@ export function toggleSelection(current: Set<string>, id: string): Set<string> {
 export function toggleAll(current: Set<string>, ids: string[]): Set<string> {
   return current.size === ids.length ? new Set() : new Set(ids)
 }
+
+export function shuffleEntries(entries: VocabularyEntry[]): VocabularyEntry[] {
+  const shuffled = [...entries]
+  for (let index = shuffled.length - 1; index > 0; index -= 1) {
+    const randomIndex = Math.floor(Math.random() * (index + 1))
+    ;[shuffled[index], shuffled[randomIndex]] = [shuffled[randomIndex], shuffled[index]]
+  }
+  return shuffled
+}
