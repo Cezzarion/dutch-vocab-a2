@@ -4,6 +4,7 @@ interface ModeActionsProps {
   wordsInSetLabel: string
   emptySelectionLabel: string
   wordCount: number
+  onStartFlashcards: () => void
 }
 
 export default function ModeActions({
@@ -12,11 +13,12 @@ export default function ModeActions({
   wordsInSetLabel,
   emptySelectionLabel,
   wordCount,
+  onStartFlashcards,
 }: ModeActionsProps) {
   return (
     <div className="mode-column">
       <button className="mode-button" type="button">{testLabel}</button>
-      <button className="mode-button" type="button">{flashcardsLabel}</button>
+      <button className="mode-button" disabled={wordCount === 0} onClick={onStartFlashcards} type="button">{flashcardsLabel}</button>
       <div aria-live="polite" className="selection-summary">
         <span className="selection-count">{wordCount}</span>
         <span>{wordsInSetLabel}</span>
