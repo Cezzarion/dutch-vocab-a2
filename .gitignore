@@ -20,5 +20,6 @@ pnpm-debug.log*
 !.vscode/extensions.json
 .idea/
 
-# Vite cache
+# Vite
 *.local
+.vite
