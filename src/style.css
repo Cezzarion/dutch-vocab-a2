@@ -115,7 +115,7 @@ button { font: inherit; }
 .is-selected .toggle-indicator::after { position: absolute; top: 3px; left: 6px; width: 5px; height: 9px; transform: rotate(45deg); border: solid white; border-width: 0 2px 2px 0; content: ''; }
 
 .mode-column { display: grid; justify-items: stretch; gap: 22px; }
-.easy-words-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 38px; padding: 0 4px; }
+.easy-words-toolbar { display: flex; align-items: center; justify-content: flex-end; gap: 4px; min-height: 38px; padding: 0 4px; }
 .easy-words-count { color: #768397; font-size: 13px; }
 .easy-words-count strong { color: #367957; font-size: 15px; font-variant-numeric: tabular-nums; }
 .reset-easy-words-button { min-height: 32px; padding: 0 11px; border: 1px solid #dce2e8; border-radius: 9px; background: #fff; color: #66778b; cursor: pointer; font-size: 12px; font-weight: 700; transition: background .16s ease, border-color .16s ease, color .16s ease; }

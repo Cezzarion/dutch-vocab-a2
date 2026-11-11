@@ -64,10 +64,6 @@ export default function StartPage() {
           current === 'dutch-to-translation' ? 'translation-to-dutch' : 'dutch-to-translation')}
         onExit={() => {
           setFlashcardEntries(null)
-          setLocale('ru')
-          setDirection('dutch-to-translation')
-          setSelectedDictionaryIds(new Set(vocabularies.map(({ id }) => id)))
-          setSelectedTypeIds(new Set(vocabularyEntries.map(({ type_en }) => type_en)))
         }}
         onLocaleChange={setLocale}
         onMarkEasy={markEasy}
