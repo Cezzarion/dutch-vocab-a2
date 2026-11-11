@@ -14,6 +14,8 @@ export const startPageCopy = {
     flashcards: 'Флипкарты',
     wordsInSet: 'Слов в наборе',
     emptySelection: 'Нет слов по выбранным фильтрам',
+    removedWords: 'Убрано слов',
+    resetRemovedWords: 'Сбросить',
   },
   en: {
     appName: 'Dutch Vocab A2',
@@ -28,5 +30,7 @@ export const startPageCopy = {
     flashcards: 'Flashcards',
     wordsInSet: 'Words in set',
     emptySelection: 'No words match these filters',
+    removedWords: 'Words removed',
+    resetRemovedWords: 'Reset',
   },
 } satisfies Record<Locale, Record<string, string>>

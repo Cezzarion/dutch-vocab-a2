@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { getSelectedEntries, toggleAll, toggleSelection } from './vocabulary'
+import { excludeKnownEntries, getSelectedEntries, getVocabularyEntryKey, toggleAll, toggleSelection } from './vocabulary'
 import type { VocabularyDictionary, VocabularyEntry } from '../types/vocabulary'
 
 const verb: VocabularyEntry = {
@@ -38,6 +38,16 @@ describe('getSelectedEntries', () => {
     )
 
     expect(selected).toEqual([noun])
+  })
+
+  it('uses the same key for duplicate headwords regardless of article capitalization', () => {
+    expect(getVocabularyEntryKey(noun)).toBe(getVocabularyEntryKey(duplicateNoun))
+  })
+})
+
+describe('excludeKnownEntries', () => {
+  it('removes known headwords from a future candidate set', () => {
+    expect(excludeKnownEntries([verb, noun], new Set([getVocabularyEntryKey(noun)]))).toEqual([verb])
   })
 })
 
