@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "title": "Samenleven in Nederland",
+  "entries": [
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "afzeggen, afgezegd",
+      "russian": "отменить",
+      "english": "cancel"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de begrafenis, begrafenissen",
+      "russian": "похороны",
+      "english": "funeral"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de beschuit met muisjes, beschuiten met muisjes",
+      "russian": "сухарь с посыпкой из анисовых драже",
+      "english": "Dutch rusk with anise sprinkles"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de Bevrijdingsdag, Bevrijdingsdagen",
+      "russian": "День освобождения",
+      "english": "Liberation Day"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de bruiloft, bruiloften",
+      "russian": "свадьба",
+      "english": "wedding"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het buurthuis, buurthuizen",
+      "russian": "общественный центр",
+      "english": "community centre"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de crematie, crematies",
+      "russian": "кремация",
+      "english": "cremation"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de discriminatie, discriminaties",
+      "russian": "дискриминация",
+      "english": "discrimination"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de Dodenherdenking, Dodenherdenkingen",
+      "russian": "День поминовения погибших",
+      "english": "Remembrance of the Dead"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "feliciteren, gefeliciteerd",
+      "russian": "поздравлять",
+      "english": "to congratulate"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het geregistreerd partnerschap, geregistreerde partnerschappen",
+      "russian": "зарегистрированное партнёрство",
+      "english": "registered partnership"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de gewoonte, gewoonten",
+      "russian": "обычай",
+      "english": "custom"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het homohuwelijk, homohuwelijken",
+      "russian": "однополый брак",
+      "english": "same-sex marriage"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "homoseksueel",
+      "russian": "гомосексуальный",
+      "english": "homosexual"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het huwelijk, huwelijken",
+      "russian": "брак",
+      "english": "marriage"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de Kerstmis, —",
+      "russian": "Рождество",
+      "english": "Christmas"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de Koningsdag, Koningsdagen",
+      "russian": "День короля",
+      "english": "King's Day"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de latrelatie, latrelaties",
+      "russian": "отношения на расстоянии",
+      "english": "living-apart-together relationship"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "lesbisch",
+      "russian": "лесбийский",
+      "english": "lesbian"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de oliebol, oliebollen",
+      "russian": "пончики олибол",
+      "english": "Dutch doughnut"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de organisatie, organisaties",
+      "russian": "организация",
+      "english": "organization"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het oud en nieuw, —",
+      "russian": "Новый год",
+      "english": "New Year's Eve and New Year's Day"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "overlijden, overleden",
+      "russian": "умирать",
+      "english": "to die"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de Pasen, —",
+      "russian": "Пасха",
+      "english": "Easter"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het recht, rechten",
+      "russian": "право",
+      "english": "right"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de regenboogvlag, regenboogvlaggen",
+      "russian": "радужный флаг",
+      "english": "rainbow flag"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het samenlevingscontract, samenlevingscontracten",
+      "russian": "договор о совместном проживании",
+      "english": "cohabitation agreement"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "samenwonen, samengewoond",
+      "russian": "жить вместе",
+      "english": "to live together"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de Sinterklaas, —",
+      "russian": "Синтерклаас",
+      "english": "Saint Nicholas"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "slagen, geslaagd",
+      "russian": "сдать экзамен",
+      "english": "to pass"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de slavernij, —",
+      "russian": "рабство",
+      "english": "slavery"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "uitnodigen, uitgenodigd",
+      "russian": "приглашать",
+      "english": "to invite"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de verjaardag, verjaardagen",
+      "russian": "день рождения",
+      "english": "birthday"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de vlag, vlaggen",
+      "russian": "флаг",
+      "english": "flag"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het volkslied, volksliederen",
+      "russian": "государственный гимн",
+      "english": "national anthem"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het vrijwilligerswerk, —",
+      "russian": "волонтёрская работа",
+      "english": "volunteer work"
+    }
+  ]
+}

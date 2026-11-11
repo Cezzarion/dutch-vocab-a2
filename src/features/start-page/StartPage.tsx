@@ -26,7 +26,7 @@ export default function StartPage() {
     id,
     label: locale === 'en' ? id : label,
   }))
-  const dictionaryOptions = vocabularies.map(({ id, title }) => ({ id, label: title[locale] }))
+  const dictionaryOptions = vocabularies.map(({ id, title }) => ({ id, label: title }))
   const dictionaryIds = dictionaryOptions.map(({ id }) => id)
   const typeIds = typeOptions.map(({ id }) => id)
   const selectedEntries = useMemo(
