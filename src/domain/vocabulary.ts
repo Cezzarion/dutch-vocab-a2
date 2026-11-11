@@ -21,7 +21,7 @@ export function getSelectedEntries(
 
     for (const entry of dictionary.entries) {
       if (!selectedTypeIds.has(entry.type_en)) continue
-      const key = `${entry.type_en}:${normalizeDutchHeadword(entry.dutch)}`
+      const key = getVocabularyEntryKey(entry)
       if (seen.has(key)) continue
       seen.add(key)
       selected.push(entry)
@@ -39,6 +39,14 @@ function normalizeDutchHeadword(dutch: string): string {
     .normalize('NFKC')
     .toLocaleLowerCase('nl-NL')
     .replace(/\s+/g, ' ')
+}
+
+export function getVocabularyEntryKey(entry: VocabularyEntry): string {
+  return `${entry.type_en}:${normalizeDutchHeadword(entry.dutch)}`
+}
+
+export function excludeKnownEntries(entries: VocabularyEntry[], knownKeys: Set<string>): VocabularyEntry[] {
+  return entries.filter((entry) => !knownKeys.has(getVocabularyEntryKey(entry)))
 }
 
 export function toggleSelection(current: Set<string>, id: string): Set<string> {

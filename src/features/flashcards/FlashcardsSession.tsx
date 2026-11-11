@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import GlobalControls, { type Direction } from '../../components/GlobalControls'
 import type { Locale, VocabularyEntry } from '../../types/vocabulary'
+import { getVocabularyEntryKey } from '../../domain/vocabulary'
 
 interface FlashcardsSessionProps {
   entries: VocabularyEntry[]
@@ -9,6 +10,8 @@ interface FlashcardsSessionProps {
   onLocaleChange: (locale: Locale) => void
   onDirectionToggle: () => void
   onExit: () => void
+  easyWordKeys: Set<string>
+  onMarkEasy: (entry: VocabularyEntry) => void
 }
 
 const sessionCopy = {
@@ -18,6 +21,8 @@ const sessionCopy = {
     direction: 'Направление слов',
     exit: 'Выйти',
     flipHint: 'Нажмите на карточку, чтобы увидеть ответ',
+    markEasy: 'Убрать',
+    markedEasy: 'Убрано',
     back: 'Назад',
     next: 'Дальше',
     completed: 'Все слова пройдены!',
@@ -33,6 +38,8 @@ const sessionCopy = {
     direction: 'Word direction',
     exit: 'Exit',
     flipHint: 'Click the card to reveal the answer',
+    markEasy: 'Remove',
+    markedEasy: 'Removed',
     back: 'Back',
     next: 'Next',
     completed: 'All words completed!',
@@ -87,6 +94,8 @@ export default function FlashcardsSession({
   onLocaleChange,
   onDirectionToggle,
   onExit,
+  easyWordKeys,
+  onMarkEasy,
 }: FlashcardsSessionProps) {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [seenCount, setSeenCount] = useState(1)
@@ -102,6 +111,7 @@ export default function FlashcardsSession({
     : currentEntry.dutch)
   const frontLabel = direction === 'dutch-to-translation' ? copy.question : copy.answer
   const backLabel = direction === 'dutch-to-translation' ? copy.answer : copy.question
+  const isEasy = currentEntry ? easyWordKeys.has(getVocabularyEntryKey(currentEntry)) : false
 
   function advance() {
     const nextIndex = currentIndex + 1
@@ -176,6 +186,20 @@ export default function FlashcardsSession({
                 key={currentIndex}
               />
               <div className="card-navigation">
+                {currentEntry && (
+                  <button
+                    aria-pressed={isEasy}
+                    className="easy-button"
+                    disabled={isEasy}
+                    onClick={() => {
+                      onMarkEasy(currentEntry)
+                      advance()
+                    }}
+                    type="button"
+                  >
+                    {isEasy ? copy.markedEasy : copy.markEasy}
+                  </button>
+                )}
                 <button className="next-button" disabled={currentIndex === 0} onClick={goBack} type="button"><span aria-hidden="true">←</span>{copy.back}</button>
                 <button className="next-button" onClick={advance} type="button">{copy.next}<span aria-hidden="true">→</span></button>
               </div>
