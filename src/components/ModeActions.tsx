@@ -5,6 +5,9 @@ interface ModeActionsProps {
   emptySelectionLabel: string
   wordCount: number
   onStartFlashcards: () => void
+  onStartTest: () => void
+  testDisabled: boolean
+  testUnavailableLabel: string
   removedWordCount: number
   removedWordsLabel: string
   resetRemovedWordsLabel: string
@@ -18,6 +21,9 @@ export default function ModeActions({
   emptySelectionLabel,
   wordCount,
   onStartFlashcards,
+  onStartTest,
+  testDisabled,
+  testUnavailableLabel,
   removedWordCount,
   removedWordsLabel,
   resetRemovedWordsLabel,
@@ -38,7 +44,8 @@ export default function ModeActions({
           {resetRemovedWordsLabel}
         </button>
       </div>
-      <button className="mode-button" type="button">{testLabel}</button>
+      <button className="mode-button" disabled={testDisabled} onClick={onStartTest} type="button">{testLabel}</button>
+      {testDisabled && wordCount > 0 && <p className="mode-hint">{testUnavailableLabel}</p>}
       <button className="mode-button" disabled={wordCount === 0} onClick={onStartFlashcards} type="button">{flashcardsLabel}</button>
       <div aria-live="polite" className="selection-summary">
         <span className="selection-count">{wordCount}</span>
