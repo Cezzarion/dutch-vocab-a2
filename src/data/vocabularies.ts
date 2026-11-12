@@ -1,4 +1,4 @@
-import type { Locale, VocabularyDictionary, VocabularyEntry } from '../types/vocabulary'
+import type { VocabularyDictionary, VocabularyEntry } from '../types/vocabulary'
 
 function isObject(value: unknown): value is Record<string, unknown> {
   return typeof value === 'object' && value !== null && !Array.isArray(value)
@@ -24,19 +24,13 @@ function parseEntry(value: unknown, file: string): VocabularyEntry {
 }
 
 function parseDictionary(file: string, value: unknown): VocabularyDictionary {
-  if (!isObject(value) || value.schemaVersion !== 1 || !isObject(value.title) || !Array.isArray(value.entries)) {
-    throw new Error(`Invalid vocabulary dictionary ${file}: expected schemaVersion 1, localized title, and entries`)
-  }
-
-  const title = value.title
-  const locales: Locale[] = ['en', 'ru']
-  if (!locales.every((locale) => isNonEmptyString(title[locale]))) {
-    throw new Error(`Invalid vocabulary dictionary ${file}: title must include non-empty en and ru strings`)
+  if (!isObject(value) || value.schemaVersion !== 1 || !isNonEmptyString(value.title) || !Array.isArray(value.entries)) {
+    throw new Error(`Invalid vocabulary dictionary ${file}: expected schemaVersion 1, string title, and entries`)
   }
 
   return {
     id: file,
-    title: { en: title.en as string, ru: title.ru as string },
+    title: value.title,
     entries: value.entries.map((entry) => parseEntry(entry, file)),
   }
 }

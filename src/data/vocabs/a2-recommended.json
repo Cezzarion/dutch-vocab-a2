@@ -1,9 +1,6 @@
 {
   "schemaVersion": 1,
-  "title": {
-    "en": "A2 base list",
-    "ru": "A2 базовые слова"
-  },
+  "title": "A2 Basis",
   "entries": [
     {
       "type_en": "verb",

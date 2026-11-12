@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "title": "Wonen in Nederland",
+  "entries": [
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het afval, —",
+      "russian": "мусор",
+      "english": "waste"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de afvalstoffenheffing, afvalstoffenheffingen",
+      "russian": "сбор за вывоз отходов",
+      "english": "waste collection tax"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "beschermen, beschermd",
+      "russian": "защищать",
+      "english": "to protect"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "besparen, bespaard",
+      "russian": "экономить",
+      "english": "to save"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de dijk, dijken",
+      "russian": "дамба",
+      "english": "dike"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de eengezinswoning, eengezinswoningen",
+      "russian": "односемейный дом",
+      "english": "single-family home"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de energie, energieën",
+      "russian": "энергия",
+      "english": "energy"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het energiecontract, energiecontracten",
+      "russian": "договор на поставку энергии",
+      "english": "energy contract"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de Europese Unie (EU), —",
+      "russian": "Европейский союз",
+      "english": "European Union"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de haven, havens",
+      "russian": "порт",
+      "english": "port"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de hoofdstad, hoofdsteden",
+      "russian": "столица",
+      "english": "capital city"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het huurcontract, huurcontracten",
+      "russian": "договор аренды",
+      "english": "rental contract"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de huurtoeslag, huurtoeslagen",
+      "russian": "пособие на аренду жилья",
+      "english": "rent allowance"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de hypotheek, hypotheken",
+      "russian": "ипотека",
+      "english": "mortgage"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de inwoner, inwoners",
+      "russian": "житель",
+      "english": "inhabitant"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de kwijtschelding, kwijtscheldingen",
+      "russian": "освобождение от уплаты",
+      "english": "remission"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de leverancier, leveranciers",
+      "russian": "поставщик",
+      "english": "supplier"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de makelaar, makelaars",
+      "russian": "агент по недвижимости",
+      "english": "real estate agent"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de meterstand, meterstanden",
+      "russian": "показания счётчика",
+      "english": "meter reading"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het milieu, —",
+      "russian": "окружающая среда",
+      "english": "environment"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de notaris, notarissen",
+      "russian": "нотариус",
+      "english": "notary"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het onderhoud, —",
+      "russian": "обслуживание",
+      "english": "maintenance"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "onderhouden, onderhouden",
+      "russian": "обслуживать",
+      "english": "to maintain"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de onroerendezaakbelasting (OZB), onroerendezaakbelastingen (OZB)",
+      "russian": "налог на недвижимость",
+      "english": "property tax"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het openbaar vervoer (OV), —",
+      "russian": "общественный транспорт",
+      "english": "public transport"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "opzeggen, opgezegd",
+      "russian": "расторгать",
+      "english": "to cancel"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de overstroming, overstromingen",
+      "russian": "наводнение",
+      "english": "flood"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de polder, polders",
+      "russian": "польдер",
+      "english": "polder"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de provincie, provincies",
+      "russian": "провинция",
+      "english": "province"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de regering, regeringen",
+      "russian": "правительство",
+      "english": "government"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het riool, riolen",
+      "russian": "канализация",
+      "english": "sewer"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "scheiden (afval), gescheiden",
+      "russian": "сортировать (отходы)",
+      "english": "to separate (waste)"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de sociale huur, —",
+      "russian": "социальная аренда жилья",
+      "english": "social housing"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het statiegeld, —",
+      "russian": "залог за тару",
+      "english": "deposit"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de storing, storingen",
+      "russian": "неисправность",
+      "english": "malfunction"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de urgentieverklaring, urgentieverklaringen",
+      "russian": "справка о срочной необходимости жилья",
+      "english": "urgency declaration"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de verhuurder, verhuurders",
+      "russian": "арендодатель",
+      "english": "landlord"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de vertraging, vertragingen",
+      "russian": "задержка",
+      "english": "delay"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het vervoersbewijs, vervoersbewijzen",
+      "russian": "проездной документ",
+      "english": "transport ticket"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de verzekering, verzekeringen",
+      "russian": "страхование",
+      "english": "insurance"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de vrije sector, vrije sectoren",
+      "russian": "свободный сегмент",
+      "english": "unregulated rental sector"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de woningcorporatie, woningcorporaties",
+      "russian": "жилищная корпорация",
+      "english": "housing association"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de woningzoekende, woningzoekenden",
+      "russian": "человек, ищущий жильё",
+      "english": "house seeker"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de zeespiegel, zeespiegels",
+      "russian": "уровень моря",
+      "english": "sea level"
+    }
+  ]
+}

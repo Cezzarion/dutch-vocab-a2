@@ -25,8 +25,8 @@ const duplicateNoun: VocabularyEntry = {
 }
 
 const dictionaries: VocabularyDictionary[] = [
-  { id: 'first.json', title: { en: 'First', ru: 'Первый' }, entries: [verb, noun] },
-  { id: 'second.json', title: { en: 'Second', ru: 'Второй' }, entries: [duplicateNoun] },
+  { id: 'first.json', title: 'Eerste', entries: [verb, noun] },
+  { id: 'second.json', title: 'Tweede', entries: [duplicateNoun] },
 ]
 
 describe('getSelectedEntries', () => {

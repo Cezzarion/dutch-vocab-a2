@@ -10,7 +10,7 @@ export interface VocabularyEntry {
 
 export interface VocabularyDictionary {
   id: string
-  title: Record<Locale, string>
+  title: string
   entries: VocabularyEntry[]
 }
 

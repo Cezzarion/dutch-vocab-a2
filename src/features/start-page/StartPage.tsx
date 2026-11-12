@@ -8,6 +8,7 @@ import { loadEasyWordKeys, saveEasyWordKeys } from '../../data/easyWords'
 import type { Locale, VocabularyEntry } from '../../types/vocabulary'
 import { startPageCopy } from './copy'
 import FlashcardsSession from '../flashcards/FlashcardsSession'
+import TestSession from '../test/TestSession'
 
 export default function StartPage() {
   const [locale, setLocale] = useState<Locale>('ru')
@@ -19,6 +20,7 @@ export default function StartPage() {
     () => new Set(vocabularyEntries.map(({ type_en }) => type_en)),
   )
   const [flashcardEntries, setFlashcardEntries] = useState<typeof vocabularyEntries | null>(null)
+  const [testEntries, setTestEntries] = useState<typeof vocabularyEntries | null>(null)
   const [easyWordKeys, setEasyWordKeys] = useState(loadEasyWordKeys)
 
   const copy = startPageCopy[locale]
@@ -26,7 +28,7 @@ export default function StartPage() {
     id,
     label: locale === 'en' ? id : label,
   }))
-  const dictionaryOptions = vocabularies.map(({ id, title }) => ({ id, label: title[locale] }))
+  const dictionaryOptions = vocabularies.map(({ id, title }) => ({ id, label: title }))
   const dictionaryIds = dictionaryOptions.map(({ id }) => id)
   const typeIds = typeOptions.map(({ id }) => id)
   const selectedEntries = useMemo(
@@ -36,6 +38,14 @@ export default function StartPage() {
     ),
     [selectedDictionaryIds, selectedTypeIds, easyWordKeys],
   )
+  const testEntriesAvailable = useMemo(() => {
+    const countsByType = new Map<string, number>()
+    for (const entry of selectedEntries) {
+      countsByType.set(entry.type_en, (countsByType.get(entry.type_en) ?? 0) + 1)
+    }
+    return selectedEntries.filter((entry) => (countsByType.get(entry.type_en) ?? 0) >= 6)
+  }, [selectedEntries])
+  const testCanStart = testEntriesAvailable.length > 0
 
   function markEasy(entry: VocabularyEntry) {
     const key = getVocabularyEntryKey(entry)
@@ -64,12 +74,24 @@ export default function StartPage() {
           current === 'dutch-to-translation' ? 'translation-to-dutch' : 'dutch-to-translation')}
         onExit={() => {
           setFlashcardEntries(null)
-          setLocale('ru')
-          setDirection('dutch-to-translation')
-          setSelectedDictionaryIds(new Set(vocabularies.map(({ id }) => id)))
-          setSelectedTypeIds(new Set(vocabularyEntries.map(({ type_en }) => type_en)))
         }}
         onLocaleChange={setLocale}
+        onMarkEasy={markEasy}
+      />
+    )
+  }
+
+  if (testEntries) {
+    return (
+      <TestSession
+        direction={direction}
+        entries={testEntries}
+        locale={locale}
+        onDirectionToggle={() => setDirection((current) =>
+          current === 'dutch-to-translation' ? 'translation-to-dutch' : 'dutch-to-translation')}
+        onExit={() => setTestEntries(null)}
+        onLocaleChange={setLocale}
+        easyWordKeys={easyWordKeys}
         onMarkEasy={markEasy}
       />
     )
@@ -119,6 +141,9 @@ export default function StartPage() {
           <ModeActions
             emptySelectionLabel={copy.emptySelection}
             flashcardsLabel={copy.flashcards}
+            onStartTest={() => setTestEntries(testEntriesAvailable)}
+            testDisabled={!testCanStart}
+            testUnavailableLabel={copy.testUnavailable}
             onResetRemovedWords={resetEasyWords}
             onStartFlashcards={() => setFlashcardEntries(shuffleEntries(selectedEntries))}
             removedWordCount={easyWordKeys.size}

@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "title": "Instanties in Nederland",
+  "entries": [
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "aangifte doen, aangifte gedaan",
+      "russian": "подать заявление",
+      "english": "to file a report"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de advocaat, advocaten",
+      "russian": "адвокат",
+      "english": "lawyer"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de asielzoeker, asielzoekers",
+      "russian": "проситель убежища",
+      "english": "asylum seeker"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de Belastingdienst, —",
+      "russian": "налоговая служба",
+      "english": "Tax and Customs Administration"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de bepaalde tijd, bepaalde tijden",
+      "russian": "определённый срок",
+      "english": "fixed term"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het bezwaar, bezwaren",
+      "russian": "возражение",
+      "english": "objection"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de corruptie, —",
+      "russian": "коррупция",
+      "english": "corruption"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "financieel",
+      "russian": "финансовый",
+      "english": "financial"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "geldig",
+      "russian": "действительный",
+      "english": "valid"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de GGD (Gemeentelijke Gezondheidsdienst), GGD’s",
+      "russian": "муниципальная служба здравоохранения",
+      "english": "municipal health service"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de huwelijksmigrant, huwelijksmigranten",
+      "russian": "брачный мигрант",
+      "english": "marriage migrant"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het identiteitsbewijs (ID), identiteitsbewijzen (ID)",
+      "russian": "удостоверение личности",
+      "english": "identity document"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de inboedelverzekering, inboedelverzekeringen",
+      "russian": "страхование домашнего имущества",
+      "english": "contents insurance"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de inburgeraar, inburgeraars",
+      "russian": "участник программы интеграции",
+      "english": "integration programme participant"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de IND (Immigratie- en Naturalisatiedienst), —",
+      "russian": "Служба иммиграции и натурализации",
+      "english": "Immigration and Naturalisation Service"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de inkomstenbelasting, inkomstenbelastingen",
+      "russian": "подоходный налог",
+      "english": "income tax"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de instantie, instanties",
+      "russian": "учреждение",
+      "english": "authority"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het Juridisch Loket, —",
+      "russian": "юридическая консультация",
+      "english": "Legal Services Desk"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de klacht, klachten",
+      "russian": "жалоба",
+      "english": "complaint"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het maatschappelijk werk, —",
+      "russian": "социальная работа",
+      "english": "social work"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de migrant, migranten",
+      "russian": "мигрант",
+      "english": "migrant"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de nationaliteit, nationaliteiten",
+      "russian": "гражданство",
+      "english": "nationality"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de naturalisatie, naturalisaties",
+      "russian": "натурализация",
+      "english": "naturalisation"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de ombudsman, ombudsmannen",
+      "russian": "омбудсмен",
+      "english": "ombudsman"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de onbepaalde tijd, onbepaalde tijden",
+      "russian": "неопределённый срок",
+      "english": "indefinite term"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de opstalverzekering, opstalverzekeringen",
+      "russian": "страхование недвижимости",
+      "english": "building insurance"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de organisatie, organisaties",
+      "russian": "организация",
+      "english": "organization"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de overheid, overheden",
+      "russian": "государство",
+      "english": "government"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de polis, polissen",
+      "russian": "страховой полис",
+      "english": "insurance policy"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de privacy, —",
+      "russian": "неприкосновенность частной жизни",
+      "english": "privacy"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het rijbewijs, rijbewijzen",
+      "russian": "водительские права",
+      "english": "driver’s license"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de schade, —",
+      "russian": "ущерб",
+      "english": "damage"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de schuld, schulden",
+      "russian": "долги",
+      "english": "debts"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de statushouder, statushouders",
+      "russian": "обладатель статуса беженца",
+      "english": "residence permit holder"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de toeslag, toeslagen",
+      "russian": "пособие",
+      "english": "allowance"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de verblijfsvergunning, verblijfsvergunningen",
+      "russian": "вид на жительство",
+      "english": "residence permit"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "verlengen, verlengd",
+      "russian": "продлевать",
+      "english": "to extend"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de verzekering, verzekeringen",
+      "russian": "страхование",
+      "english": "insurance"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de verzekeringsmaatschappij, verzekeringsmaatschappijen",
+      "russian": "страховая компания",
+      "english": "insurance company"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de WA-verzekering (wettelijke aansprakelijkheid), WA-verzekeringen",
+      "russian": "страхование гражданской ответственности",
+      "english": "third-party liability insurance"
+    }
+  ]
+}

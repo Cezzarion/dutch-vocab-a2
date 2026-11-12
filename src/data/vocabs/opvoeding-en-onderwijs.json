@@ -1,0 +1,335 @@
+{
+  "schemaVersion": 1,
+  "title": "Opvoeding en onderwijs",
+  "entries": [
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de beroepsopleiding, beroepsopleidingen",
+      "russian": "профессиональное образование",
+      "english": "vocational education"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de besnijdenis, besnijdenissen",
+      "russian": "обрезание",
+      "english": "circumcision"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de bevalling, bevallingen",
+      "russian": "роды",
+      "english": "childbirth"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de bijscholing, bijscholingen",
+      "russian": "повышение квалификации",
+      "english": "further training"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de brugklas, brugklassen",
+      "russian": "первый класс средней школы",
+      "english": "first year of secondary school"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de buitenschoolse opvang (BSO), —",
+      "russian": "внешкольный присмотр",
+      "english": "out-of-school care"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het consultatiebureau, consultatiebureaus",
+      "russian": "детская консультация",
+      "english": "child health clinic"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "doorstromen, doorgestroomd",
+      "russian": "переходить на следующий уровень",
+      "english": "to progress"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de DUO (Dienst Uitvoering Onderwijs), —",
+      "russian": "Служба исполнения образовательных программ",
+      "english": "Education Executive Agency"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de gastouder, gastouders",
+      "russian": "няня",
+      "english": "childminder"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de geboortezorg, —",
+      "russian": "помощь при родах",
+      "english": "maternity care"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het gedragsprobleem, gedragsproblemen",
+      "russian": "проблема поведения",
+      "english": "behavioural problem"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de havo, havo's",
+      "russian": "старшая средняя школа (HAVO)",
+      "english": " senior general secondary education"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het hbo (hoger beroepsonderwijs), —",
+      "russian": "высшее профессиональное образование",
+      "english": "higher professional education"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het IDW (internationale diplomawaardering), —",
+      "russian": "служба оценки иностранных дипломов",
+      "english": "International Credential Evaluation"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de jeugdzorg, —",
+      "russian": "служба помощи молодёжи",
+      "english": "youth care"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de kinderbescherming, —",
+      "russian": "защита детей",
+      "english": "child protection"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de kinderbijslag, —",
+      "russian": "детское пособие",
+      "english": "child benefit"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de kinderopvang, —",
+      "russian": "уход за детьми",
+      "english": "childcare"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de kinderopvangtoeslag, kinderopvangtoeslagen",
+      "russian": "пособие на детский сад",
+      "english": "childcare benefit"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de leerplicht, —",
+      "russian": "обязательное школьное обучение",
+      "english": "compulsory education"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het leerprobleem, leerproblemen",
+      "russian": "проблема с обучением",
+      "english": "learning problem"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het mbo (middelbaar beroepsonderwijs), —",
+      "russian": "среднее профессиональное образование",
+      "english": "secondary vocational education"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de middelbare school, middelbare scholen",
+      "russian": "средняя школа",
+      "english": "secondary school"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de mishandeling, mishandelingen",
+      "russian": "жестокое обращение",
+      "english": "abuse"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het onderwijs, —",
+      "russian": "образование",
+      "english": "education"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de ontwikkeling, ontwikkelingen",
+      "russian": "развитие",
+      "english": "development"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de opleiding, opleidingen",
+      "russian": "образование",
+      "english": "course"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de opvang, —",
+      "russian": "присмотр",
+      "english": "care"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de opvoeding, —",
+      "russian": "воспитание",
+      "english": "upbringing"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de ouderavond, ouderavonden",
+      "russian": "родительское собрание",
+      "english": "parents' evening"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de ouderbijdrage, ouderbijdragen",
+      "russian": "родительский взнос",
+      "english": "parental contribution"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de peuter, peuters",
+      "russian": "ребёнок младшего дошкольного возраста",
+      "english": "toddler"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het rapport, rapporten",
+      "russian": "табель",
+      "english": "report"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het schoolreisje, schoolreisjes",
+      "russian": "школьная экскурсия",
+      "english": "school trip"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "studeren, gestudeerd",
+      "russian": "учиться",
+      "english": "to study"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de studie, studies",
+      "russian": "учёба",
+      "english": "study"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de SVB (Sociale Verzekeringsbank), —",
+      "russian": "Банк социального страхования",
+      "english": "Social Insurance Bank"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de vaccinatie, vaccinaties",
+      "russian": "вакцинация",
+      "english": "vaccination"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "verantwoordelijk",
+      "russian": "ответственный",
+      "english": "responsible"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het vmbo, —",
+      "russian": "предпрофессиональное среднее образование",
+      "english": "pre-vocational secondary education"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de voorschool, voorscholen",
+      "russian": "дошкольное учреждение",
+      "english": "preschool"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het voortgezet onderwijs, —",
+      "russian": "среднее образование",
+      "english": "secondary education"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het vwo, —",
+      "russian": "предуниверситетское среднее образование",
+      "english": "pre-university education"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "waarderen (diploma), gewaardeerd",
+      "russian": "признавать (диплом)",
+      "english": "to assess (a diploma)"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het wo (wetenschappelijk onderwijs), —",
+      "russian": "университетское образование",
+      "english": "university education"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de zwangerschap, zwangerschappen",
+      "russian": "беременность",
+      "english": "pregnancy"
+    }
+  ]
+}

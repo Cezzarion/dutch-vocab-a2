@@ -1,0 +1,475 @@
+{
+  "schemaVersion": 1,
+  "title": "Werken in Nederland",
+  "entries": [
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het arbeidscontract, arbeidscontracten",
+      "russian": "трудовой договор",
+      "english": "employment contract"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de arbeidsmarkt, arbeidsmarkten",
+      "russian": "рынок труда",
+      "english": "labour market"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de arbeidsomstandigheden, —",
+      "russian": "условия труда",
+      "english": "working conditions"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "arbeidsongeschikt",
+      "russian": "нетрудоспособный",
+      "english": "incapacitated for work"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de arbeidsovereenkomst, arbeidsovereenkomsten",
+      "russian": "трудовое соглашение",
+      "english": "employment agreement"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de arbeidsvoorwaarde, arbeidsvoorwaarden",
+      "russian": "условие труда",
+      "english": "employment condition"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het bedrijf, bedrijven",
+      "russian": "компания",
+      "english": "company"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de belasting, belastingen",
+      "russian": "налог",
+      "english": "tax"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het beoordelingsgesprek, beoordelingsgesprekken",
+      "russian": "оценочная беседа",
+      "english": "performance review"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de bepaalde tijd, bepaalde tijden",
+      "russian": "определённый срок",
+      "english": "fixed term"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "beschikbaar",
+      "russian": "доступный",
+      "english": "available"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de bijstand, —",
+      "russian": "социальная помощь",
+      "english": "social assistance"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "bruto",
+      "russian": "брутто",
+      "english": "gross"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de cao (collectieve arbeidsovereenkomst), cao’s",
+      "russian": "коллективный трудовой договор",
+      "english": "collective labour agreement"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de collega, collega’s",
+      "russian": "коллега",
+      "english": "colleague"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de competentie, competenties",
+      "russian": "компетенция",
+      "english": "competence"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het cv (curriculum vitae), cv’s",
+      "russian": "резюме",
+      "english": "CV"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de deeltijd, —",
+      "russian": "неполный рабочий день",
+      "english": "part-time"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de discriminatie, discriminaties",
+      "russian": "дискриминация",
+      "english": "discrimination"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de ervaring, ervaringen",
+      "russian": "опыт",
+      "english": "experience"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "fulltime",
+      "russian": "полный рабочий день",
+      "english": "full-time"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de functie, functies",
+      "russian": "должность",
+      "english": "position"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "functioneren, gefunctioneerd",
+      "russian": "работать",
+      "english": "to function"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "geschikt",
+      "russian": "подходящий",
+      "english": "suitable"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het inkomen, inkomens",
+      "russian": "доход",
+      "english": "income"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de jaaropgave, jaaropgaven",
+      "russian": "годовая справка о доходах",
+      "english": "annual income statement"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de Kamer van Koophandel (KvK), —",
+      "russian": "Торговая палата",
+      "english": "Chamber of Commerce"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de leidinggevende, leidinggevenden",
+      "russian": "руководитель",
+      "english": "manager"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de loondienst, —",
+      "russian": "работа по найму",
+      "english": "employment"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de loonstrook, loonstroken",
+      "russian": "расчётный лист",
+      "english": "payslip"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de MAP (module arbeidsmarkt en participatie), —",
+      "russian": "модуль «Рынок труда и участие»",
+      "english": "Labour Market and Participation module"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de medezeggenschapsraad (MR), medezeggenschapsraden (MR)",
+      "russian": "совет работников",
+      "english": "works council"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het minimumloon, minimumlonen",
+      "russian": "минимальная заработная плата",
+      "english": "minimum wage"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de motivatie, motivaties",
+      "russian": "мотивация",
+      "english": "motivation"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "netto",
+      "russian": "нетто",
+      "english": "net"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het netwerk, netwerken",
+      "russian": "сеть",
+      "english": "network"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de ondernemer, ondernemers",
+      "russian": "предприниматель",
+      "english": "entrepreneur"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de ondernemingsraad (OR), ondernemingsraden (OR)",
+      "russian": "совет предприятия",
+      "english": "works council"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "onregelmatig (werk)",
+      "russian": "нерегулярный (график работы)",
+      "english": "irregular (working hours)"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "ontslaan, ontslagen",
+      "russian": "увольнять",
+      "english": "to dismiss"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het ontslag, ontslagen",
+      "russian": "увольнение",
+      "english": "dismissal"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "parttime",
+      "russian": "неполный рабочий день",
+      "english": "part-time"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het pensioen, pensioenen",
+      "russian": "пенсия",
+      "english": "pension"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het personeel, —",
+      "russian": "персонал",
+      "english": "staff"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de personeelsvereniging (PV), personeelsverenigingen (PV)",
+      "russian": "объединение работников",
+      "english": "staff association"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "regelmatig (werk)",
+      "russian": "регулярный (график работы)",
+      "english": "regular (working hours)"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de salarisstrook, salarisstroken",
+      "russian": "расчётный лист зарплаты",
+      "english": "payslip"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de sector, sectoren",
+      "russian": "сектор",
+      "english": "sector"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de sollicitatie, sollicitaties",
+      "russian": "заявление о приёме на работу",
+      "english": "job application"
+    },
+    {
+      "type_en": "verb",
+      "type_ru": "глагол",
+      "dutch": "solliciteren, gesolliciteerd",
+      "russian": "подавать заявление о приёме на работу",
+      "english": "to apply for a job"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de stage, stages",
+      "russian": "стажировка",
+      "english": "internship"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de uitkering, uitkeringen",
+      "russian": "пособие",
+      "english": "benefit"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het uitzendbureau, uitzendbureaus",
+      "russian": "агентство по трудоустройству",
+      "english": "employment agency"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het UWV, —",
+      "russian": "Агентство страхования работников",
+      "english": "Employee Insurance Agency"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de vacature, vacatures",
+      "russian": "вакансия",
+      "english": "vacancy"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de vakbond, vakbonden",
+      "russian": "профсоюз",
+      "english": "trade union"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de vertrouwenspersoon, vertrouwenspersonen",
+      "russian": "доверенное лицо",
+      "english": "confidential adviser"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de verzekering, verzekeringen",
+      "russian": "страхование",
+      "english": "insurance"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de voltijd, —",
+      "russian": "полный рабочий день",
+      "english": "full-time"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "het vrijwilligerswerk, —",
+      "russian": "волонтёрская работа",
+      "english": "volunteer work"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de werkgever, werkgevers",
+      "russian": "работодатель",
+      "english": "employer"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "werkloos",
+      "russian": "безработный",
+      "english": "unemployed"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de werknemer, werknemers",
+      "russian": "работник",
+      "english": "employee"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de WIA-uitkering, wia-uitkeringen",
+      "russian": "пособие по нетрудоспособности WIA",
+      "english": "WIA disability benefit"
+    },
+    {
+      "type_en": "adjective",
+      "type_ru": "прилагательное",
+      "dutch": "zelfstandig",
+      "russian": "самостоятельный",
+      "english": "self-employed"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de ziektewet, ziektewetten",
+      "russian": "закон о больничных выплатах",
+      "english": "Sickness Benefits Act"
+    },
+    {
+      "type_en": "noun",
+      "type_ru": "существительное",
+      "dutch": "de zzp’er, zzp’ers",
+      "russian": "самозанятый",
+      "english": "self-employed person"
+    }
+  ]
+}
