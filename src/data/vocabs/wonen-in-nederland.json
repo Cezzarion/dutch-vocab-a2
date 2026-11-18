@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Wonen in Nederland",
   "entries": [
     {
@@ -7,308 +7,352 @@
       "type_ru": "существительное",
       "dutch": "het afval, —",
       "russian": "мусор",
-      "english": "waste"
+      "english": "waste",
+      "example": "Het afval is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de afvalstoffenheffing, afvalstoffenheffingen",
       "russian": "сбор за вывоз отходов",
-      "english": "waste collection tax"
+      "english": "waste collection tax",
+      "example": "De afvalstoffenheffing is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "beschermen, beschermd",
       "russian": "защищать",
-      "english": "to protect"
+      "english": "to protect",
+      "example": "Wij beschermen de natuur samen."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "besparen, bespaard",
       "russian": "экономить",
-      "english": "to save"
+      "english": "to save",
+      "example": "Ik bespaar vandaag veel geld."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de dijk, dijken",
       "russian": "дамба",
-      "english": "dike"
+      "english": "dike",
+      "example": "De dijk is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de eengezinswoning, eengezinswoningen",
       "russian": "односемейный дом",
-      "english": "single-family home"
+      "english": "single-family home",
+      "example": "De eengezinswoning is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de energie, energieën",
       "russian": "энергия",
-      "english": "energy"
+      "english": "energy",
+      "example": "De energie is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het energiecontract, energiecontracten",
       "russian": "договор на поставку энергии",
-      "english": "energy contract"
+      "english": "energy contract",
+      "example": "Het energiecontract is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de Europese Unie (EU), —",
       "russian": "Европейский союз",
-      "english": "European Union"
+      "english": "European Union",
+      "example": "De Europese Unie is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de haven, havens",
       "russian": "порт",
-      "english": "port"
+      "english": "port",
+      "example": "De haven is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de hoofdstad, hoofdsteden",
       "russian": "столица",
-      "english": "capital city"
+      "english": "capital city",
+      "example": "De hoofdstad is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het huurcontract, huurcontracten",
       "russian": "договор аренды",
-      "english": "rental contract"
+      "english": "rental contract",
+      "example": "Het huurcontract is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de huurtoeslag, huurtoeslagen",
       "russian": "пособие на аренду жилья",
-      "english": "rent allowance"
+      "english": "rent allowance",
+      "example": "De huurtoeslag is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de hypotheek, hypotheken",
       "russian": "ипотека",
-      "english": "mortgage"
+      "english": "mortgage",
+      "example": "De hypotheek is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de inwoner, inwoners",
       "russian": "житель",
-      "english": "inhabitant"
+      "english": "inhabitant",
+      "example": "De inwoner is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kwijtschelding, kwijtscheldingen",
       "russian": "освобождение от уплаты",
-      "english": "remission"
+      "english": "remission",
+      "example": "De kwijtschelding is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de leverancier, leveranciers",
       "russian": "поставщик",
-      "english": "supplier"
+      "english": "supplier",
+      "example": "De leverancier is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de makelaar, makelaars",
       "russian": "агент по недвижимости",
-      "english": "real estate agent"
+      "english": "real estate agent",
+      "example": "De makelaar is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de meterstand, meterstanden",
       "russian": "показания счётчика",
-      "english": "meter reading"
+      "english": "meter reading",
+      "example": "De meterstand is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het milieu, —",
       "russian": "окружающая среда",
-      "english": "environment"
+      "english": "environment",
+      "example": "Het milieu is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de notaris, notarissen",
       "russian": "нотариус",
-      "english": "notary"
+      "english": "notary",
+      "example": "De notaris is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het onderhoud, —",
       "russian": "обслуживание",
-      "english": "maintenance"
+      "english": "maintenance",
+      "example": "Het onderhoud is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "onderhouden, onderhouden",
       "russian": "обслуживать",
-      "english": "to maintain"
+      "english": "to maintain",
+      "example": "Hij onderhoudt de tuin goed."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de onroerendezaakbelasting (OZB), onroerendezaakbelastingen (OZB)",
       "russian": "налог на недвижимость",
-      "english": "property tax"
+      "english": "property tax",
+      "example": "De onroerendezaakbelasting is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het openbaar vervoer (OV), —",
       "russian": "общественный транспорт",
-      "english": "public transport"
+      "english": "public transport",
+      "example": "Het openbaar vervoer is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "opzeggen, opgezegd",
       "russian": "расторгать",
-      "english": "to cancel"
+      "english": "to cancel",
+      "example": "Ik zeg dit vandaag op."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de overstroming, overstromingen",
       "russian": "наводнение",
-      "english": "flood"
+      "english": "flood",
+      "example": "De overstroming is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de polder, polders",
       "russian": "польдер",
-      "english": "polder"
+      "english": "polder",
+      "example": "De polder is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de provincie, provincies",
       "russian": "провинция",
-      "english": "province"
+      "english": "province",
+      "example": "De provincie is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de regering, regeringen",
       "russian": "правительство",
-      "english": "government"
+      "english": "government",
+      "example": "De regering is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het riool, riolen",
       "russian": "канализация",
-      "english": "sewer"
+      "english": "sewer",
+      "example": "Het riool is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "scheiden (afval), gescheiden",
       "russian": "сортировать (отходы)",
-      "english": "to separate (waste)"
+      "english": "to separate (waste)",
+      "example": "Wij scheiden afval thuis."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de sociale huur, —",
       "russian": "социальная аренда жилья",
-      "english": "social housing"
+      "english": "social housing",
+      "example": "De sociale huur is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het statiegeld, —",
       "russian": "залог за тару",
-      "english": "deposit"
+      "english": "deposit",
+      "example": "Het statiegeld is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de storing, storingen",
       "russian": "неисправность",
-      "english": "malfunction"
+      "english": "malfunction",
+      "example": "De storing is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de urgentieverklaring, urgentieverklaringen",
       "russian": "справка о срочной необходимости жилья",
-      "english": "urgency declaration"
+      "english": "urgency declaration",
+      "example": "De urgentieverklaring is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verhuurder, verhuurders",
       "russian": "арендодатель",
-      "english": "landlord"
+      "english": "landlord",
+      "example": "De verhuurder is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vertraging, vertragingen",
       "russian": "задержка",
-      "english": "delay"
+      "english": "delay",
+      "example": "De vertraging is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het vervoersbewijs, vervoersbewijzen",
       "russian": "проездной документ",
-      "english": "transport ticket"
+      "english": "transport ticket",
+      "example": "Het vervoersbewijs is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verzekering, verzekeringen",
       "russian": "страхование",
-      "english": "insurance"
+      "english": "insurance",
+      "example": "De verzekering is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vrije sector, vrije sectoren",
       "russian": "свободный сегмент",
-      "english": "unregulated rental sector"
+      "english": "unregulated rental sector",
+      "example": "De vrije sector is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de woningcorporatie, woningcorporaties",
       "russian": "жилищная корпорация",
-      "english": "housing association"
+      "english": "housing association",
+      "example": "De woningcorporatie is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de woningzoekende, woningzoekenden",
       "russian": "человек, ищущий жильё",
-      "english": "house seeker"
+      "english": "house seeker",
+      "example": "De woningzoekende is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de zeespiegel, zeespiegels",
       "russian": "уровень моря",
-      "english": "sea level"
+      "english": "sea level",
+      "example": "De zeespiegel is hier."
     }
   ]
 }

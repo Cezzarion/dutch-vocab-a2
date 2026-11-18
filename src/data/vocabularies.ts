@@ -9,7 +9,7 @@ function isNonEmptyString(value: unknown): value is string {
 }
 
 function parseEntry(value: unknown, file: string): VocabularyEntry {
-  const fields = ['type_en', 'type_ru', 'dutch', 'russian', 'english'] as const
+  const fields = ['type_en', 'type_ru', 'dutch', 'russian', 'english', 'example'] as const
   if (!isObject(value) || !fields.every((field) => isNonEmptyString(value[field]))) {
     throw new Error(`Invalid vocabulary entry in ${file}: expected non-empty string fields ${fields.join(', ')}`)
   }
@@ -20,12 +20,13 @@ function parseEntry(value: unknown, file: string): VocabularyEntry {
     dutch: value.dutch as string,
     russian: value.russian as string,
     english: value.english as string,
+    example: value.example as string,
   }
 }
 
 function parseDictionary(file: string, value: unknown): VocabularyDictionary {
-  if (!isObject(value) || value.schemaVersion !== 1 || !isNonEmptyString(value.title) || !Array.isArray(value.entries)) {
-    throw new Error(`Invalid vocabulary dictionary ${file}: expected schemaVersion 1, string title, and entries`)
+  if (!isObject(value) || value.schemaVersion !== 2 || !isNonEmptyString(value.title) || !Array.isArray(value.entries)) {
+    throw new Error(`Invalid vocabulary dictionary ${file}: expected schemaVersion 2, string title, and entries`)
   }
 
   return {

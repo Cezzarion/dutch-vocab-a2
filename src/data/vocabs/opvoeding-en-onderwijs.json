@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Opvoeding en onderwijs",
   "entries": [
     {
@@ -7,329 +7,376 @@
       "type_ru": "существительное",
       "dutch": "de beroepsopleiding, beroepsopleidingen",
       "russian": "профессиональное образование",
-      "english": "vocational education"
+      "english": "vocational education",
+      "example": "De beroepsopleiding is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de besnijdenis, besnijdenissen",
       "russian": "обрезание",
-      "english": "circumcision"
+      "english": "circumcision",
+      "example": "De besnijdenis is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bevalling, bevallingen",
       "russian": "роды",
-      "english": "childbirth"
+      "english": "childbirth",
+      "example": "De bevalling is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bijscholing, bijscholingen",
       "russian": "повышение квалификации",
-      "english": "further training"
+      "english": "further training",
+      "example": "De bijscholing is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de brugklas, brugklassen",
       "russian": "первый класс средней школы",
-      "english": "first year of secondary school"
+      "english": "first year of secondary school",
+      "example": "De brugklas is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de buitenschoolse opvang (BSO), —",
       "russian": "внешкольный присмотр",
-      "english": "out-of-school care"
+      "english": "out-of-school care",
+      "example": "De buitenschoolse opvang is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het consultatiebureau, consultatiebureaus",
       "russian": "детская консультация",
-      "english": "child health clinic"
+      "english": "child health clinic",
+      "example": "Het consultatiebureau is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "doorstromen, doorgestroomd",
       "russian": "переходить на следующий уровень",
-      "english": "to progress"
+      "english": "to progress",
+      "example": "Wij stromen later snel door."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de DUO (Dienst Uitvoering Onderwijs), —",
       "russian": "Служба исполнения образовательных программ",
-      "english": "Education Executive Agency"
+      "english": "Education Executive Agency",
+      "example": "De DUO is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de gastouder, gastouders",
       "russian": "няня",
-      "english": "childminder"
+      "english": "childminder",
+      "example": "De gastouder is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de geboortezorg, —",
       "russian": "помощь при родах",
-      "english": "maternity care"
+      "english": "maternity care",
+      "example": "De geboortezorg is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het gedragsprobleem, gedragsproblemen",
       "russian": "проблема поведения",
-      "english": "behavioural problem"
+      "english": "behavioural problem",
+      "example": "Het gedragsprobleem is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de havo, havo's",
       "russian": "старшая средняя школа (HAVO)",
-      "english": " senior general secondary education"
+      "english": " senior general secondary education",
+      "example": "De havo is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het hbo (hoger beroepsonderwijs), —",
       "russian": "высшее профессиональное образование",
-      "english": "higher professional education"
+      "english": "higher professional education",
+      "example": "Het hbo is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het IDW (internationale diplomawaardering), —",
       "russian": "служба оценки иностранных дипломов",
-      "english": "International Credential Evaluation"
+      "english": "International Credential Evaluation",
+      "example": "Het IDW is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de jeugdzorg, —",
       "russian": "служба помощи молодёжи",
-      "english": "youth care"
+      "english": "youth care",
+      "example": "De jeugdzorg is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kinderbescherming, —",
       "russian": "защита детей",
-      "english": "child protection"
+      "english": "child protection",
+      "example": "De kinderbescherming is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kinderbijslag, —",
       "russian": "детское пособие",
-      "english": "child benefit"
+      "english": "child benefit",
+      "example": "De kinderbijslag is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kinderopvang, —",
       "russian": "уход за детьми",
-      "english": "childcare"
+      "english": "childcare",
+      "example": "De kinderopvang is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kinderopvangtoeslag, kinderopvangtoeslagen",
       "russian": "пособие на детский сад",
-      "english": "childcare benefit"
+      "english": "childcare benefit",
+      "example": "De kinderopvangtoeslag is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de leerplicht, —",
       "russian": "обязательное школьное обучение",
-      "english": "compulsory education"
+      "english": "compulsory education",
+      "example": "De leerplicht is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het leerprobleem, leerproblemen",
       "russian": "проблема с обучением",
-      "english": "learning problem"
+      "english": "learning problem",
+      "example": "Het leerprobleem is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het mbo (middelbaar beroepsonderwijs), —",
       "russian": "среднее профессиональное образование",
-      "english": "secondary vocational education"
+      "english": "secondary vocational education",
+      "example": "Het mbo is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de middelbare school, middelbare scholen",
       "russian": "средняя школа",
-      "english": "secondary school"
+      "english": "secondary school",
+      "example": "De middelbare school is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de mishandeling, mishandelingen",
       "russian": "жестокое обращение",
-      "english": "abuse"
+      "english": "abuse",
+      "example": "De mishandeling is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het onderwijs, —",
       "russian": "образование",
-      "english": "education"
+      "english": "education",
+      "example": "Het onderwijs is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de ontwikkeling, ontwikkelingen",
       "russian": "развитие",
-      "english": "development"
+      "english": "development",
+      "example": "De ontwikkeling is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de opleiding, opleidingen",
       "russian": "образование",
-      "english": "course"
+      "english": "course",
+      "example": "De opleiding is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de opvang, —",
       "russian": "присмотр",
-      "english": "care"
+      "english": "care",
+      "example": "De opvang is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de opvoeding, —",
       "russian": "воспитание",
-      "english": "upbringing"
+      "english": "upbringing",
+      "example": "De opvoeding is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de ouderavond, ouderavonden",
       "russian": "родительское собрание",
-      "english": "parents' evening"
+      "english": "parents' evening",
+      "example": "De ouderavond is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de ouderbijdrage, ouderbijdragen",
       "russian": "родительский взнос",
-      "english": "parental contribution"
+      "english": "parental contribution",
+      "example": "De ouderbijdrage is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de peuter, peuters",
       "russian": "ребёнок младшего дошкольного возраста",
-      "english": "toddler"
+      "english": "toddler",
+      "example": "De peuter is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het rapport, rapporten",
       "russian": "табель",
-      "english": "report"
+      "english": "report",
+      "example": "Het rapport is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het schoolreisje, schoolreisjes",
       "russian": "школьная экскурсия",
-      "english": "school trip"
+      "english": "school trip",
+      "example": "Het schoolreisje is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "studeren, gestudeerd",
       "russian": "учиться",
-      "english": "to study"
+      "english": "to study",
+      "example": "Jullie studeren vandaag thuis."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de studie, studies",
       "russian": "учёба",
-      "english": "study"
+      "english": "study",
+      "example": "De studie is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de SVB (Sociale Verzekeringsbank), —",
       "russian": "Банк социального страхования",
-      "english": "Social Insurance Bank"
+      "english": "Social Insurance Bank",
+      "example": "De SVB is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vaccinatie, vaccinaties",
       "russian": "вакцинация",
-      "english": "vaccination"
+      "english": "vaccination",
+      "example": "De vaccinatie is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "verantwoordelijk",
       "russian": "ответственный",
-      "english": "responsible"
+      "english": "responsible",
+      "example": "Een verantwoordelijke persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het vmbo, —",
       "russian": "предпрофессиональное среднее образование",
-      "english": "pre-vocational secondary education"
+      "english": "pre-vocational secondary education",
+      "example": "Het vmbo is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de voorschool, voorscholen",
       "russian": "дошкольное учреждение",
-      "english": "preschool"
+      "english": "preschool",
+      "example": "De voorschool is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het voortgezet onderwijs, —",
       "russian": "среднее образование",
-      "english": "secondary education"
+      "english": "secondary education",
+      "example": "Het voortgezet onderwijs is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het vwo, —",
       "russian": "предуниверситетское среднее образование",
-      "english": "pre-university education"
+      "english": "pre-university education",
+      "example": "Het vwo is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "waarderen (diploma), gewaardeerd",
       "russian": "признавать (диплом)",
-      "english": "to assess (a diploma)"
+      "english": "to assess (a diploma)",
+      "example": "Zij waardeert het diploma zorgvuldig."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het wo (wetenschappelijk onderwijs), —",
       "russian": "университетское образование",
-      "english": "university education"
+      "english": "university education",
+      "example": "Het wo is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de zwangerschap, zwangerschappen",
       "russian": "беременность",
-      "english": "pregnancy"
+      "english": "pregnancy",
+      "example": "De zwangerschap is hier."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "A2 Basis",
   "entries": [
     {
@@ -7,2674 +7,3056 @@
       "type_ru": "глагол",
       "dutch": "aankleden, aangekleed",
       "russian": "одеваться",
-      "english": "get dressed"
+      "english": "get dressed",
+      "example": "Ik kleed me snel aan."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de aantekening, aantekeningen",
       "russian": "заметка",
-      "english": "note"
+      "english": "note",
+      "example": "De aantekening is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "aanwezig",
       "russian": "присутствующий",
-      "english": "present"
+      "english": "present",
+      "example": "Een aanwezige persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het abonnement, abonnementen",
       "russian": "подписка",
-      "english": "subscription"
+      "english": "subscription",
+      "example": "Het abonnement is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de actie, acties",
       "russian": "действие",
-      "english": "action"
+      "english": "action",
+      "example": "De actie is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "actief",
       "russian": "активный",
-      "english": "active"
+      "english": "active",
+      "example": "Een actiefe persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de activiteit, activiteiten",
       "russian": "деятельность",
-      "english": "activity"
+      "english": "activity",
+      "example": "De activiteit is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "afmelden, afgemeld",
       "russian": "сняться с регистрации",
-      "english": "unregister"
+      "english": "unregister",
+      "example": "Ik meld me vandaag af."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het afscheid, —",
       "russian": "прощание",
-      "english": "farewell"
+      "english": "farewell",
+      "example": "Het afscheid is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "afwezig",
       "russian": "отсутствующий",
-      "english": "absent"
+      "english": "absent",
+      "example": "Een afwezige persoon komt hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "afzeggen, afgezegd",
       "russian": "отменить",
-      "english": "cancel"
+      "english": "cancel",
+      "example": "Ik zeg vandaag helaas af."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de agent, agenten",
       "russian": "полицейский",
-      "english": "police officer"
+      "english": "police officer",
+      "example": "De agent is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het alarm, alarmen",
       "russian": "сигнализация",
-      "english": "alarm"
+      "english": "alarm",
+      "example": "Het alarm is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de alinea, alinea's",
       "russian": "абзац",
-      "english": "paragraph"
+      "english": "paragraph",
+      "example": "De alinea is hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "alsjeblieft",
       "russian": "пожалуйста",
-      "english": "please"
+      "english": "please",
+      "example": "Geef mij water alsjeblieft."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "annuleren, geannuleerd",
       "russian": "отменить",
-      "english": "cancel"
+      "english": "cancel",
+      "example": "Zij annuleert de afspraak vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de app, apps",
       "russian": "приложение",
-      "english": "app"
+      "english": "app",
+      "example": "De app is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de april, —",
       "russian": "апрель",
-      "english": "April"
+      "english": "April",
+      "example": "De april is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de assistent, assistenten",
       "russian": "помощник",
-      "english": "assistant"
+      "english": "assistant",
+      "example": "De assistent is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de augustus, —",
       "russian": "август",
-      "english": "August"
+      "english": "August",
+      "example": "De augustus is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de baard, baarden",
       "russian": "борода",
-      "english": "beard"
+      "english": "beard",
+      "example": "De baard is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de badkamer, badkamers",
       "russian": "ванная комната",
-      "english": "bathroom"
+      "english": "bathroom",
+      "example": "De badkamer is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bagage, —",
       "russian": "багаж",
-      "english": "baggage"
+      "english": "baggage",
+      "example": "De bagage is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de balie, balies",
       "russian": "стойка обслуживания",
-      "english": "service desk"
+      "english": "service desk",
+      "example": "De balie is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de banaan, bananen",
       "russian": "банан",
-      "english": "banana"
+      "english": "banana",
+      "example": "De banaan is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bankrekening, bankrekeningen",
       "russian": "банковский счет",
-      "english": "bank account"
+      "english": "bank account",
+      "example": "De bankrekening is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het basisonderwijs, —",
       "russian": "начальное образование",
-      "english": "primary education"
+      "english": "primary education",
+      "example": "Het basisonderwijs is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de basisschool, basisscholen",
       "russian": "начальная школа",
-      "english": "elementary school"
+      "english": "elementary school",
+      "example": "De basisschool is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het basketbal, —",
       "russian": "баскетбол",
-      "english": "basketball"
+      "english": "basketball",
+      "example": "Het basketbal is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het bedrag, bedragen",
       "russian": "сумма денег",
-      "english": "amount of money"
+      "english": "amount of money",
+      "example": "Het bedrag is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "beleefd",
       "russian": "вежливый",
-      "english": "polite"
+      "english": "polite",
+      "example": "Een beleefde persoon komt hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "benieuwd",
       "russian": "любопытный",
-      "english": "curious"
+      "english": "curious",
+      "example": "Een benieuwde persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de beschrijving, beschrijvingen",
       "russian": "описание",
-      "english": "description"
+      "english": "description",
+      "example": "De beschrijving is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "beter",
       "russian": "лучше",
-      "english": "better"
+      "english": "better",
+      "example": "Een betere persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bewoner, bewoners",
       "russian": "житель",
-      "english": "resident"
+      "english": "resident",
+      "example": "De bewoner is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bezoeker, bezoekers",
       "russian": "посетитель",
-      "english": "visitor"
+      "english": "visitor",
+      "example": "De bezoeker is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "bezorgd",
       "russian": "обеспокоенный",
-      "english": "worried"
+      "english": "worried",
+      "example": "Een bezorgde persoon komt hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "bezorgen, bezorgd",
       "russian": "доставлять",
-      "english": "deliver"
+      "english": "deliver",
+      "example": "Hij bezorgt het pakket morgen."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bijbaan, bijbanen",
       "russian": "подработка",
-      "english": "side job"
+      "english": "side job",
+      "example": "De bijbaan is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het bijbaantje, bijbaantjes",
       "russian": "подработка",
-      "english": "side job"
+      "english": "side job",
+      "example": "Het bijbaantje is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de boete, boetes",
       "russian": "штраф",
-      "english": "fine"
+      "english": "fine",
+      "example": "De boete is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het bord, borden",
       "russian": "тарелка",
-      "english": "plate"
+      "english": "plate",
+      "example": "Het bord is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het verkeersbord, verkeersborden",
       "russian": "дорожный знак",
-      "english": "traffic sign"
+      "english": "traffic sign",
+      "example": "Het verkeersbord is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de borstel, borstels",
       "russian": "щётка",
-      "english": "brush"
+      "english": "brush",
+      "example": "De borstel is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de broek, broeken",
       "russian": "пара брюк",
-      "english": "pair of trousers"
+      "english": "pair of trousers",
+      "example": "De broek is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het brood, broden",
       "russian": "хлеб",
-      "english": "bread"
+      "english": "bread",
+      "example": "Het brood is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "bruin",
       "russian": "коричневый",
-      "english": "brown"
+      "english": "brown",
+      "example": "Een bruine persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de buik, buiken",
       "russian": "живот",
-      "english": "belly"
+      "english": "belly",
+      "example": "De buik is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de burgemeester, burgemeesters",
       "russian": "мэр",
-      "english": "mayor"
+      "english": "mayor",
+      "example": "De burgemeester is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het café, cafés",
       "russian": "кафе",
-      "english": "café"
+      "english": "café",
+      "example": "Het café is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de cd, cd's",
       "russian": "компакт-диск",
-      "english": "CD"
+      "english": "CD",
+      "example": "De cd is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de chauffeur, chauffeurs",
       "russian": "водитель",
-      "english": "driver"
+      "english": "driver",
+      "example": "De chauffeur is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de chef, chefs",
       "russian": "босс",
-      "english": "boss"
+      "english": "boss",
+      "example": "De chef is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het cijfer, cijfers",
       "russian": "оценка",
-      "english": "grade"
+      "english": "grade",
+      "example": "Het cijfer is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de cliënt, cliënten",
       "russian": "клиент",
-      "english": "client"
+      "english": "client",
+      "example": "De cliënt is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de club, clubs",
       "russian": "клуб",
-      "english": "club"
+      "english": "club",
+      "example": "De club is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "contant",
       "russian": "наличными",
-      "english": "in cash"
+      "english": "in cash",
+      "example": "Een contante persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het contract, contracten",
       "russian": "контракт",
-      "english": "contract"
+      "english": "contract",
+      "example": "Het contract is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "coördineren, gecoördineerd",
       "russian": "координировать",
-      "english": "coordinate"
+      "english": "coordinate",
+      "example": "Wij coördineren het werk samen."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de coördinator, coördinatoren",
       "russian": "координатор",
-      "english": "coordinator"
+      "english": "coordinator",
+      "example": "De coördinator is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "dansen, gedanst",
       "russian": "танцевать",
-      "english": "dance"
+      "english": "dance",
+      "example": "Jullie dansen hier vanavond."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de december, —",
       "russian": "декабрь",
-      "english": "December"
+      "english": "December",
+      "example": "De december is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "deelnemen, deelgenomen",
       "russian": "принять участие",
-      "english": "take part"
+      "english": "take part",
+      "example": "Jij neemt vandaag deel."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de deelnemer, deelnemers",
       "russian": "участник",
-      "english": "participant"
+      "english": "participant",
+      "example": "De deelnemer is hier."
     },
     {
       "type_en": "numeral",
       "type_ru": "числительное",
       "dutch": "derde",
       "russian": "третий",
-      "english": "third"
+      "english": "third",
+      "example": "De derde trein vertrekt."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "dichtbij",
       "russian": "поблизости",
-      "english": "nearby"
+      "english": "nearby",
+      "example": "De school is dichtbij."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "digitaal",
       "russian": "цифровой",
-      "english": "digital"
+      "english": "digital",
+      "example": "Een digitaale persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de doos, dozen",
       "russian": "коробка",
-      "english": "box"
+      "english": "box",
+      "example": "De doos is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "drogen, gedroogd",
       "russian": "сушить",
-      "english": "dry"
+      "english": "dry",
+      "example": "De kleren drogen buiten vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de druif, druiven",
       "russian": "виноградина",
-      "english": "grape"
+      "english": "grape",
+      "example": "De druif is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "dun",
       "russian": "тонкий",
-      "english": "thin"
+      "english": "thin",
+      "example": "Een dune persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de dvd, dvd's",
       "russian": "DVD",
-      "english": "DVD"
+      "english": "DVD",
+      "example": "De dvd is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "eenzaam",
       "russian": "одинокий",
-      "english": "lonely"
+      "english": "lonely",
+      "example": "Een eenzaame persoon komt hier."
     },
     {
       "type_en": "numeral",
       "type_ru": "числительное",
       "dutch": "eerste",
       "russian": "первый",
-      "english": "first"
+      "english": "first",
+      "example": "De eerste trein vertrekt."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de eigenaar, eigenaars",
       "russian": "владелец",
-      "english": "owner"
+      "english": "owner",
+      "example": "De eigenaar is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de elektriciteit, —",
       "russian": "электричество",
-      "english": "electricity"
+      "english": "electricity",
+      "example": "De elektriciteit is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "eruitzien, eruitgezien",
       "russian": "выглядеть",
-      "english": "look like"
+      "english": "look like",
+      "example": "Hij ziet er goed uit."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de euro, euro's",
       "russian": "евро",
-      "english": "euro"
+      "english": "euro",
+      "example": "De euro is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het evenement, evenementen",
       "russian": "мероприятие",
-      "english": "event"
+      "english": "event",
+      "example": "Het evenement is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "favoriet",
       "russian": "любимый",
-      "english": "favorite"
+      "english": "favorite",
+      "example": "Een favoriete persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de februari, —",
       "russian": "февраль",
-      "english": "February"
+      "english": "February",
+      "example": "De februari is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de fietser, fietsers",
       "russian": "велосипедист",
-      "english": "cyclist"
+      "english": "cyclist",
+      "example": "De fietser is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het fietspad, fietspaden",
       "russian": "велосипедная дорожка",
-      "english": "cycle path"
+      "english": "cycle path",
+      "example": "Het fietspad is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de file, files",
       "russian": "пробка",
-      "english": "traffic jam"
+      "english": "traffic jam",
+      "example": "De file is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de finale, finales",
       "russian": "финал",
-      "english": "final"
+      "english": "final",
+      "example": "De finale is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de fles, flessen",
       "russian": "бутылка",
-      "english": "bottle"
+      "english": "bottle",
+      "example": "De fles is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "flexibel",
       "russian": "гибкий",
-      "english": "flexible"
+      "english": "flexible",
+      "example": "Een flexibele persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de fotograaf, fotografen",
       "russian": "фотограф",
-      "english": "photographer"
+      "english": "photographer",
+      "example": "De fotograaf is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de gemeente, gemeenten",
       "russian": "муниципалитет",
-      "english": "municipality"
+      "english": "municipality",
+      "example": "De gemeente is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "gemiddeld",
       "russian": "средний",
-      "english": "average"
+      "english": "average",
+      "example": "Een gemiddelde persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het gerecht, gerechten",
       "russian": "блюдо",
-      "english": "dish"
+      "english": "dish",
+      "example": "Het gerecht is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het ijs, —",
       "russian": "лед",
-      "english": "ice"
+      "english": "ice",
+      "example": "Het ijs is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "gewond",
       "russian": "раненый",
-      "english": "injured"
+      "english": "injured",
+      "example": "Een gewonde persoon komt hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "glad",
       "russian": "гладкий",
-      "english": "smooth"
+      "english": "smooth",
+      "example": "Een glade persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het glas, glazen",
       "russian": "стакан",
-      "english": "drinking glass"
+      "english": "drinking glass",
+      "example": "Het glas is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het gram, grammen",
       "russian": "грамм",
-      "english": "gram"
+      "english": "gram",
+      "example": "Het gram is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de grap, grappen",
       "russian": "шутка",
-      "english": "joke"
+      "english": "joke",
+      "example": "De grap is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het gras, grassen",
       "russian": "трава",
-      "english": "grass"
+      "english": "grass",
+      "example": "Het gras is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de griep, —",
       "russian": "грипп",
-      "english": "flu"
+      "english": "flu",
+      "example": "De griep is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "grijs",
       "russian": "серый",
-      "english": "gray"
+      "english": "gray",
+      "example": "Een grijse persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de groet, groeten",
       "russian": "приветствие",
-      "english": "greeting"
+      "english": "greeting",
+      "example": "De groet is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "groeten, gegroet",
       "russian": "приветствовать",
-      "english": "greet"
+      "english": "greet",
+      "example": "Ik groet mijn buren vriendelijk."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de grootmoeder, grootmoeders",
       "russian": "бабушка",
-      "english": "grandmother"
+      "english": "grandmother",
+      "example": "De grootmoeder is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de grootvader, grootvaders",
       "russian": "дедушка",
-      "english": "grandfather"
+      "english": "grandfather",
+      "example": "De grootvader is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de haast, —",
       "russian": "спешка",
-      "english": "haste"
+      "english": "haste",
+      "example": "De haast is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "haastig",
       "russian": "поспешный",
-      "english": "hasty"
+      "english": "hasty",
+      "example": "Een haastige persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de jas, jassen",
       "russian": "пальто",
-      "english": "coat"
+      "english": "coat",
+      "example": "De jas is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "zich haasten, gehaast",
       "russian": "торопиться",
-      "english": "hurry"
+      "english": "hurry",
+      "example": "Hij haast zich vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de handdoek, handdoeken",
       "russian": "полотенце",
-      "english": "towel"
+      "english": "towel",
+      "example": "De handdoek is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de handtekening, handtekeningen",
       "russian": "подпись",
-      "english": "signature"
+      "english": "signature",
+      "example": "De handtekening is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "hardlopen, hardgelopen",
       "russian": "бегать",
-      "english": "go running"
+      "english": "go running",
+      "example": "Wij hardlopen hier iedere ochtend."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de helm, helmen",
       "russian": "шлем",
-      "english": "helmet"
+      "english": "helmet",
+      "example": "De helm is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "herkansen, herkanst",
       "russian": "пересдавать",
-      "english": "retake"
+      "english": "retake",
+      "example": "Zij herkansen het examen morgen."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de herkansing, herkansingen",
       "russian": "пересдача",
-      "english": "retake"
+      "english": "retake",
+      "example": "De herkansing is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de hersenen, hersens",
       "russian": "мозг",
-      "english": "brain"
+      "english": "brain",
+      "example": "De hersenen zijn hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het weer, —",
       "russian": "погода",
-      "english": "weather"
+      "english": "weather",
+      "example": "Het weer is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de hoed, hoeden",
       "russian": "шляпа",
-      "english": "hat"
+      "english": "hat",
+      "example": "De hoed is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het hok, hokken",
       "russian": "загон",
-      "english": "animal pen"
+      "english": "animal pen",
+      "example": "Het hok is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het hokje, hokjes",
       "russian": "кабинка",
-      "english": "cubicle"
+      "english": "cubicle",
+      "example": "Het hokje is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de honger, —",
       "russian": "голод",
-      "english": "hunger"
+      "english": "hunger",
+      "example": "De honger is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de horeca, —",
       "russian": "сфера гостеприимства и питания",
-      "english": "hospitality industry"
+      "english": "hospitality industry",
+      "example": "De horeca is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het hout, —",
       "russian": "дерево",
-      "english": "wood"
+      "english": "wood",
+      "example": "Het hout is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de huid, huiden",
       "russian": "кожа",
-      "english": "skin"
+      "english": "skin",
+      "example": "De huid is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "huilen, gehuild",
       "russian": "плакать",
-      "english": "cry"
+      "english": "cry",
+      "example": "Het kind huilt nu buiten."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "inleveren, ingeleverd",
       "russian": "сдавать",
-      "english": "hand in"
+      "english": "hand in",
+      "example": "Ik lever vandaag alles in."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "inloggen, ingelogd",
       "russian": "войти в систему",
-      "english": "log in"
+      "english": "log in",
+      "example": "Jij logt hier veilig in."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "inpakken, ingepakt",
       "russian": "упаковывать",
-      "english": "pack"
+      "english": "pack",
+      "example": "Wij pakken vandaag samen in."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "inschrijven, ingeschreven",
       "russian": "зарегистрироваться",
-      "english": "register"
+      "english": "register",
+      "example": "Ik schrijf me vandaag in."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het insect, insecten",
       "russian": "насекомое",
-      "english": "insect"
+      "english": "insect",
+      "example": "Het insect is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de instructeur, instructeurs",
       "russian": "инструктор",
-      "english": "instructor"
+      "english": "instructor",
+      "example": "De instructeur is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de instructie, instructies",
       "russian": "инструкция",
-      "english": "instruction"
+      "english": "instruction",
+      "example": "De instructie is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "internationaal",
       "russian": "международный",
-      "english": "international"
+      "english": "international",
+      "example": "Een internationaale persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de inwoner, inwoners",
       "russian": "житель",
-      "english": "inhabitant"
+      "english": "inhabitant",
+      "example": "De inwoner is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "inzamelen, ingezameld",
       "russian": "собирать",
-      "english": "collect"
+      "english": "collect",
+      "example": "Zij zamelen kleding hier in."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "jaarlijks",
       "russian": "ежегодно",
-      "english": "annually"
+      "english": "annually",
+      "example": "Ze komen jaarlijks samen."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de januari, —",
       "russian": "январь",
-      "english": "January"
+      "english": "January",
+      "example": "De januari is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de jongere, jongeren",
       "russian": "молодой человек",
-      "english": "young person"
+      "english": "young person",
+      "example": "De jongere is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de juli, —",
       "russian": "июль",
-      "english": "July"
+      "english": "July",
+      "example": "De juli is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de juni, —",
       "russian": "июнь",
-      "english": "June"
+      "english": "June",
+      "example": "De juni is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de jurk, jurken",
       "russian": "платье",
-      "english": "dress"
+      "english": "dress",
+      "example": "De jurk is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kaart, kaarten",
       "russian": "карточка",
-      "english": "card"
+      "english": "card",
+      "example": "De kaart is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het kaartje, kaartjes",
       "russian": "билет",
-      "english": "ticket"
+      "english": "ticket",
+      "example": "Het kaartje is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kampioen, kampioenen",
       "russian": "чемпион",
-      "english": "champion"
+      "english": "champion",
+      "example": "De kampioen is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kast, kasten",
       "russian": "шкаф",
-      "english": "cupboard"
+      "english": "cupboard",
+      "example": "De kast is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de keel, kelen",
       "russian": "горло",
-      "english": "throat"
+      "english": "throat",
+      "example": "De keel is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de keuken, keukens",
       "russian": "кухня",
-      "english": "kitchen"
+      "english": "kitchen",
+      "example": "De keuken is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het kinderdagverblijf, kinderdagverblijven",
       "russian": "детский сад",
-      "english": "daycare center"
+      "english": "daycare center",
+      "example": "Het kinderdagverblijf is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de klacht, klachten",
       "russian": "жалоба",
-      "english": "complaint"
+      "english": "complaint",
+      "example": "De klacht is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de klok, klokken",
       "russian": "часы",
-      "english": "clock"
+      "english": "clock",
+      "example": "De klok is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de klus, klussen",
       "russian": "дело",
-      "english": "job"
+      "english": "job",
+      "example": "De klus is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "klussen, geklust",
       "russian": "заниматься мелким ремонтом",
-      "english": "do odd jobs"
+      "english": "do odd jobs",
+      "example": "Wij klussen dit weekend thuis."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de knie, knieën",
       "russian": "колено",
-      "english": "knee"
+      "english": "knee",
+      "example": "De knie is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "knippen, geknipt",
       "russian": "стричь",
-      "english": "cut"
+      "english": "cut",
+      "example": "Zij knipt mijn haar vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de knoop, knopen",
       "russian": "узел",
-      "english": "knot"
+      "english": "knot",
+      "example": "De knoop is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de knop, knoppen",
       "russian": "кнопка",
-      "english": "button"
+      "english": "button",
+      "example": "De knop is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de koe, koeien",
       "russian": "корова",
-      "english": "cow"
+      "english": "cow",
+      "example": "De koe is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de koffer, koffers",
       "russian": "чемодан",
-      "english": "suitcase"
+      "english": "suitcase",
+      "example": "De koffer is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de koffie, koffies",
       "russian": "кофе",
-      "english": "coffee"
+      "english": "coffee",
+      "example": "De koffie is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kok, koks",
       "russian": "повар",
-      "english": "cook"
+      "english": "cook",
+      "example": "De kok is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kraan, kranen",
       "russian": "кран",
-      "english": "faucet"
+      "english": "faucet",
+      "example": "De kraan is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het kruispunt, kruispunten",
       "russian": "перекрёсток",
-      "english": "intersection"
+      "english": "intersection",
+      "example": "Het kruispunt is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de lamp, lampen",
       "russian": "лампа",
-      "english": "lamp"
+      "english": "lamp",
+      "example": "De lamp is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "langskomen, langsgekomen",
       "russian": "зайти",
-      "english": "come by"
+      "english": "come by",
+      "example": "Kom jij morgen even langs?"
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de laptop, laptops",
       "russian": "ноутбук",
-      "english": "laptop"
+      "english": "laptop",
+      "example": "De laptop is hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "later",
       "russian": "позже",
-      "english": "later"
+      "english": "later",
+      "example": "Ik bel je later."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de leider, leiders",
       "russian": "руководитель",
-      "english": "leader"
+      "english": "leader",
+      "example": "De leider is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de leidinggevende, leidinggevenden",
       "russian": "руководитель",
-      "english": "manager"
+      "english": "manager",
+      "example": "De leidinggevende is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de lepel, lepels",
       "russian": "ложка",
-      "english": "spoon"
+      "english": "spoon",
+      "example": "De lepel is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "liegen, gelogen",
       "russian": "лгать",
-      "english": "lie"
+      "english": "lie",
+      "example": "Hij liegt soms tegen iedereen."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de lift, liften",
       "russian": "лифт",
-      "english": "elevator"
+      "english": "elevator",
+      "example": "De lift is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de lip, lippen",
       "russian": "губа",
-      "english": "lip"
+      "english": "lip",
+      "example": "De lip is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de liter, liters",
       "russian": "литр",
-      "english": "liter"
+      "english": "liter",
+      "example": "De liter is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de locatie, locaties",
       "russian": "место",
-      "english": "location"
+      "english": "location",
+      "example": "De locatie is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het lokaal, lokalen",
       "russian": "аудитория",
-      "english": "classroom"
+      "english": "classroom",
+      "example": "Het lokaal is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de lunch, lunchen",
       "russian": "обед",
-      "english": "lunch"
+      "english": "lunch",
+      "example": "De lunch is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de maaltijd, maaltijden",
       "russian": "приём пищи",
-      "english": "meal"
+      "english": "meal",
+      "example": "De maaltijd is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de maart, —",
       "russian": "март",
-      "english": "March"
+      "english": "March",
+      "example": "De maart is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het magazijn, magazijnen",
       "russian": "склад",
-      "english": "warehouse"
+      "english": "warehouse",
+      "example": "Het magazijn is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "mailen, gemaild",
       "russian": "отправлять электронные письма",
-      "english": "email"
+      "english": "email",
+      "example": "Ik mail je straks terug."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de manager, managers",
       "russian": "менеджер",
-      "english": "manager"
+      "english": "manager",
+      "example": "De manager is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "maximaal",
       "russian": "максимальный",
-      "english": "maximum"
+      "english": "maximum",
+      "example": "Een maximaale persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de medewerker, medewerkers",
       "russian": "сотрудник",
-      "english": "employee"
+      "english": "employee",
+      "example": "De medewerker is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "meegaan, meegegaan",
       "russian": "пойти с",
-      "english": "go along"
+      "english": "go along",
+      "example": "Jij gaat morgen gezellig mee."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de mei, —",
       "russian": "май",
-      "english": "May"
+      "english": "May",
+      "example": "De mei is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de meneer, meneren",
       "russian": "господин",
-      "english": "sir"
+      "english": "sir",
+      "example": "De meneer is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het mes, messen",
       "russian": "нож",
-      "english": "knife"
+      "english": "knife",
+      "example": "Het mes is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "metalen",
       "russian": "металлический",
-      "english": "metal"
+      "english": "metal",
+      "example": "Een metalene persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het meubel, meubels",
       "russian": "предмет мебели",
-      "english": "piece of furniture"
+      "english": "piece of furniture",
+      "example": "Het meubel is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de mevrouw, mevrouwen",
       "russian": "госпожа",
-      "english": "madam"
+      "english": "madam",
+      "example": "De mevrouw is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de middag, middagen",
       "russian": "после полудня",
-      "english": "afternoon"
+      "english": "afternoon",
+      "example": "De middag is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de monteur, monteurs",
       "russian": "механик",
-      "english": "mechanic"
+      "english": "mechanic",
+      "example": "De monteur is hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "morgen",
       "russian": "завтра",
-      "english": "tomorrow"
+      "english": "tomorrow",
+      "example": "Ik kom morgen terug."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de mouw, mouwen",
       "russian": "рукав",
-      "english": "sleeve"
+      "english": "sleeve",
+      "example": "De mouw is hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "naartoe",
       "russian": "туда",
-      "english": "towards"
+      "english": "towards",
+      "example": "Ik loop daar naartoe."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "nakijken, nagekeken",
       "russian": "проверять",
-      "english": "check"
+      "english": "check",
+      "example": "Ik kijk het werk na."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "nat",
       "russian": "мокрый",
-      "english": "wet"
+      "english": "wet",
+      "example": "Een nate persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de nek, nekken",
       "russian": "шея",
-      "english": "neck"
+      "english": "neck",
+      "example": "De nek is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "nerveus",
       "russian": "нервный",
-      "english": "nervous"
+      "english": "nervous",
+      "example": "Een nerveuse persoon komt hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "net",
       "russian": "только что",
-      "english": "just"
+      "english": "just",
+      "example": "Ik kwam net binnen."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "netjes",
       "russian": "аккуратный",
-      "english": "neat"
+      "english": "neat",
+      "example": "Een netjese persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het netwerk, netwerken",
       "russian": "сеть",
-      "english": "network"
+      "english": "network",
+      "example": "Het netwerk is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de november, —",
       "russian": "ноябрь",
-      "english": "November"
+      "english": "November",
+      "example": "De november is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de oktober, —",
       "russian": "октябрь",
-      "english": "October"
+      "english": "October",
+      "example": "De oktober is hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "omhoog",
       "russian": "вверх",
-      "english": "upwards"
+      "english": "upwards",
+      "example": "De ballon gaat omhoog."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "omlaag",
       "russian": "вниз",
-      "english": "downwards"
+      "english": "downwards",
+      "example": "De prijs gaat omlaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de ondernemer, ondernemers",
       "russian": "предприниматель",
-      "english": "entrepreneur"
+      "english": "entrepreneur",
+      "example": "De ondernemer is hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "online",
       "russian": "в сети",
-      "english": "online"
+      "english": "online",
+      "example": "Zij werkt online vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het ontbijt, ontbijten",
       "russian": "завтрак",
-      "english": "breakfast"
+      "english": "breakfast",
+      "example": "Het ontbijt is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "ontspannen, ontspannen",
       "russian": "расслабляться",
-      "english": "relax"
+      "english": "relax",
+      "example": "Wij ontspannen hier vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het ontwerp, ontwerpen",
       "russian": "дизайн",
-      "english": "design"
+      "english": "design",
+      "example": "Het ontwerp is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de oom, ooms",
       "russian": "дядя",
-      "english": "uncle"
+      "english": "uncle",
+      "example": "De oom is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "opbellen, opgebeld",
       "russian": "позвонить",
-      "english": "call"
+      "english": "call",
+      "example": "Ik bel jou straks op."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "openbaar",
       "russian": "общественный",
-      "english": "public"
+      "english": "public",
+      "example": "Een openbaare persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het openbaar vervoer, —",
       "russian": "общественный транспорт",
-      "english": "public transport"
+      "english": "public transport",
+      "example": "Het openbaar vervoer is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "opschrijven, opgeschreven",
       "russian": "записать",
-      "english": "write down"
+      "english": "write down",
+      "example": "Schrijf het adres hier op."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "opsturen, opgestuurd",
       "russian": "отправить",
-      "english": "send"
+      "english": "send",
+      "example": "Wij sturen dit vandaag op."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de oudere, ouderen",
       "russian": "пожилой человек",
-      "english": "elderly person"
+      "english": "elderly person",
+      "example": "De oudere is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het overhemd, overhemden",
       "russian": "рубашка",
-      "english": "shirt"
+      "english": "shirt",
+      "example": "Het overhemd is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het overzicht, overzichten",
       "russian": "обзор",
-      "english": "overview"
+      "english": "overview",
+      "example": "Het overzicht is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het paard, paarden",
       "russian": "лошадь",
-      "english": "horse"
+      "english": "horse",
+      "example": "Het paard is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de pan, pannen",
       "russian": "сковорода",
-      "english": "frying pan"
+      "english": "frying pan",
+      "example": "De pan is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de parkeerplaats, parkeerplaatsen",
       "russian": "парковочное место",
-      "english": "parking space"
+      "english": "parking space",
+      "example": "De parkeerplaats is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "parkeren, geparkeerd",
       "russian": "парковать",
-      "english": "park"
+      "english": "park",
+      "example": "Zij parkeert de auto buiten."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de partner, partners",
       "russian": "партнёр",
-      "english": "partner"
+      "english": "partner",
+      "example": "De partner is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de pauze, pauzes",
       "russian": "перерыв",
-      "english": "break"
+      "english": "break",
+      "example": "De pauze is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het personeel, —",
       "russian": "персонал",
-      "english": "staff"
+      "english": "staff",
+      "example": "Het personeel is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de pet, petten",
       "russian": "кепка",
-      "english": "cap"
+      "english": "cap",
+      "example": "De pet is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de pinpas, pinpassen",
       "russian": "дебетовая карта",
-      "english": "debit card"
+      "english": "debit card",
+      "example": "De pinpas is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het plaatje, plaatjes",
       "russian": "картинка",
-      "english": "picture"
+      "english": "picture",
+      "example": "Het plaatje is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de plank, planken",
       "russian": "полка",
-      "english": "shelf"
+      "english": "shelf",
+      "example": "De plank is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "plannen, gepland",
       "russian": "планировать",
-      "english": "plan"
+      "english": "plan",
+      "example": "Ik plan de afspraak morgen."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het plastic, —",
       "russian": "пластик",
-      "english": "plastic"
+      "english": "plastic",
+      "example": "Het plastic is hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "plotseling",
       "russian": "внезапно",
-      "english": "suddenly"
+      "english": "suddenly",
+      "example": "Het licht dooft plotseling."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het potlood, potloden",
       "russian": "карандаш",
-      "english": "pencil"
+      "english": "pencil",
+      "example": "Het potlood is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "presenteren, gepresenteerd",
       "russian": "представлять",
-      "english": "present"
+      "english": "present",
+      "example": "Jullie presenteren het werk vandaag."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "printen, geprint",
       "russian": "печатать",
-      "english": "print"
+      "english": "print",
+      "example": "Hij print het document thuis."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de printer, printers",
       "russian": "принтер",
-      "english": "printer"
+      "english": "printer",
+      "example": "De printer is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het project, projecten",
       "russian": "проект",
-      "english": "project"
+      "english": "project",
+      "example": "Het project is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het raam, ramen",
       "russian": "окно",
-      "english": "window"
+      "english": "window",
+      "example": "Het raam is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "recyclen, gerecycled",
       "russian": "перерабатывать",
-      "english": "recycle"
+      "english": "recycle",
+      "example": "Wij recyclen papier iedere week."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de regio, regio's",
       "russian": "регион",
-      "english": "region"
+      "english": "region",
+      "example": "De regio is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "rennen, gerend",
       "russian": "бежать",
-      "english": "run"
+      "english": "run",
+      "example": "De kinderen rennen buiten vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de reparatie, reparaties",
       "russian": "ремонт",
-      "english": "repair"
+      "english": "repair",
+      "example": "De reparatie is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "repareren, gerepareerd",
       "russian": "ремонт",
-      "english": "repair"
+      "english": "repair",
+      "example": "Zij repareert de fiets vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het rijbewijs, rijbewijzen",
       "russian": "водительские права",
-      "english": "driver’s license"
+      "english": "driver’s license",
+      "example": "Het rijbewijs is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het risico, risico's",
       "russian": "риск",
-      "english": "risk"
+      "english": "risk",
+      "example": "Het risico is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de robot, robots",
       "russian": "робот",
-      "english": "robot"
+      "english": "robot",
+      "example": "De robot is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de rok, rokken",
       "russian": "юбка",
-      "english": "skirt"
+      "english": "skirt",
+      "example": "De rok is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "roken, gerookt",
       "russian": "курить",
-      "english": "smoke"
+      "english": "smoke",
+      "example": "Hij rookt buiten vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de rommel, —",
       "russian": "хлам",
-      "english": "junk"
+      "english": "junk",
+      "example": "De rommel is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het rooster, roosters",
       "russian": "расписание",
-      "english": "schedule"
+      "english": "schedule",
+      "example": "Het rooster is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de rotzooi, rotzooien",
       "russian": "беспорядок",
-      "english": "mess"
+      "english": "mess",
+      "example": "De rotzooi is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "roze",
       "russian": "розовый",
-      "english": "pink"
+      "english": "pink",
+      "example": "Een roze persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de rugzak, rugzakken",
       "russian": "рюкзак",
-      "english": "backpack"
+      "english": "backpack",
+      "example": "De rugzak is hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "’s avonds",
       "russian": "вечером",
-      "english": "in the evening"
+      "english": "in the evening",
+      "example": "Ik werk ’s avonds."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "’s morgens",
       "russian": "утром",
-      "english": "in the morning"
+      "english": "in the morning",
+      "example": "Ik ontbijt ’s morgens."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "’s ochtends",
       "russian": "утром",
-      "english": "in the morning"
+      "english": "in the morning",
+      "example": "Ik werk ’s ochtends."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de schaar, scharen",
       "russian": "ножницы",
-      "english": "scissors"
+      "english": "scissors",
+      "example": "De schaar is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de schade, —",
       "russian": "ущерб",
-      "english": "damage"
+      "english": "damage",
+      "example": "De schade is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "schamen, geschaamd",
       "russian": "стыдиться",
-      "english": "be ashamed"
+      "english": "be ashamed",
+      "example": "Ik schaam me soms hiervoor."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "scheef",
       "russian": "кривой",
-      "english": "crooked"
+      "english": "crooked",
+      "example": "Een scheefe persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het schip, schepen",
       "russian": "корабль",
-      "english": "ship"
+      "english": "ship",
+      "example": "Het schip is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de schoen, schoenen",
       "russian": "туфля",
-      "english": "shoe"
+      "english": "shoe",
+      "example": "De schoen is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "schoonmaken, schoongemaakt",
       "russian": "убирать",
-      "english": "clean"
+      "english": "clean",
+      "example": "Wij maken alles vandaag schoon."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de schouder, schouders",
       "russian": "плечо",
-      "english": "shoulder"
+      "english": "shoulder",
+      "example": "De schouder is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "schuin",
       "russian": "наклонный",
-      "english": "slanted"
+      "english": "slanted",
+      "example": "Een schuine persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de secretaresse, secretaressen",
       "russian": "секретарь",
-      "english": "secretary"
+      "english": "secretary",
+      "example": "De secretaresse is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het seizoen, seizoenen",
       "russian": "сезон",
-      "english": "season"
+      "english": "season",
+      "example": "Het seizoen is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de september, —",
       "russian": "сентябрь",
-      "english": "September"
+      "english": "September",
+      "example": "De september is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "serveren, geserveerd",
       "russian": "подавать",
-      "english": "serve"
+      "english": "serve",
+      "example": "Zij serveert het eten straks."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de sleutel, sleutels",
       "russian": "ключ",
-      "english": "key"
+      "english": "key",
+      "example": "De sleutel is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de sneeuw, —",
       "russian": "снег",
-      "english": "snow"
+      "english": "snow",
+      "example": "De sneeuw is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "snijden, gesneden",
       "russian": "резать",
-      "english": "cut"
+      "english": "cut",
+      "example": "Ik snijd het brood voorzichtig."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "sociaal",
       "russian": "социальный",
-      "english": "social"
+      "english": "social",
+      "example": "Een sociaale persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de soep, soepen",
       "russian": "суп",
-      "english": "soup"
+      "english": "soup",
+      "example": "De soep is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de sok, sokken",
       "russian": "носок",
-      "english": "sock"
+      "english": "sock",
+      "example": "De sok is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de sollicitatie, sollicitaties",
       "russian": "заявление о приёме на работу",
-      "english": "job application"
+      "english": "job application",
+      "example": "De sollicitatie is hier."
     },
     {
       "type_en": "interjection",
       "type_ru": "междометие",
       "dutch": "sorry",
       "russian": "извини",
-      "english": "sorry"
+      "english": "sorry",
+      "example": "Sorry, ik ben laat."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de spaarrekening, spaarrekeningen",
       "russian": "сберегательный счёт",
-      "english": "savings account"
+      "english": "savings account",
+      "example": "De spaarrekening is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de spier, spieren",
       "russian": "мышца",
-      "english": "muscle"
+      "english": "muscle",
+      "example": "De spier is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de sport, sporten",
       "russian": "спорт",
-      "english": "sport"
+      "english": "sport",
+      "example": "De sport is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het spul, spullen",
       "russian": "вещи",
-      "english": "belongings"
+      "english": "belongings",
+      "example": "Het spul is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de stage, stages",
       "russian": "стажировка",
-      "english": "internship"
+      "english": "internship",
+      "example": "De stage is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "stage lopen, stage gelopen",
       "russian": "проходить стажировку",
-      "english": "do an internship"
+      "english": "do an internship",
+      "example": "Ik loop vandaag stage."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de stagiair, stagiairs",
       "russian": "стажёр",
-      "english": "intern"
+      "english": "intern",
+      "example": "De stagiair is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de stagiaire, stagiaires",
       "russian": "стажёр",
-      "english": "intern"
+      "english": "intern",
+      "example": "De stagiaire is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de start, starts",
       "russian": "начало",
-      "english": "start"
+      "english": "start",
+      "example": "De start is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "starten, gestart",
       "russian": "начинать",
-      "english": "start"
+      "english": "start",
+      "example": "De cursus start volgende week."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de steen, stenen",
       "russian": "камень",
-      "english": "stone"
+      "english": "stone",
+      "example": "De steen is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "stelen, gestolen",
       "russian": "красть",
-      "english": "steal"
+      "english": "steal",
+      "example": "Hij steelt nooit iets hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de stoel, stoelen",
       "russian": "стул",
-      "english": "chair"
+      "english": "chair",
+      "example": "De stoel is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de stoep, stoepen",
       "russian": "тротуар",
-      "english": "sidewalk"
+      "english": "sidewalk",
+      "example": "De stoep is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de storing, storingen",
       "russian": "неисправность",
-      "english": "malfunction"
+      "english": "malfunction",
+      "example": "De storing is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de studiegenoot, studiegenoten",
       "russian": "сокурсник",
-      "english": "fellow student"
+      "english": "fellow student",
+      "example": "De studiegenoot is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tabel, tabellen",
       "russian": "таблица",
-      "english": "table"
+      "english": "table",
+      "example": "De tabel is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tand, tanden",
       "russian": "зуб",
-      "english": "tooth"
+      "english": "tooth",
+      "example": "De tand is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tante, tantes",
       "russian": "тётя",
-      "english": "aunt"
+      "english": "aunt",
+      "example": "De tante is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tas, tassen",
       "russian": "сумка",
-      "english": "bag"
+      "english": "bag",
+      "example": "De tas is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de taxi, taxi's",
       "russian": "такси",
-      "english": "taxi"
+      "english": "taxi",
+      "example": "De taxi is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het team, teams",
       "russian": "команда",
-      "english": "team"
+      "english": "team",
+      "example": "Het team is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de technicus, technici",
       "russian": "техник",
-      "english": "technician"
+      "english": "technician",
+      "example": "De technicus is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de teen, tenen",
       "russian": "палец ноги",
-      "english": "toe"
+      "english": "toe",
+      "example": "De teen is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de telefoon, telefoons",
       "russian": "телефон",
-      "english": "telephone"
+      "english": "telephone",
+      "example": "De telefoon is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het tentamen, tentamens",
       "russian": "экзамен",
-      "english": "exam"
+      "english": "exam",
+      "example": "Het tentamen is hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "tevoren",
       "russian": "заранее",
-      "english": "beforehand"
+      "english": "beforehand",
+      "example": "Ik bel je tevoren."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de thee, theeën",
       "russian": "чай",
-      "english": "tea"
+      "english": "tea",
+      "example": "De thee is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "tillen, getild",
       "russian": "поднимать",
-      "english": "lift"
+      "english": "lift",
+      "example": "Wij tillen de doos samen."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "optillen, opgetild",
       "russian": "приподнимать",
-      "english": "lift up"
+      "english": "lift up",
+      "example": "Hij tilt dit voorzichtig op."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "timmeren, getimmerd",
       "russian": "заниматься столярным делом",
-      "english": "do carpentry"
+      "english": "do carpentry",
+      "example": "Zij timmert thuis vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de timmerman, timmermannen",
       "russian": "мужчина-плотник",
-      "english": "male carpenter"
+      "english": "male carpenter",
+      "example": "De timmerman is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tip, tippen",
       "russian": "совет",
-      "english": "tip"
+      "english": "tip",
+      "example": "De tip is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "toelichten, toegelicht",
       "russian": "объяснять",
-      "english": "explain"
+      "english": "explain",
+      "example": "Ik licht dit graag toe."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de toets, toetsen",
       "russian": "тест",
-      "english": "test"
+      "english": "test",
+      "example": "De toets is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tong, tongen",
       "russian": "язык",
-      "english": "tongue"
+      "english": "tongue",
+      "example": "De tong is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de toonbank, toonbanken",
       "russian": "прилавок",
-      "english": "counter"
+      "english": "counter",
+      "example": "De toonbank is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "trainen, getraind",
       "russian": "тренироваться",
-      "english": "train"
+      "english": "train",
+      "example": "Jullie trainen hier iedere maandag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de trainer, trainers",
       "russian": "тренер",
-      "english": "trainer"
+      "english": "trainer",
+      "example": "De trainer is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de training, trainingen",
       "russian": "тренировка",
-      "english": "training"
+      "english": "training",
+      "example": "De training is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de trap, trappen",
       "russian": "лестница",
-      "english": "staircase"
+      "english": "staircase",
+      "example": "De trap is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tuinman, tuinmannen",
       "russian": "садовник",
-      "english": "gardener"
+      "english": "gardener",
+      "example": "De tuinman is hier."
     },
     {
       "type_en": "numeral",
       "type_ru": "числительное",
       "dutch": "tweede",
       "russian": "второй",
-      "english": "second"
+      "english": "second",
+      "example": "De tweede trein vertrekt."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "tweedehands",
       "russian": "подержанный",
-      "english": "secondhand"
+      "english": "secondhand",
+      "example": "Een tweedehandse persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de uitgang, uitgangen",
       "russian": "выход",
-      "english": "exit"
+      "english": "exit",
+      "example": "De uitgang is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het uitje, uitjes",
       "russian": "прогулка",
-      "english": "outing"
+      "english": "outing",
+      "example": "Het uitje is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "uitloggen, uitgelogd",
       "russian": "выйти из системы",
-      "english": "log out"
+      "english": "log out",
+      "example": "Ik log nu veilig uit."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "uitschrijven, uitgeschreven",
       "russian": "сняться с регистрации",
-      "english": "deregister"
+      "english": "deregister",
+      "example": "Zij schrijft zich vandaag uit."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het uitzendbureau, uitzendbureaus",
       "russian": "агентство по трудоустройству",
-      "english": "employment agency"
+      "english": "employment agency",
+      "example": "Het uitzendbureau is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de uitzendkracht, uitzendkrachten",
       "russian": "временный работник",
-      "english": "temporary worker"
+      "english": "temporary worker",
+      "example": "De uitzendkracht is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "uitzoeken, uitgezocht",
       "russian": "выяснять",
-      "english": "find out"
+      "english": "find out",
+      "example": "Wij zoeken het samen uit."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het vakgebied, vakgebieden",
       "russian": "область знаний",
-      "english": "field of expertise"
+      "english": "field of expertise",
+      "example": "Het vakgebied is hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "vanmiddag",
       "russian": "сегодня днём",
-      "english": "this afternoon"
+      "english": "this afternoon",
+      "example": "Ik kom vanmiddag langs."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "vanmorgen",
       "russian": "сегодня утром",
-      "english": "this morning"
+      "english": "this morning",
+      "example": "Ik bel je vanmorgen."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "vannacht",
       "russian": "сегодня ночью",
-      "english": "tonight"
+      "english": "tonight",
+      "example": "Ik slaap vannacht thuis."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de veiligheid, veiligheden",
       "russian": "безопасность",
-      "english": "safety"
+      "english": "safety",
+      "example": "De veiligheid is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "verbaasd",
       "russian": "удивлённый",
-      "english": "surprised"
+      "english": "surprised",
+      "example": "Een verbaasde persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verdieping, verdiepingen",
       "russian": "этаж",
-      "english": "floor"
+      "english": "floor",
+      "example": "De verdieping is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "verdrietig",
       "russian": "грустный",
-      "english": "sad"
+      "english": "sad",
+      "example": "Een verdrietige persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vereniging, verenigingen",
       "russian": "ассоциация",
-      "english": "association"
+      "english": "association",
+      "example": "De vereniging is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het verkeer, —",
       "russian": "дорожное движение",
-      "english": "traffic"
+      "english": "traffic",
+      "example": "Het verkeer is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verkiezing, verkiezingen",
       "russian": "выборы",
-      "english": "election"
+      "english": "election",
+      "example": "De verkiezing is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "verkouden",
       "russian": "простуженный",
-      "english": "having a cold"
+      "english": "having a cold",
+      "example": "Een verkoudene persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het verpleeghuis, verpleeghuizen",
       "russian": "дом престарелых",
-      "english": "nursing home"
+      "english": "nursing home",
+      "example": "Het verpleeghuis is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verpleegkundige, verpleegkundigen",
       "russian": "медработник",
-      "english": "nurse"
+      "english": "nurse",
+      "example": "De verpleegkundige is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verpleegster, verpleegsters",
       "russian": "медсестра",
-      "english": "nurse"
+      "english": "nurse",
+      "example": "De verpleegster is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "verplegen, verpleegd",
       "russian": "ухаживать за больными",
-      "english": "nurse"
+      "english": "nurse",
+      "example": "Zij verpleegt patiënten iedere dag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verpleger, verplegers",
       "russian": "медбрат",
-      "english": "male nurse"
+      "english": "male nurse",
+      "example": "De verpleger is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "verschrikkelijk",
       "russian": "ужасный",
-      "english": "terrible"
+      "english": "terrible",
+      "example": "Een verschrikkelijke persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vertraging, vertragingen",
       "russian": "задержка",
-      "english": "delay"
+      "english": "delay",
+      "example": "De vertraging is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "verzenden, verzonden",
       "russian": "отправлять",
-      "english": "send"
+      "english": "send",
+      "example": "Ik verzend het pakket vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het vlees, vlezen",
       "russian": "мясо",
-      "english": "meat"
+      "english": "meat",
+      "example": "Het vlees is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vloer, vloeren",
       "russian": "пол",
-      "english": "floor"
+      "english": "floor",
+      "example": "De vloer is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het voetbal, —",
       "russian": "футбол",
-      "english": "football"
+      "english": "football",
+      "example": "Het voetbal is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "voetballen, gevoetbald",
       "russian": "играть в футбол",
-      "english": "play football"
+      "english": "play football",
+      "example": "Wij voetballen hier na school."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de voetbalclub, voetbalclubs",
       "russian": "футбольный клуб",
-      "english": "football club"
+      "english": "football club",
+      "example": "De voetbalclub is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vogel, vogels",
       "russian": "птица",
-      "english": "bird"
+      "english": "bird",
+      "example": "De vogel is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "volgend",
       "russian": "следующий",
-      "english": "next"
+      "english": "next",
+      "example": "Een volgende persoon komt hier."
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "vooraf",
       "russian": "заранее",
-      "english": "beforehand"
+      "english": "beforehand",
+      "example": "Lees dit vooraf goed."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de voorbereiding, voorbereidingen",
       "russian": "подготовка",
-      "english": "preparation"
+      "english": "preparation",
+      "example": "De voorbereiding is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "voorlezen, voorgelezen",
       "russian": "читать вслух",
-      "english": "read aloud"
+      "english": "read aloud",
+      "example": "Hij leest vandaag graag voor."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de voorlichting, voorlichtingen",
       "russian": "информирование",
-      "english": "information"
+      "english": "information",
+      "example": "De voorlichting is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de voorzitter, voorzitters",
       "russian": "председатель",
-      "english": "chairperson"
+      "english": "chairperson",
+      "example": "De voorzitter is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vork, vorken",
       "russian": "вилка",
-      "english": "fork"
+      "english": "fork",
+      "example": "De vork is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vrachtwagen, vrachtwagens",
       "russian": "грузовик",
-      "english": "truck"
+      "english": "truck",
+      "example": "De vrachtwagen is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "vriendelijk",
       "russian": "дружелюбный",
-      "english": "friendly"
+      "english": "friendly",
+      "example": "Een vriendelijke persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vrijwilliger, vrijwilligers",
       "russian": "волонтёр",
-      "english": "volunteer"
+      "english": "volunteer",
+      "example": "De vrijwilliger is hier."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "waaien, gewaaid",
       "russian": "дуть",
-      "english": "blow"
+      "english": "blow",
+      "example": "Het waait vandaag erg hard."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "waarschuwen, gewaarschuwd",
       "russian": "предупреждать",
-      "english": "warn"
+      "english": "warn",
+      "example": "Ik waarschuw hem meteen."
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "wassen, gewassen",
       "russian": "мыть",
-      "english": "wash"
+      "english": "wash",
+      "example": "Zij wast de kleren vandaag."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de website, websites",
       "russian": "веб-сайт",
-      "english": "website"
+      "english": "website",
+      "example": "De website is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de wedstrijd, wedstrijden",
       "russian": "соревнование",
-      "english": "competition"
+      "english": "competition",
+      "example": "De wedstrijd is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het weekeinde, weekeinden",
       "russian": "выходные",
-      "english": "weekend"
+      "english": "weekend",
+      "example": "Het weekeinde is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de werkgever, werkgevers",
       "russian": "работодатель",
-      "english": "employer"
+      "english": "employer",
+      "example": "De werkgever is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "werkloos",
       "russian": "безработный",
-      "english": "unemployed"
+      "english": "unemployed",
+      "example": "Een werkloose persoon komt hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de werknemer, werknemers",
       "russian": "работник",
-      "english": "employee"
+      "english": "employee",
+      "example": "De werknemer is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het werkstuk, werkstukken",
       "russian": "учебный проект",
-      "english": "school project"
+      "english": "school project",
+      "example": "Het werkstuk is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de wijk, wijken",
       "russian": "район",
-      "english": "neighbourhood"
+      "english": "neighbourhood",
+      "example": "De wijk is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de wind, winden",
       "russian": "ветер",
-      "english": "wind"
+      "english": "wind",
+      "example": "De wind is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de wiskunde, —",
       "russian": "математика",
-      "english": "mathematics"
+      "english": "mathematics",
+      "example": "De wiskunde is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de wolk, wolken",
       "russian": "облако",
-      "english": "cloud"
+      "english": "cloud",
+      "example": "De wolk is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de woningbouwvereniging, woningbouwverenigingen",
       "russian": "жилищное товарищество",
-      "english": "housing association"
+      "english": "housing association",
+      "example": "De woningbouwvereniging is hier."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de workshop, workshops",
       "russian": "мастер-класс",
-      "english": "workshop"
+      "english": "workshop",
+      "example": "De workshop is hier."
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "zenuwachtig",
       "russian": "нервный",
-      "english": "nervous"
+      "english": "nervous",
+      "example": "Een zenuwachtige persoon komt hier."
     }
   ]
 }
