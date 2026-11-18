@@ -1,4 +1,6 @@
 interface ModeActionsProps {
+  mapLabel: string
+  onStartMap: () => void
   testLabel: string
   flashcardsLabel: string
   wordsInSetLabel: string
@@ -15,6 +17,8 @@ interface ModeActionsProps {
 }
 
 export default function ModeActions({
+  mapLabel,
+  onStartMap,
   testLabel,
   flashcardsLabel,
   wordsInSetLabel,
@@ -44,6 +48,7 @@ export default function ModeActions({
           {resetRemovedWordsLabel}
         </button>
       </div>
+      <button className="mode-button" onClick={onStartMap} type="button">{mapLabel}</button>
       <button className="mode-button" disabled={testDisabled} onClick={onStartTest} type="button">{testLabel}</button>
       {testDisabled && wordCount > 0 && <p className="mode-hint">{testUnavailableLabel}</p>}
       <button className="mode-button" disabled={wordCount === 0} onClick={onStartFlashcards} type="button">{flashcardsLabel}</button>

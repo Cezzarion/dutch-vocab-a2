@@ -9,6 +9,7 @@ import type { Locale, VocabularyEntry } from '../../types/vocabulary'
 import { startPageCopy } from './copy'
 import FlashcardsSession from '../flashcards/FlashcardsSession'
 import TestSession from '../test/TestSession'
+import ProvincesMapSession from '../provinces-map/ProvincesMapSession'
 
 export default function StartPage() {
   const [locale, setLocale] = useState<Locale>('ru')
@@ -21,6 +22,7 @@ export default function StartPage() {
   )
   const [flashcardEntries, setFlashcardEntries] = useState<typeof vocabularyEntries | null>(null)
   const [testEntries, setTestEntries] = useState<typeof vocabularyEntries | null>(null)
+  const [isProvincesMapOpen, setIsProvincesMapOpen] = useState(false)
   const [easyWordKeys, setEasyWordKeys] = useState(loadEasyWordKeys)
 
   const copy = startPageCopy[locale]
@@ -97,6 +99,19 @@ export default function StartPage() {
     )
   }
 
+  if (isProvincesMapOpen) {
+    return (
+      <ProvincesMapSession
+        direction={direction}
+        locale={locale}
+        onDirectionToggle={() => setDirection((current) =>
+          current === 'dutch-to-translation' ? 'translation-to-dutch' : 'dutch-to-translation')}
+        onExit={() => setIsProvincesMapOpen(false)}
+        onLocaleChange={setLocale}
+      />
+    )
+  }
+
   return (
     <main className="home-page">
       <div className="page-shell">
@@ -141,6 +156,8 @@ export default function StartPage() {
           <ModeActions
             emptySelectionLabel={copy.emptySelection}
             flashcardsLabel={copy.flashcards}
+            mapLabel={copy.map}
+            onStartMap={() => setIsProvincesMapOpen(true)}
             onStartTest={() => setTestEntries(testEntriesAvailable)}
             testDisabled={!testCanStart}
             testUnavailableLabel={copy.testUnavailable}

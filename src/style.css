@@ -81,7 +81,7 @@ button { font: inherit; }
 .start-layout {
   display: grid;
   grid-template-columns: minmax(210px, .9fr) minmax(240px, 1fr) minmax(230px, .95fr);
-  align-items: center;
+  align-items: start;
   gap: clamp(24px, 4vw, 66px);
 }
 .filter-panel { align-self: stretch; }
@@ -114,7 +114,7 @@ button { font: inherit; }
 .is-selected .toggle-indicator { border-color: #244c70; background: #244c70; }
 .is-selected .toggle-indicator::after { position: absolute; top: 3px; left: 6px; width: 5px; height: 9px; transform: rotate(45deg); border: solid white; border-width: 0 2px 2px 0; content: ''; }
 
-.mode-column { display: grid; justify-items: stretch; gap: 22px; }
+.mode-column { display: grid; justify-items: stretch; gap: 22px; padding-top: 6px; }
 .easy-words-toolbar { display: flex; align-items: center; justify-content: flex-end; gap: 4px; min-height: 38px; padding: 0 4px; }
 .easy-words-count { color: #768397; font-size: 13px; }
 .easy-words-count strong { color: #367957; font-size: 15px; font-variant-numeric: tabular-nums; }
@@ -171,6 +171,37 @@ button { font: inherit; }
 .test-navigation { width: 100%; }
 .test-exit-button { min-height: 46px; min-width: 112px; }
 .test-final-score { color: #768397; font-size: 16px; }
+.province-session { display: grid; justify-items: center; gap: 18px; width: min(1120px, 100%); margin: 0 auto; }
+.province-toolbar { display: flex; align-items: center; gap: 20px; width: min(100%, 980px); }
+.province-progress { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 10px 18px; flex: 1; }
+.province-progress .progress-track { grid-column: 1 / -1; }
+.province-reset-button { flex: 0 0 auto; }
+.province-instruction { max-width: 760px; margin: 0; color: #768397; font-size: 14px; line-height: 1.55; text-align: center; }
+.province-feedback { min-height: 22px; margin: -8px 0 0; font-weight: 700; }
+.province-feedback.is-correct { color: #33775a; }
+.province-feedback.is-incorrect { color: #ad443e; }
+.province-game-grid { display: grid; grid-template-columns: minmax(300px, 1.1fr) minmax(300px, .9fr); align-items: start; gap: clamp(22px, 4vw, 54px); width: min(100%, 980px); }
+.province-map { display: grid; place-items: center; width: 100%; max-height: 680px; aspect-ratio: 743 / 881; padding: 14px; overflow: hidden; border: 1px solid #e0e4e7; border-radius: 24px; background: linear-gradient(145deg, #fff, #f8fafb); box-shadow: 0 20px 48px rgb(29 48 66 / 9%); }
+.province-map svg { display: block; width: 100%; height: 100%; }
+.province-region { fill: #fff; stroke: #63778a; stroke-width: 1.4px; stroke-linejoin: round; vector-effect: non-scaling-stroke; cursor: pointer; transition: fill .15s ease, stroke .15s ease; }
+.province-region:hover { fill: #e5eef5; stroke: #315c7d; stroke-width: 2px; }
+.province-region.is-drop-target { fill: #e5eef5; stroke: #315c7d; stroke-width: 2px; }
+.province-region.is-target-selected { fill: #d8e9f4; stroke: #244c70; stroke-width: 2.6px; animation: province-target-pulse 1.1s ease-in-out infinite alternate; }
+.province-region:focus-visible { outline: none; fill: #e5eef5; stroke: #d48a60; stroke-width: 3px; }
+.province-region.is-correct { fill: #bfe4cb; stroke: #38805a; }
+.province-region.is-incorrect { fill: #f5c8c4; stroke: #bd4e46; }
+@keyframes province-target-pulse { from { fill: #e7f1f7; } to { fill: #c5deed; } }
+.province-label-panel { display: grid; gap: 16px; }
+.province-label-panel h2 { margin: 0; color: #17324f; font-family: 'Playfair Display', Georgia, serif; font-size: 23px; }
+.province-label-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.province-label { min-height: 48px; padding: 10px 12px; border: 1.5px solid #d7dce1; border-radius: 13px; background: #fff; color: #40546a; cursor: grab; font-size: 14px; font-weight: 700; text-align: center; box-shadow: 0 3px 10px rgb(27 48 69 / 4%); transition: transform .15s ease, border-color .15s ease, background .15s ease, color .15s ease; user-select: none; }
+.province-label:hover { transform: translateY(-1px); border-color: #9aafc0; }
+.province-label:active { cursor: grabbing; }
+.province-label.is-active { border-color: #244c70; background: #edf3f7; color: #17324f; box-shadow: inset 0 0 0 1px #244c70; }
+.province-label.is-incorrect { border-color: #bd4e46; background: #fbe9e7; color: #9e332e; }
+.province-complete { display: grid; justify-items: center; gap: 12px; padding: 20px; text-align: center; }
+.province-complete h1 { margin: 0; color: #17324f; font-family: 'Playfair Display', Georgia, serif; font-size: clamp(28px, 4vw, 42px); }
+.province-exit-button { justify-self: end; }
 .flashcard-stage { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 720px) minmax(0, 1fr); align-items: center; gap: 16px 0; width: 100%; }
 .flashcard-stage .flashcard { grid-column: 2; grid-row: 1; }
 .flashcard-stage .card-navigation { grid-column: 2; grid-row: 2; }
@@ -206,13 +237,14 @@ button { font: inherit; }
 button:focus-visible { outline: 3px solid #d48a60; outline-offset: 3px; }
 
 @media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
 
 @media (max-width: 850px) {
   .topbar { align-items: flex-start; margin-bottom: 54px; }
   .start-layout { grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; }
   .mode-column { grid-column: 1 / -1; grid-template-columns: 1fr 1fr; align-items: center; }
+  .mode-column { padding-top: 0; }
   .easy-words-toolbar, .mode-hint { grid-column: 1 / -1; }
   .selection-summary { grid-column: 1 / -1; }
 }
@@ -229,6 +261,9 @@ button:focus-visible { outline: 3px solid #d48a60; outline-offset: 3px; }
   .test-stage .answer-options { grid-row: 2; justify-self: center; }
   .test-stage .test-navigation { grid-row: 3; }
   .test-stage .test-exit-button { grid-column: 1; grid-row: 4; justify-self: center; margin-left: 0; }
+  .province-game-grid { grid-template-columns: minmax(0, 1fr); justify-items: center; }
+  .province-map { width: min(100%, 520px); }
+  .province-label-panel { width: min(100%, 720px); }
 }
 
 @media (max-width: 560px) {
@@ -252,6 +287,11 @@ button:focus-visible { outline: 3px solid #d48a60; outline-offset: 3px; }
   .flashcard-session { gap: 24px; }
   .test-session { gap: 18px; }
   .test-prompt { min-height: 150px; }
+  .province-toolbar { align-items: stretch; flex-direction: column; gap: 10px; }
+  .province-game-grid { gap: 22px; }
+  .province-map { padding: 8px; border-radius: 18px; }
+  .province-label-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .province-exit-button { justify-self: center; }
   .flashcard { min-height: 300px; padding: 0; border-radius: 22px; }
   .flashcard-face { padding: 24px; border-radius: 22px; }
 }
