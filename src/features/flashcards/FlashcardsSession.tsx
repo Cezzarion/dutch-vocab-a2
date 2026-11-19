@@ -54,14 +54,16 @@ const sessionCopy = {
 interface FlashcardProps {
   front: string
   back: string
+  frontExample?: string
+  backExample?: string
   frontLabel: string
   backLabel: string
   flipHint: string
 }
 
-function Flashcard({ front, back, frontLabel, backLabel, flipHint }: FlashcardProps) {
+function Flashcard({ front, back, frontExample, backExample, frontLabel, backLabel, flipHint }: FlashcardProps) {
   const [isFlipped, setIsFlipped] = useState(false)
-  const fontSizeFor = (word: string) => `clamp(15px, ${(360 / Math.max(word.length, 1)).toFixed(2)}cqi, 68px)`
+  const fontSizeFor = (word: string) => `clamp(15px, ${(320 / Math.max(word.length, 1)).toFixed(2)}cqi, 62px)`
 
   return (
     <button
@@ -75,11 +77,13 @@ function Flashcard({ front, back, frontLabel, backLabel, flipHint }: FlashcardPr
         <span aria-hidden={isFlipped} className="flashcard-face flashcard-front">
           <span className="flashcard-side-label">{frontLabel}</span>
           <span className="flashcard-word" style={{ fontSize: fontSizeFor(front) }}>{front}</span>
+          {frontExample && <span className="flashcard-example">{frontExample}</span>}
           <span className="flashcard-hint">{flipHint}</span>
         </span>
         <span aria-hidden={!isFlipped} className="flashcard-face flashcard-back">
           <span className="flashcard-side-label">{backLabel}</span>
           <span className="flashcard-word" style={{ fontSize: fontSizeFor(back) }}>{back}</span>
+          {backExample && <span className="flashcard-example">{backExample}</span>}
           <span className="flashcard-hint">{flipHint}</span>
         </span>
       </span>
@@ -180,8 +184,10 @@ export default function FlashcardsSession({
               <Flashcard
                 back={back ?? ''}
                 backLabel={backLabel}
+                backExample={backLabel === copy.question ? currentEntry.example : undefined}
                 flipHint={copy.flipHint}
                 front={front ?? ''}
+                frontExample={frontLabel === copy.question ? currentEntry.example : undefined}
                 frontLabel={frontLabel}
                 key={currentIndex}
               />

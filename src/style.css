@@ -161,7 +161,7 @@ button { font: inherit; }
 .test-navigation { grid-column: 2; grid-row: 3; }
 .test-stage .test-exit-button { grid-column: 3; grid-row: 1; justify-self: start; align-self: center; margin-left: 22px; }
 .test-prompt { display: grid; align-content: center; justify-items: center; gap: 14px; width: min(720px, 100%); min-height: 180px; padding: 26px; border: 1px solid #e0e4e7; border-radius: 24px; background: linear-gradient(145deg, #fff, #f8fafb); box-shadow: 0 16px 40px rgb(29 48 66 / 8%); text-align: center; }
-.test-prompt h1 { margin: 0; color: #17324f; font-family: 'Playfair Display', Georgia, serif; font-size: clamp(25px, 4vw, 40px); line-height: 1.2; overflow-wrap: anywhere; }
+.test-prompt h1 { margin: 0; color: #17324f; font-family: 'Playfair Display', Georgia, serif; font-size: clamp(23px, 3.6vw, 36px); line-height: 1.2; overflow-wrap: anywhere; }
 .answer-options { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; width: min(720px, 100%); }
 .answer-option { min-height: 62px; padding: 12px 18px; border: 1.5px solid #d7dce1; border-radius: 14px; background: #fff; color: #40546a; cursor: pointer; font-size: 16px; font-weight: 600; overflow-wrap: anywhere; transition: transform .14s ease, border-color .14s ease, background .14s ease, color .14s ease; }
 .answer-option:hover:not(:disabled) { transform: translateY(-1px); border-color: #9aafc0; background: #edf3f7; }
@@ -219,6 +219,7 @@ button { font: inherit; }
 .flashcard:hover .flashcard-face { box-shadow: 0 30px 68px rgb(29 48 66 / 15%); }
 .flashcard-side-label { color: #9a6244; font-size: 12px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
 .flashcard-word { display: -webkit-box; max-width: 100%; padding: 0 .08em .14em; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow: hidden; font-family: 'Playfair Display', Georgia, serif; font-weight: 700; line-height: 1.22; overflow-wrap: anywhere; text-align: center; text-wrap: balance; }
+.flashcard-example, .test-example { max-width: 100%; margin: 0; color: #64758a; font-size: clamp(13px, 1.5vw, 16px); line-height: 1.5; overflow-wrap: anywhere; text-align: center; }
 .flashcard-hint { color: #8793a1; font-size: 14px; }
 .next-button { display: flex; align-items: center; justify-content: center; gap: 14px; min-width: 190px; min-height: 56px; padding: 0 24px; border: 0; border-radius: 15px; background: #173b61; color: #fff; cursor: pointer; font-size: 16px; font-weight: 700; box-shadow: 0 10px 22px rgb(23 59 97 / 18%); transition: transform .16s ease, background .16s ease; }
 .next-button:hover { transform: translateY(-2px); background: #214d77; }

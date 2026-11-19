@@ -8,7 +8,7 @@
       "dutch": "het arbeidscontract, arbeidscontracten",
       "russian": "трудовой договор",
       "english": "employment contract",
-      "example": "Het arbeidscontract is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -16,7 +16,7 @@
       "dutch": "de arbeidsmarkt, arbeidsmarkten",
       "russian": "рынок труда",
       "english": "labour market",
-      "example": "De arbeidsmarkt is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -24,7 +24,7 @@
       "dutch": "de arbeidsomstandigheden, —",
       "russian": "условия труда",
       "english": "working conditions",
-      "example": "De arbeidsomstandigheden zijn hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -32,7 +32,7 @@
       "dutch": "arbeidsongeschikt",
       "russian": "нетрудоспособный",
       "english": "incapacitated for work",
-      "example": "Een arbeidsongeschikte persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -40,7 +40,7 @@
       "dutch": "de arbeidsovereenkomst, arbeidsovereenkomsten",
       "russian": "трудовое соглашение",
       "english": "employment agreement",
-      "example": "De arbeidsovereenkomst is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -48,7 +48,7 @@
       "dutch": "de arbeidsvoorwaarde, arbeidsvoorwaarden",
       "russian": "условие труда",
       "english": "employment condition",
-      "example": "De arbeidsvoorwaarde is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -56,7 +56,7 @@
       "dutch": "het bedrijf, bedrijven",
       "russian": "компания",
       "english": "company",
-      "example": "Het bedrijf is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -64,7 +64,7 @@
       "dutch": "de belasting, belastingen",
       "russian": "налог",
       "english": "tax",
-      "example": "De belasting is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -72,7 +72,7 @@
       "dutch": "het beoordelingsgesprek, beoordelingsgesprekken",
       "russian": "оценочная беседа",
       "english": "performance review",
-      "example": "Het beoordelingsgesprek is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -80,7 +80,7 @@
       "dutch": "de bepaalde tijd, bepaalde tijden",
       "russian": "определённый срок",
       "english": "fixed term",
-      "example": "De bepaalde tijd is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -88,7 +88,7 @@
       "dutch": "beschikbaar",
       "russian": "доступный",
       "english": "available",
-      "example": "Een beschikbaare persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -96,7 +96,7 @@
       "dutch": "de bijstand, —",
       "russian": "социальная помощь",
       "english": "social assistance",
-      "example": "De bijstand is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -104,7 +104,7 @@
       "dutch": "bruto",
       "russian": "брутто",
       "english": "gross",
-      "example": "Een brutoe persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -112,7 +112,7 @@
       "dutch": "de cao (collectieve arbeidsovereenkomst), cao’s",
       "russian": "коллективный трудовой договор",
       "english": "collective labour agreement",
-      "example": "De cao is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -120,7 +120,7 @@
       "dutch": "de collega, collega’s",
       "russian": "коллега",
       "english": "colleague",
-      "example": "De collega is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -128,7 +128,7 @@
       "dutch": "de competentie, competenties",
       "russian": "компетенция",
       "english": "competence",
-      "example": "De competentie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -136,7 +136,7 @@
       "dutch": "het cv (curriculum vitae), cv’s",
       "russian": "резюме",
       "english": "CV",
-      "example": "Het cv is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -144,7 +144,7 @@
       "dutch": "de deeltijd, —",
       "russian": "неполный рабочий день",
       "english": "part-time",
-      "example": "De deeltijd is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -152,7 +152,7 @@
       "dutch": "de discriminatie, discriminaties",
       "russian": "дискриминация",
       "english": "discrimination",
-      "example": "De discriminatie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -160,7 +160,7 @@
       "dutch": "de ervaring, ervaringen",
       "russian": "опыт",
       "english": "experience",
-      "example": "De ervaring is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -168,7 +168,7 @@
       "dutch": "fulltime",
       "russian": "полный рабочий день",
       "english": "full-time",
-      "example": "Een fulltime persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -176,7 +176,7 @@
       "dutch": "de functie, functies",
       "russian": "должность",
       "english": "position",
-      "example": "De functie is hier."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -184,7 +184,7 @@
       "dutch": "functioneren, gefunctioneerd",
       "russian": "работать",
       "english": "to function",
-      "example": "Het apparaat functioneert vandaag goed."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -192,7 +192,7 @@
       "dutch": "geschikt",
       "russian": "подходящий",
       "english": "suitable",
-      "example": "Een geschikte persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -200,7 +200,7 @@
       "dutch": "het inkomen, inkomens",
       "russian": "доход",
       "english": "income",
-      "example": "Het inkomen is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -208,7 +208,7 @@
       "dutch": "de jaaropgave, jaaropgaven",
       "russian": "годовая справка о доходах",
       "english": "annual income statement",
-      "example": "De jaaropgave is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -216,7 +216,7 @@
       "dutch": "de Kamer van Koophandel (KvK), —",
       "russian": "Торговая палата",
       "english": "Chamber of Commerce",
-      "example": "De KvK is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -224,7 +224,7 @@
       "dutch": "de leidinggevende, leidinggevenden",
       "russian": "руководитель",
       "english": "manager",
-      "example": "De leidinggevende is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -232,7 +232,7 @@
       "dutch": "de loondienst, —",
       "russian": "работа по найму",
       "english": "employment",
-      "example": "De loondienst is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -240,7 +240,7 @@
       "dutch": "de loonstrook, loonstroken",
       "russian": "расчётный лист",
       "english": "payslip",
-      "example": "De loonstrook is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -248,7 +248,7 @@
       "dutch": "de MAP (module arbeidsmarkt en participatie), —",
       "russian": "модуль «Рынок труда и участие»",
       "english": "Labour Market and Participation module",
-      "example": "De MAP is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -256,7 +256,7 @@
       "dutch": "de medezeggenschapsraad (MR), medezeggenschapsraden (MR)",
       "russian": "совет работников",
       "english": "works council",
-      "example": "De medezeggenschapsraad is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -264,7 +264,7 @@
       "dutch": "het minimumloon, minimumlonen",
       "russian": "минимальная заработная плата",
       "english": "minimum wage",
-      "example": "Het minimumloon is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -272,7 +272,7 @@
       "dutch": "de motivatie, motivaties",
       "russian": "мотивация",
       "english": "motivation",
-      "example": "De motivatie is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -280,7 +280,7 @@
       "dutch": "netto",
       "russian": "нетто",
       "english": "net",
-      "example": "Een nettoe persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -288,7 +288,7 @@
       "dutch": "het netwerk, netwerken",
       "russian": "сеть",
       "english": "network",
-      "example": "Het netwerk is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -296,7 +296,7 @@
       "dutch": "de ondernemer, ondernemers",
       "russian": "предприниматель",
       "english": "entrepreneur",
-      "example": "De ondernemer is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -304,7 +304,7 @@
       "dutch": "de ondernemingsraad (OR), ondernemingsraden (OR)",
       "russian": "совет предприятия",
       "english": "works council",
-      "example": "De ondernemingsraad is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -312,7 +312,7 @@
       "dutch": "onregelmatig (werk)",
       "russian": "нерегулярный (график работы)",
       "english": "irregular (working hours)",
-      "example": "Ik werk onregelmatig vandaag."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -320,7 +320,7 @@
       "dutch": "ontslaan, ontslagen",
       "russian": "увольнять",
       "english": "to dismiss",
-      "example": "Zij ontslaat hem vandaag."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -328,7 +328,7 @@
       "dutch": "het ontslag, ontslagen",
       "russian": "увольнение",
       "english": "dismissal",
-      "example": "Het ontslag is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -336,7 +336,7 @@
       "dutch": "parttime",
       "russian": "неполный рабочий день",
       "english": "part-time",
-      "example": "Een parttime persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -344,7 +344,7 @@
       "dutch": "het pensioen, pensioenen",
       "russian": "пенсия",
       "english": "pension",
-      "example": "Het pensioen is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -352,7 +352,7 @@
       "dutch": "het personeel, —",
       "russian": "персонал",
       "english": "staff",
-      "example": "Het personeel is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -360,7 +360,7 @@
       "dutch": "de personeelsvereniging (PV), personeelsverenigingen (PV)",
       "russian": "объединение работников",
       "english": "staff association",
-      "example": "De personeelsvereniging is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -368,7 +368,7 @@
       "dutch": "regelmatig (werk)",
       "russian": "регулярный (график работы)",
       "english": "regular (working hours)",
-      "example": "Ik werk regelmatig vandaag."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -376,7 +376,7 @@
       "dutch": "de salarisstrook, salarisstroken",
       "russian": "расчётный лист зарплаты",
       "english": "payslip",
-      "example": "De salarisstrook is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -384,7 +384,7 @@
       "dutch": "de sector, sectoren",
       "russian": "сектор",
       "english": "sector",
-      "example": "De sector is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -392,7 +392,7 @@
       "dutch": "de sollicitatie, sollicitaties",
       "russian": "заявление о приёме на работу",
       "english": "job application",
-      "example": "De sollicitatie is hier."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -400,7 +400,7 @@
       "dutch": "solliciteren, gesolliciteerd",
       "russian": "подавать заявление о приёме на работу",
       "english": "to apply for a job",
-      "example": "Ik solliciteer vandaag hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -408,7 +408,7 @@
       "dutch": "de stage, stages",
       "russian": "стажировка",
       "english": "internship",
-      "example": "De stage is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -416,7 +416,7 @@
       "dutch": "de uitkering, uitkeringen",
       "russian": "пособие",
       "english": "benefit",
-      "example": "De uitkering is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -424,7 +424,7 @@
       "dutch": "het uitzendbureau, uitzendbureaus",
       "russian": "агентство по трудоустройству",
       "english": "employment agency",
-      "example": "Het uitzendbureau is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -432,7 +432,7 @@
       "dutch": "het UWV, —",
       "russian": "Агентство страхования работников",
       "english": "Employee Insurance Agency",
-      "example": "Het UWV is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -440,7 +440,7 @@
       "dutch": "de vacature, vacatures",
       "russian": "вакансия",
       "english": "vacancy",
-      "example": "De vacature is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -448,7 +448,7 @@
       "dutch": "de vakbond, vakbonden",
       "russian": "профсоюз",
       "english": "trade union",
-      "example": "De vakbond is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -456,7 +456,7 @@
       "dutch": "de vertrouwenspersoon, vertrouwenspersonen",
       "russian": "доверенное лицо",
       "english": "confidential adviser",
-      "example": "De vertrouwenspersoon is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -464,7 +464,7 @@
       "dutch": "de verzekering, verzekeringen",
       "russian": "страхование",
       "english": "insurance",
-      "example": "De verzekering is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -472,7 +472,7 @@
       "dutch": "de voltijd, —",
       "russian": "полный рабочий день",
       "english": "full-time",
-      "example": "De voltijd is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -480,7 +480,7 @@
       "dutch": "het vrijwilligerswerk, —",
       "russian": "волонтёрская работа",
       "english": "volunteer work",
-      "example": "Het vrijwilligerswerk is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -488,7 +488,7 @@
       "dutch": "de werkgever, werkgevers",
       "russian": "работодатель",
       "english": "employer",
-      "example": "De werkgever is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -496,7 +496,7 @@
       "dutch": "werkloos",
       "russian": "безработный",
       "english": "unemployed",
-      "example": "Een werkloose persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -504,7 +504,7 @@
       "dutch": "de werknemer, werknemers",
       "russian": "работник",
       "english": "employee",
-      "example": "De werknemer is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -512,7 +512,7 @@
       "dutch": "de WIA-uitkering, wia-uitkeringen",
       "russian": "пособие по нетрудоспособности WIA",
       "english": "WIA disability benefit",
-      "example": "De WIA-uitkering is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -520,7 +520,7 @@
       "dutch": "zelfstandig",
       "russian": "самостоятельный",
       "english": "self-employed",
-      "example": "Een zelfstandige persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -528,7 +528,7 @@
       "dutch": "de ziektewet, ziektewetten",
       "russian": "закон о больничных выплатах",
       "english": "Sickness Benefits Act",
-      "example": "De ziektewet is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -536,7 +536,7 @@
       "dutch": "de zzp’er, zzp’ers",
       "russian": "самозанятый",
       "english": "self-employed person",
-      "example": "De zzp’er is hier."
+      "example": ""
     }
   ]
 }

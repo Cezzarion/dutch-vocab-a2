@@ -8,7 +8,7 @@
       "dutch": "aangifte doen, aangifte gedaan",
       "russian": "подать заявление",
       "english": "to file a report",
-      "example": "Ik doe vandaag aangifte."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -16,7 +16,7 @@
       "dutch": "de advocaat, advocaten",
       "russian": "адвокат",
       "english": "lawyer",
-      "example": "De advocaat is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -24,7 +24,7 @@
       "dutch": "de asielzoeker, asielzoekers",
       "russian": "проситель убежища",
       "english": "asylum seeker",
-      "example": "De asielzoeker is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -32,7 +32,7 @@
       "dutch": "de Belastingdienst, —",
       "russian": "налоговая служба",
       "english": "Tax and Customs Administration",
-      "example": "De Belastingdienst is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -40,7 +40,7 @@
       "dutch": "de bepaalde tijd, bepaalde tijden",
       "russian": "определённый срок",
       "english": "fixed term",
-      "example": "De bepaalde tijd is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -48,7 +48,7 @@
       "dutch": "het bezwaar, bezwaren",
       "russian": "возражение",
       "english": "objection",
-      "example": "Het bezwaar is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -56,7 +56,7 @@
       "dutch": "de corruptie, —",
       "russian": "коррупция",
       "english": "corruption",
-      "example": "De corruptie is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -64,7 +64,7 @@
       "dutch": "financieel",
       "russian": "финансовый",
       "english": "financial",
-      "example": "Een financieele persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -72,7 +72,7 @@
       "dutch": "geldig",
       "russian": "действительный",
       "english": "valid",
-      "example": "Een geldige persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -80,7 +80,7 @@
       "dutch": "de GGD (Gemeentelijke Gezondheidsdienst), GGD’s",
       "russian": "муниципальная служба здравоохранения",
       "english": "municipal health service",
-      "example": "De GGD is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -88,7 +88,7 @@
       "dutch": "de huwelijksmigrant, huwelijksmigranten",
       "russian": "брачный мигрант",
       "english": "marriage migrant",
-      "example": "De huwelijksmigrant is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -96,7 +96,7 @@
       "dutch": "het identiteitsbewijs (ID), identiteitsbewijzen (ID)",
       "russian": "удостоверение личности",
       "english": "identity document",
-      "example": "Het identiteitsbewijs is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -104,7 +104,7 @@
       "dutch": "de inboedelverzekering, inboedelverzekeringen",
       "russian": "страхование домашнего имущества",
       "english": "contents insurance",
-      "example": "De inboedelverzekering is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -112,7 +112,7 @@
       "dutch": "de inburgeraar, inburgeraars",
       "russian": "участник программы интеграции",
       "english": "integration programme participant",
-      "example": "De inburgeraar is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -120,7 +120,7 @@
       "dutch": "de IND (Immigratie- en Naturalisatiedienst), —",
       "russian": "Служба иммиграции и натурализации",
       "english": "Immigration and Naturalisation Service",
-      "example": "De IND is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -128,7 +128,7 @@
       "dutch": "de inkomstenbelasting, inkomstenbelastingen",
       "russian": "подоходный налог",
       "english": "income tax",
-      "example": "De inkomstenbelasting is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -136,7 +136,7 @@
       "dutch": "de instantie, instanties",
       "russian": "учреждение",
       "english": "authority",
-      "example": "De instantie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -144,7 +144,7 @@
       "dutch": "het Juridisch Loket, —",
       "russian": "юридическая консультация",
       "english": "Legal Services Desk",
-      "example": "Het Juridisch Loket is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -152,7 +152,7 @@
       "dutch": "de klacht, klachten",
       "russian": "жалоба",
       "english": "complaint",
-      "example": "De klacht is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -160,7 +160,7 @@
       "dutch": "het maatschappelijk werk, —",
       "russian": "социальная работа",
       "english": "social work",
-      "example": "Het maatschappelijk werk is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -168,7 +168,7 @@
       "dutch": "de migrant, migranten",
       "russian": "мигрант",
       "english": "migrant",
-      "example": "De migrant is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -176,7 +176,7 @@
       "dutch": "de nationaliteit, nationaliteiten",
       "russian": "гражданство",
       "english": "nationality",
-      "example": "De nationaliteit is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -184,7 +184,7 @@
       "dutch": "de naturalisatie, naturalisaties",
       "russian": "натурализация",
       "english": "naturalisation",
-      "example": "De naturalisatie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -192,7 +192,7 @@
       "dutch": "de ombudsman, ombudsmannen",
       "russian": "омбудсмен",
       "english": "ombudsman",
-      "example": "De ombudsman is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -200,7 +200,7 @@
       "dutch": "de onbepaalde tijd, onbepaalde tijden",
       "russian": "неопределённый срок",
       "english": "indefinite term",
-      "example": "De onbepaalde tijd is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -208,7 +208,7 @@
       "dutch": "de opstalverzekering, opstalverzekeringen",
       "russian": "страхование недвижимости",
       "english": "building insurance",
-      "example": "De opstalverzekering is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -216,7 +216,7 @@
       "dutch": "de organisatie, organisaties",
       "russian": "организация",
       "english": "organization",
-      "example": "De organisatie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -224,7 +224,7 @@
       "dutch": "de overheid, overheden",
       "russian": "государство",
       "english": "government",
-      "example": "De overheid is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -232,7 +232,7 @@
       "dutch": "de polis, polissen",
       "russian": "страховой полис",
       "english": "insurance policy",
-      "example": "De polis is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -240,7 +240,7 @@
       "dutch": "de privacy, —",
       "russian": "неприкосновенность частной жизни",
       "english": "privacy",
-      "example": "De privacy is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -248,7 +248,7 @@
       "dutch": "het rijbewijs, rijbewijzen",
       "russian": "водительские права",
       "english": "driver’s license",
-      "example": "Het rijbewijs is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -256,7 +256,7 @@
       "dutch": "de schade, —",
       "russian": "ущерб",
       "english": "damage",
-      "example": "De schade is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -264,7 +264,7 @@
       "dutch": "de schuld, schulden",
       "russian": "долги",
       "english": "debts",
-      "example": "De schuld is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -272,7 +272,7 @@
       "dutch": "de statushouder, statushouders",
       "russian": "обладатель статуса беженца",
       "english": "residence permit holder",
-      "example": "De statushouder is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -280,7 +280,7 @@
       "dutch": "de toeslag, toeslagen",
       "russian": "пособие",
       "english": "allowance",
-      "example": "De toeslag is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -288,7 +288,7 @@
       "dutch": "de verblijfsvergunning, verblijfsvergunningen",
       "russian": "вид на жительство",
       "english": "residence permit",
-      "example": "De verblijfsvergunning is hier."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -296,7 +296,7 @@
       "dutch": "verlengen, verlengd",
       "russian": "продлевать",
       "english": "to extend",
-      "example": "Wij verlengen het contract vandaag."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -304,7 +304,7 @@
       "dutch": "de verzekering, verzekeringen",
       "russian": "страхование",
       "english": "insurance",
-      "example": "De verzekering is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -312,7 +312,7 @@
       "dutch": "de verzekeringsmaatschappij, verzekeringsmaatschappijen",
       "russian": "страховая компания",
       "english": "insurance company",
-      "example": "De verzekeringsmaatschappij is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -320,7 +320,7 @@
       "dutch": "de WA-verzekering (wettelijke aansprakelijkheid), WA-verzekeringen",
       "russian": "страхование гражданской ответственности",
       "english": "third-party liability insurance",
-      "example": "De WA-verzekering is hier."
+      "example": ""
     }
   ]
 }

@@ -9,9 +9,12 @@ function isNonEmptyString(value: unknown): value is string {
 }
 
 function parseEntry(value: unknown, file: string): VocabularyEntry {
-  const fields = ['type_en', 'type_ru', 'dutch', 'russian', 'english', 'example'] as const
+  const fields = ['type_en', 'type_ru', 'dutch', 'russian', 'english'] as const
   if (!isObject(value) || !fields.every((field) => isNonEmptyString(value[field]))) {
     throw new Error(`Invalid vocabulary entry in ${file}: expected non-empty string fields ${fields.join(', ')}`)
+  }
+  if (value.example !== undefined && typeof value.example !== 'string') {
+    throw new Error(`Invalid vocabulary entry in ${file}: example must be a string when provided`)
   }
 
   return {
@@ -20,7 +23,7 @@ function parseEntry(value: unknown, file: string): VocabularyEntry {
     dutch: value.dutch as string,
     russian: value.russian as string,
     english: value.english as string,
-    example: value.example as string,
+    ...(isNonEmptyString(value.example) ? { example: value.example } : {}),
   }
 }
 

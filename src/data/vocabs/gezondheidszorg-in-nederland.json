@@ -8,7 +8,7 @@
       "dutch": "de aanvullende verzekering, aanvullende verzekeringen",
       "russian": "дополнительная страховка",
       "english": "supplementary insurance",
-      "example": "De aanvullende verzekering is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -16,7 +16,7 @@
       "dutch": "de abortus, abortussen",
       "russian": "аборт",
       "english": "abortion",
-      "example": "De abortus is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -24,7 +24,7 @@
       "dutch": "het alarmnummer, alarmnummers",
       "russian": "номер экстренного вызова",
       "english": "emergency number",
-      "example": "Het alarmnummer is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -32,7 +32,7 @@
       "dutch": "de basisverzekering, basisverzekeringen",
       "russian": "базовая медицинская страховка",
       "english": "basic health insurance",
-      "example": "De basisverzekering is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -40,7 +40,7 @@
       "dutch": "het beroepsgeheim, beroepsgeheimen",
       "russian": "профессиональная тайна",
       "english": "professional confidentiality",
-      "example": "Het beroepsgeheim is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -48,7 +48,7 @@
       "dutch": "de besnijdenis, besnijdenissen",
       "russian": "обрезание",
       "english": "circumcision",
-      "example": "De besnijdenis is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -56,7 +56,7 @@
       "dutch": "het bezwaar, bezwaren",
       "russian": "возражение",
       "english": "objection",
-      "example": "Het bezwaar is hier."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -64,7 +64,7 @@
       "dutch": "declareren, gedeclareerd",
       "russian": "предъявлять к оплате",
       "english": "to claim expenses",
-      "example": "Ik declareer de kosten morgen."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -72,7 +72,7 @@
       "dutch": "de donor, donoren",
       "russian": "донор",
       "english": "donor",
-      "example": "De donor is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -80,7 +80,7 @@
       "dutch": "het donorregister, donorregisters",
       "russian": "реестр доноров",
       "english": "donor registry",
-      "example": "Het donorregister is hier."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -88,7 +88,7 @@
       "dutch": "doorverwijzen, doorverwezen",
       "russian": "направлять к специалисту",
       "english": "to refer",
-      "example": "De arts verwijst haar door."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -96,7 +96,7 @@
       "dutch": "het dossier, dossiers",
       "russian": "дело",
       "english": "file",
-      "example": "Het dossier is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -104,7 +104,7 @@
       "dutch": "de eerwraak, —",
       "russian": "убийство чести",
       "english": "honour killing",
-      "example": "De eerwraak is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -112,7 +112,7 @@
       "dutch": "de eigen bijdrage, eigen bijdragen",
       "russian": "личный взнос",
       "english": "personal contribution",
-      "example": "De eigen bijdrage is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -120,7 +120,7 @@
       "dutch": "het eigen risico, eigen risico’s",
       "russian": "франшиза",
       "english": "deductible",
-      "example": "Het eigen risico is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -128,7 +128,7 @@
       "dutch": "de euthanasie, —",
       "russian": "эвтаназия",
       "english": "euthanasia",
-      "example": "De euthanasie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -136,7 +136,7 @@
       "dutch": "de fysiotherapeut, fysiotherapeuten",
       "russian": "физиотерапевт",
       "english": "physiotherapist",
-      "example": "De fysiotherapeut is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -144,7 +144,7 @@
       "dutch": "de geestelijke gezondheidszorg (GGZ), —",
       "russian": "психиатрическая помощь",
       "english": "mental healthcare",
-      "example": "De geestelijke gezondheidszorg is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -152,7 +152,7 @@
       "dutch": "het geweld, —",
       "russian": "насилие",
       "english": "violence",
-      "example": "Het geweld is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -160,7 +160,7 @@
       "dutch": "de gezondheidszorg, —",
       "russian": "здравоохранение",
       "english": "healthcare",
-      "example": "De gezondheidszorg is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -168,7 +168,7 @@
       "dutch": "de huisartsenpost, huisartsenposten",
       "russian": "дежурная служба врачей общей практики",
       "english": "out-of-hours GP service",
-      "example": "De huisartsenpost is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -176,7 +176,7 @@
       "dutch": "het huiselijk geweld, —",
       "russian": "домашнее насилие",
       "english": "domestic violence",
-      "example": "Het huiselijk geweld is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -184,7 +184,7 @@
       "dutch": "het levensgevaar, —",
       "russian": "угроза жизни",
       "english": "life-threatening danger",
-      "example": "Het levensgevaar is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -192,7 +192,7 @@
       "dutch": "de mantelzorg, —",
       "russian": "уход за близким",
       "english": "informal care",
-      "example": "De mantelzorg is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -200,7 +200,7 @@
       "dutch": "de mishandeling, mishandelingen",
       "russian": "жестокое обращение",
       "english": "abuse",
-      "example": "De mishandeling is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -208,7 +208,7 @@
       "dutch": "de mondhygiënist, mondhygiënisten",
       "russian": "гигиенист полости рта",
       "english": "dental hygienist",
-      "example": "De mondhygiënist is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -216,7 +216,7 @@
       "dutch": "de moord, moorden",
       "russian": "убийство",
       "english": "murder",
-      "example": "De moord is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -224,7 +224,7 @@
       "dutch": "de noodsituatie, noodsituaties",
       "russian": "чрезвычайная ситуация",
       "english": "emergency situation",
-      "example": "De noodsituatie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -232,7 +232,7 @@
       "dutch": "de orgaandonatie, orgaandonaties",
       "russian": "донорство органов",
       "english": "organ donation",
-      "example": "De orgaandonatie is hier."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -240,7 +240,7 @@
       "dutch": "overlijden, overleden",
       "russian": "умирать",
       "english": "to die",
-      "example": "Hij overlijdt daar helaas."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -248,7 +248,7 @@
       "dutch": "de praktijk, praktijken",
       "russian": "практика",
       "english": "practice",
-      "example": "De praktijk is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -256,7 +256,7 @@
       "dutch": "de praktijkondersteuner (POH), praktijkondersteuners (POH)",
       "russian": "медицинский помощник при врачебной практике",
       "english": "practice nurse",
-      "example": "De praktijkondersteuner is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -264,7 +264,7 @@
       "dutch": "de premie, premies",
       "russian": "страховой взнос",
       "english": "premium",
-      "example": "De premie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -272,7 +272,7 @@
       "dutch": "het recept, recepten",
       "russian": "рецепт",
       "english": "prescription",
-      "example": "Het recept is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -280,7 +280,7 @@
       "dutch": "het recht, rechten",
       "russian": "право",
       "english": "right",
-      "example": "Het recht is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -288,7 +288,7 @@
       "dutch": "de specialist, specialisten",
       "russian": "врач-специалист",
       "english": "specialist",
-      "example": "De specialist is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -296,7 +296,7 @@
       "dutch": "de spoed, —",
       "russian": "срочность",
       "english": "urgency",
-      "example": "De spoed is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -304,7 +304,7 @@
       "dutch": "de Spoedeisende Hulp (SEH), —",
       "russian": "отделение неотложной помощи",
       "english": "emergency department",
-      "example": "De Spoedeisende Hulp is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -312,7 +312,7 @@
       "dutch": "strafbaar",
       "russian": "наказуемый",
       "english": "punishable",
-      "example": "Een strafbaare persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -320,7 +320,7 @@
       "dutch": "de therapeut, therapeuten",
       "russian": "терапевт",
       "english": "therapist",
-      "example": "De therapeut is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -328,7 +328,7 @@
       "dutch": "de toestemming, —",
       "russian": "согласие",
       "english": "consent",
-      "example": "De toestemming is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -336,7 +336,7 @@
       "dutch": "de tolk, tolken",
       "russian": "переводчик",
       "english": "interpreter",
-      "example": "De tolk is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -344,7 +344,7 @@
       "dutch": "de vaccinatie, vaccinaties",
       "russian": "вакцинация",
       "english": "vaccination",
-      "example": "De vaccinatie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -352,7 +352,7 @@
       "dutch": "de vergoeding, vergoedingen",
       "russian": "возмещение",
       "english": "reimbursement",
-      "example": "De vergoeding is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -360,7 +360,7 @@
       "dutch": "de verkrachting, verkrachtingen",
       "russian": "изнасилование",
       "english": "rape",
-      "example": "De verkrachting is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -368,7 +368,7 @@
       "dutch": "de verwijzing, verwijzingen",
       "russian": "направление",
       "english": "referral",
-      "example": "De verwijzing is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -376,7 +376,7 @@
       "dutch": "de verzekering, verzekeringen",
       "russian": "страхование",
       "english": "insurance",
-      "example": "De verzekering is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -384,7 +384,7 @@
       "dutch": "de zorg, —",
       "russian": "здравоохранение",
       "english": "care",
-      "example": "De zorg is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -392,7 +392,7 @@
       "dutch": "de zorgtoeslag, zorgtoeslagen",
       "russian": "пособие на медицинскую страховку",
       "english": "healthcare benefit",
-      "example": "De zorgtoeslag is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -400,7 +400,7 @@
       "dutch": "de zorgverzekering, zorgverzekeringen",
       "russian": "медицинская страховка",
       "english": "health insurance",
-      "example": "De zorgverzekering is hier."
+      "example": ""
     }
   ]
 }

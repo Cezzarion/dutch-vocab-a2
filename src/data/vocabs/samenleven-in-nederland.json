@@ -8,7 +8,7 @@
       "dutch": "afzeggen, afgezegd",
       "russian": "отменить",
       "english": "cancel",
-      "example": "Ik zeg vandaag helaas af."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -16,7 +16,7 @@
       "dutch": "de begrafenis, begrafenissen",
       "russian": "похороны",
       "english": "funeral",
-      "example": "De begrafenis is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -24,7 +24,7 @@
       "dutch": "de beschuit met muisjes, beschuiten met muisjes",
       "russian": "сухарь с посыпкой из анисовых драже",
       "english": "Dutch rusk with anise sprinkles",
-      "example": "De beschuit is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -32,7 +32,7 @@
       "dutch": "de Bevrijdingsdag, Bevrijdingsdagen",
       "russian": "День освобождения",
       "english": "Liberation Day",
-      "example": "De Bevrijdingsdag is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -40,7 +40,7 @@
       "dutch": "de bruiloft, bruiloften",
       "russian": "свадьба",
       "english": "wedding",
-      "example": "De bruiloft is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -48,7 +48,7 @@
       "dutch": "het buurthuis, buurthuizen",
       "russian": "общественный центр",
       "english": "community centre",
-      "example": "Het buurthuis is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -56,7 +56,7 @@
       "dutch": "de crematie, crematies",
       "russian": "кремация",
       "english": "cremation",
-      "example": "De crematie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -64,7 +64,7 @@
       "dutch": "de discriminatie, discriminaties",
       "russian": "дискриминация",
       "english": "discrimination",
-      "example": "De discriminatie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -72,7 +72,7 @@
       "dutch": "de Dodenherdenking, Dodenherdenkingen",
       "russian": "День поминовения погибших",
       "english": "Remembrance of the Dead",
-      "example": "De Dodenherdenking is hier."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -80,7 +80,7 @@
       "dutch": "feliciteren, gefeliciteerd",
       "russian": "поздравлять",
       "english": "to congratulate",
-      "example": "Wij feliciteren haar vandaag."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -88,7 +88,7 @@
       "dutch": "het geregistreerd partnerschap, geregistreerde partnerschappen",
       "russian": "зарегистрированное партнёрство",
       "english": "registered partnership",
-      "example": "Het geregistreerd partnerschap is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -96,7 +96,7 @@
       "dutch": "de gewoonte, gewoonten",
       "russian": "обычай",
       "english": "custom",
-      "example": "De gewoonte is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -104,7 +104,7 @@
       "dutch": "het homohuwelijk, homohuwelijken",
       "russian": "однополый брак",
       "english": "same-sex marriage",
-      "example": "Het homohuwelijk is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -112,7 +112,7 @@
       "dutch": "homoseksueel",
       "russian": "гомосексуальный",
       "english": "homosexual",
-      "example": "Een homoseksueele persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -120,7 +120,7 @@
       "dutch": "het huwelijk, huwelijken",
       "russian": "брак",
       "english": "marriage",
-      "example": "Het huwelijk is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -128,7 +128,7 @@
       "dutch": "de Kerstmis, —",
       "russian": "Рождество",
       "english": "Christmas",
-      "example": "De Kerstmis is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -136,7 +136,7 @@
       "dutch": "de Koningsdag, Koningsdagen",
       "russian": "День короля",
       "english": "King's Day",
-      "example": "De Koningsdag is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -144,7 +144,7 @@
       "dutch": "de latrelatie, latrelaties",
       "russian": "отношения на расстоянии",
       "english": "living-apart-together relationship",
-      "example": "De latrelatie is hier."
+      "example": ""
     },
     {
       "type_en": "adjective",
@@ -152,7 +152,7 @@
       "dutch": "lesbisch",
       "russian": "лесбийский",
       "english": "lesbian",
-      "example": "Een lesbische persoon komt hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -160,7 +160,7 @@
       "dutch": "de oliebol, oliebollen",
       "russian": "пончики олибол",
       "english": "Dutch doughnut",
-      "example": "De oliebol is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -168,7 +168,7 @@
       "dutch": "de organisatie, organisaties",
       "russian": "организация",
       "english": "organization",
-      "example": "De organisatie is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -176,7 +176,7 @@
       "dutch": "het oud en nieuw, —",
       "russian": "Новый год",
       "english": "New Year's Eve and New Year's Day",
-      "example": "Het oud is hier."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -184,7 +184,7 @@
       "dutch": "overlijden, overleden",
       "russian": "умирать",
       "english": "to die",
-      "example": "Hij overlijdt daar helaas."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -192,7 +192,7 @@
       "dutch": "de Pasen, —",
       "russian": "Пасха",
       "english": "Easter",
-      "example": "De Pasen is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -200,7 +200,7 @@
       "dutch": "het recht, rechten",
       "russian": "право",
       "english": "right",
-      "example": "Het recht is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -208,7 +208,7 @@
       "dutch": "de regenboogvlag, regenboogvlaggen",
       "russian": "радужный флаг",
       "english": "rainbow flag",
-      "example": "De regenboogvlag is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -216,7 +216,7 @@
       "dutch": "het samenlevingscontract, samenlevingscontracten",
       "russian": "договор о совместном проживании",
       "english": "cohabitation agreement",
-      "example": "Het samenlevingscontract is hier."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -224,7 +224,7 @@
       "dutch": "samenwonen, samengewoond",
       "russian": "жить вместе",
       "english": "to live together",
-      "example": "Zij wonen hier samen."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -232,7 +232,7 @@
       "dutch": "de Sinterklaas, —",
       "russian": "Синтерклаас",
       "english": "Saint Nicholas",
-      "example": "De Sinterklaas is hier."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -240,7 +240,7 @@
       "dutch": "slagen, geslaagd",
       "russian": "сдать экзамен",
       "english": "to pass",
-      "example": "Jij slaagt vandaag direct."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -248,7 +248,7 @@
       "dutch": "de slavernij, —",
       "russian": "рабство",
       "english": "slavery",
-      "example": "De slavernij is hier."
+      "example": ""
     },
     {
       "type_en": "verb",
@@ -256,7 +256,7 @@
       "dutch": "uitnodigen, uitgenodigd",
       "russian": "приглашать",
       "english": "to invite",
-      "example": "Ik nodig haar morgen uit."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -264,7 +264,7 @@
       "dutch": "de verjaardag, verjaardagen",
       "russian": "день рождения",
       "english": "birthday",
-      "example": "De verjaardag is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -272,7 +272,7 @@
       "dutch": "de vlag, vlaggen",
       "russian": "флаг",
       "english": "flag",
-      "example": "De vlag is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -280,7 +280,7 @@
       "dutch": "het volkslied, volksliederen",
       "russian": "государственный гимн",
       "english": "national anthem",
-      "example": "Het volkslied is hier."
+      "example": ""
     },
     {
       "type_en": "noun",
@@ -288,7 +288,7 @@
       "dutch": "het vrijwilligerswerk, —",
       "russian": "волонтёрская работа",
       "english": "volunteer work",
-      "example": "Het vrijwilligerswerk is hier."
+      "example": ""
     }
   ]
 }
