@@ -31,6 +31,7 @@ const sessionCopy = {
     progress: 'Прогресс сессии',
     question: 'Слово',
     answer: 'Перевод',
+    exampleLabel: 'Пример',
   },
   en: {
     title: 'Flashcards',
@@ -48,22 +49,25 @@ const sessionCopy = {
     progress: 'Session progress',
     question: 'Word',
     answer: 'Translation',
+    exampleLabel: 'Example',
   },
 } satisfies Record<Locale, Record<string, string>>
 
 interface FlashcardProps {
   front: string
   back: string
-  frontExample?: string
-  backExample?: string
   frontLabel: string
   backLabel: string
+  exampleLabel: string
   flipHint: string
+  frontExample?: string
+  backExampleDutch?: string
+  backExampleTranslation?: string
 }
 
-function Flashcard({ front, back, frontExample, backExample, frontLabel, backLabel, flipHint }: FlashcardProps) {
+function Flashcard({ front, back, frontLabel, backLabel, exampleLabel, flipHint, frontExample, backExampleDutch, backExampleTranslation }: FlashcardProps) {
   const [isFlipped, setIsFlipped] = useState(false)
-  const fontSizeFor = (word: string) => `clamp(15px, ${(320 / Math.max(word.length, 1)).toFixed(2)}cqi, 62px)`
+  const fontSizeFor = (word: string) => `clamp(15px, ${(240 / Math.max(word.length, 1)).toFixed(2)}cqi, 42px)`
 
   return (
     <button
@@ -77,13 +81,20 @@ function Flashcard({ front, back, frontExample, backExample, frontLabel, backLab
         <span aria-hidden={isFlipped} className="flashcard-face flashcard-front">
           <span className="flashcard-side-label">{frontLabel}</span>
           <span className="flashcard-word" style={{ fontSize: fontSizeFor(front) }}>{front}</span>
-          {frontExample && <span className="flashcard-example">{frontExample}</span>}
+          {frontExample && <>
+            <span className="flashcard-side-label">{exampleLabel}</span>
+            <span className="flashcard-example">{frontExample}</span>
+          </>}
           <span className="flashcard-hint">{flipHint}</span>
         </span>
         <span aria-hidden={!isFlipped} className="flashcard-face flashcard-back">
           <span className="flashcard-side-label">{backLabel}</span>
           <span className="flashcard-word" style={{ fontSize: fontSizeFor(back) }}>{back}</span>
-          {backExample && <span className="flashcard-example">{backExample}</span>}
+          {backExampleDutch && <>
+            <span className="flashcard-side-label">{exampleLabel}</span>
+            <span className="flashcard-example">{backExampleDutch}</span>
+            {backExampleTranslation && <span className="flashcard-example flashcard-example-translation">{backExampleTranslation}</span>}
+          </>}
           <span className="flashcard-hint">{flipHint}</span>
         </span>
       </span>
@@ -169,49 +180,47 @@ export default function FlashcardsSession({
             </div>
           </div>
 
-          {isComplete ? (
-            <div className="session-complete">
-              <span aria-hidden="true" className="completion-mark">✓</span>
-              <h1>{copy.completed}</h1>
-              <p>{copy.completedDescription}</p>
-              <div className="completion-actions">
-                <button className="next-button" onClick={goBack} type="button">← {copy.back}</button>
-                <button className="next-button" onClick={onExit} type="button">{copy.finish}</button>
+          <div className="flashcard-stage">
+            {isComplete ? (
+              <div className="session-complete-inline">
+                <span aria-hidden="true" className="completion-mark">✓</span>
+                <h1>{copy.completed}</h1>
+                <p>{copy.completedDescription}</p>
               </div>
-            </div>
-          ) : (
-            <div className="flashcard-stage">
+            ) : (
               <Flashcard
                 back={back ?? ''}
                 backLabel={backLabel}
-                backExample={backLabel === copy.question ? currentEntry.example : undefined}
+                backExampleDutch={currentEntry.example}
+                backExampleTranslation={locale === 'ru' ? currentEntry.example_ru : currentEntry.example_en}
+                exampleLabel={copy.exampleLabel}
                 flipHint={copy.flipHint}
                 front={front ?? ''}
-                frontExample={frontLabel === copy.question ? currentEntry.example : undefined}
+                frontExample={direction === 'dutch-to-translation' ? currentEntry.example : undefined}
                 frontLabel={frontLabel}
                 key={currentIndex}
               />
-              <div className="card-navigation">
-                {currentEntry && (
-                  <button
-                    aria-pressed={isEasy}
-                    className="easy-button"
-                    disabled={isEasy}
-                    onClick={() => {
-                      onMarkEasy(currentEntry)
-                      advance()
-                    }}
-                    type="button"
-                  >
-                    {isEasy ? copy.markedEasy : copy.markEasy}
-                  </button>
-                )}
-                <button className="next-button" disabled={currentIndex === 0} onClick={goBack} type="button"><span aria-hidden="true">←</span>{copy.back}</button>
-                <button className="next-button" onClick={advance} type="button">{copy.next}<span aria-hidden="true">→</span></button>
-              </div>
-              <button className="exit-button" onClick={onExit} type="button">{copy.exit}</button>
+            )}
+            <div className="card-navigation">
+              {!isComplete && currentEntry && (
+                <button
+                  aria-pressed={isEasy}
+                  className="easy-button"
+                  disabled={isEasy}
+                  onClick={() => {
+                    onMarkEasy(currentEntry)
+                    advance()
+                  }}
+                  type="button"
+                >
+                  {isEasy ? copy.markedEasy : copy.markEasy}
+                </button>
+              )}
+              <button className="next-button" disabled={currentIndex === 0} onClick={goBack} type="button"><span aria-hidden="true">←</span>{copy.back}</button>
+              {!isComplete && <button className="next-button" onClick={advance} type="button">{copy.next}<span aria-hidden="true">→</span></button>}
             </div>
-          )}
+            <button className="exit-button" onClick={onExit} type="button">{isComplete ? copy.finish : copy.exit}</button>
+          </div>
         </section>
       </div>
     </main>

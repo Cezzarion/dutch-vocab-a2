@@ -15,9 +15,10 @@ import EducationSession from '../education/EducationSession'
 export default function StartPage() {
   const [locale, setLocale] = useState<Locale>('ru')
   const [direction, setDirection] = useState<Direction>('dutch-to-translation')
-  const [selectedDictionaryIds, setSelectedDictionaryIds] = useState(
-    () => new Set(vocabularies.map(({ id }) => id)),
-  )
+  const [selectedDictionaryIds, setSelectedDictionaryIds] = useState(() => {
+    const a2 = vocabularies.find(({ id }) => id.includes('a2-cefr'))
+    return a2 ? new Set([a2.id]) : new Set(vocabularies.map(({ id }) => id))
+  })
   const [selectedTypeIds, setSelectedTypeIds] = useState(
     () => new Set(vocabularyEntries.map(({ type_en }) => type_en)),
   )

@@ -8,7 +8,9 @@
       "dutch": "de beroepsopleiding, beroepsopleidingen",
       "russian": "профессиональное образование",
       "english": "vocational education",
-      "example": ""
+      "example": "De beroepsopleiding duurt vier jaar.",
+      "example_ru": "Профессиональное обучение длится четыре года.",
+      "example_en": "The vocational education lasts four years."
     },
     {
       "type_en": "noun",
@@ -16,7 +18,9 @@
       "dutch": "de besnijdenis, besnijdenissen",
       "russian": "обрезание",
       "english": "circumcision",
-      "example": ""
+      "example": "De besnijdenis is hier verboden.",
+      "example_ru": "Обрезание здесь запрещено.",
+      "example_en": "Circumcision is forbidden here."
     },
     {
       "type_en": "noun",
@@ -24,7 +28,9 @@
       "dutch": "de bevalling, bevallingen",
       "russian": "роды",
       "english": "childbirth",
-      "example": ""
+      "example": "De bevalling verliep goed vandaag.",
+      "example_ru": "Роды прошли сегодня хорошо.",
+      "example_en": "The childbirth went well today."
     },
     {
       "type_en": "noun",
@@ -32,7 +38,9 @@
       "dutch": "de bijscholing, bijscholingen",
       "russian": "повышение квалификации",
       "english": "further training",
-      "example": ""
+      "example": "De bijscholing begint volgende maand.",
+      "example_ru": "Повышение квалификации начинается в следующем месяце.",
+      "example_en": "The further training starts next month."
     },
     {
       "type_en": "noun",
@@ -40,7 +48,9 @@
       "dutch": "de brugklas, brugklassen",
       "russian": "первый класс средней школы",
       "english": "first year of secondary school",
-      "example": ""
+      "example": "De brugklas start in september.",
+      "example_ru": "Первый класс средней школы начинается в сентябре.",
+      "example_en": "The first year of secondary school starts in September."
     },
     {
       "type_en": "noun",
@@ -48,7 +58,9 @@
       "dutch": "de buitenschoolse opvang (BSO), —",
       "russian": "внешкольный присмотр",
       "english": "out-of-school care",
-      "example": ""
+      "example": "De BSO sluit om zes.",
+      "example_ru": "Внешкольный присмотр закрывается в шесть.",
+      "example_en": "The out-of-school care closes at six."
     },
     {
       "type_en": "noun",
@@ -56,7 +68,9 @@
       "dutch": "het consultatiebureau, consultatiebureaus",
       "russian": "детская консультация",
       "english": "child health clinic",
-      "example": ""
+      "example": "Het consultatiebureau is dichtbij hier.",
+      "example_ru": "Детская консультация находится здесь поблизости.",
+      "example_en": "The child health clinic is nearby."
     },
     {
       "type_en": "verb",
@@ -64,7 +78,9 @@
       "dutch": "doorstromen, doorgestroomd",
       "russian": "переходить на следующий уровень",
       "english": "to progress",
-      "example": ""
+      "example": "Zij stroomt door naar havo.",
+      "example_ru": "Она переходит на уровень хаво.",
+      "example_en": "She progresses to havo."
     },
     {
       "type_en": "noun",
@@ -72,7 +88,9 @@
       "dutch": "de DUO (Dienst Uitvoering Onderwijs), —",
       "russian": "Служба исполнения образовательных программ",
       "english": "Education Executive Agency",
-      "example": ""
+      "example": "De DUO betaalt studiefinanciering uit.",
+      "example_ru": "DUO выплачивает стипендию.",
+      "example_en": "DUO pays out student finance."
     },
     {
       "type_en": "noun",
@@ -80,7 +98,9 @@
       "dutch": "de gastouder, gastouders",
       "russian": "няня",
       "english": "childminder",
-      "example": ""
+      "example": "De gastouder past vandaag op.",
+      "example_ru": "Няня присматривает за детьми сегодня.",
+      "example_en": "The childminder is babysitting today."
     },
     {
       "type_en": "noun",
@@ -88,7 +108,9 @@
       "dutch": "de geboortezorg, —",
       "russian": "помощь при родах",
       "english": "maternity care",
-      "example": ""
+      "example": "De geboortezorg is hier goed.",
+      "example_ru": "Помощь при родах здесь хорошая.",
+      "example_en": "Maternity care is good here."
     },
     {
       "type_en": "noun",
@@ -96,7 +118,9 @@
       "dutch": "het gedragsprobleem, gedragsproblemen",
       "russian": "проблема поведения",
       "english": "behavioural problem",
-      "example": ""
+      "example": "Het gedragsprobleem groeit steeds meer.",
+      "example_ru": "Проблема поведения всё усиливается.",
+      "example_en": "The behavioural problem keeps growing."
     },
     {
       "type_en": "noun",
@@ -104,7 +128,9 @@
       "dutch": "de havo, havo's",
       "russian": "старшая средняя школа (HAVO)",
       "english": " senior general secondary education",
-      "example": ""
+      "example": "De havo duurt hier vijf jaar.",
+      "example_ru": "Хаво здесь длится пять лет.",
+      "example_en": "Havo lasts five years here."
     },
     {
       "type_en": "noun",
@@ -112,7 +138,9 @@
       "dutch": "het hbo (hoger beroepsonderwijs), —",
       "russian": "высшее профессиональное образование",
       "english": "higher professional education",
-      "example": ""
+      "example": "Het hbo trekt veel studenten.",
+      "example_ru": "Высшее профессиональное образование привлекает много студентов.",
+      "example_en": "Higher professional education attracts many students."
     },
     {
       "type_en": "noun",
@@ -120,7 +148,9 @@
       "dutch": "het IDW (internationale diplomawaardering), —",
       "russian": "служба оценки иностранных дипломов",
       "english": "International Credential Evaluation",
-      "example": ""
+      "example": "Het IDW beoordeelt buitenlandse diploma's snel.",
+      "example_ru": "IDW быстро оценивает иностранные дипломы.",
+      "example_en": "IDW evaluates foreign diplomas quickly."
     },
     {
       "type_en": "noun",
@@ -128,7 +158,9 @@
       "dutch": "de jeugdzorg, —",
       "russian": "служба помощи молодёжи",
       "english": "youth care",
-      "example": ""
+      "example": "De jeugdzorg helpt kinderen graag.",
+      "example_ru": "Служба помощи молодёжи охотно помогает детям.",
+      "example_en": "Youth care gladly helps children."
     },
     {
       "type_en": "noun",
@@ -136,7 +168,9 @@
       "dutch": "de kinderbescherming, —",
       "russian": "защита детей",
       "english": "child protection",
-      "example": ""
+      "example": "De kinderbescherming werkt hier dagelijks.",
+      "example_ru": "Служба защиты детей работает здесь ежедневно.",
+      "example_en": "Child protection works here daily."
     },
     {
       "type_en": "noun",
@@ -144,7 +178,9 @@
       "dutch": "de kinderbijslag, —",
       "russian": "детское пособие",
       "english": "child benefit",
-      "example": ""
+      "example": "De kinderbijslag komt elk kwartaal.",
+      "example_ru": "Детское пособие приходит каждый квартал.",
+      "example_en": "The child benefit comes every quarter."
     },
     {
       "type_en": "noun",
@@ -152,7 +188,9 @@
       "dutch": "de kinderopvang, —",
       "russian": "уход за детьми",
       "english": "childcare",
-      "example": ""
+      "example": "De kinderopvang opent om zeven.",
+      "example_ru": "Детский сад открывается в семь.",
+      "example_en": "The childcare opens at seven."
     },
     {
       "type_en": "noun",
@@ -160,7 +198,9 @@
       "dutch": "de kinderopvangtoeslag, kinderopvangtoeslagen",
       "russian": "пособие на детский сад",
       "english": "childcare benefit",
-      "example": ""
+      "example": "De kinderopvangtoeslag helpt ouders goed.",
+      "example_ru": "Пособие на детский сад хорошо помогает родителям.",
+      "example_en": "The childcare benefit helps parents well."
     },
     {
       "type_en": "noun",
@@ -168,7 +208,9 @@
       "dutch": "de leerplicht, —",
       "russian": "обязательное школьное обучение",
       "english": "compulsory education",
-      "example": ""
+      "example": "De leerplicht geldt tot zestien.",
+      "example_ru": "Обязательное обучение действует до шестнадцати лет.",
+      "example_en": "Compulsory education applies until sixteen."
     },
     {
       "type_en": "noun",
@@ -176,7 +218,9 @@
       "dutch": "het leerprobleem, leerproblemen",
       "russian": "проблема с обучением",
       "english": "learning problem",
-      "example": ""
+      "example": "Het leerprobleem valt snel op.",
+      "example_ru": "Проблема с обучением быстро заметна.",
+      "example_en": "The learning problem is quickly noticed."
     },
     {
       "type_en": "noun",
@@ -184,7 +228,9 @@
       "dutch": "het mbo (middelbaar beroepsonderwijs), —",
       "russian": "среднее профессиональное образование",
       "english": "secondary vocational education",
-      "example": ""
+      "example": "Het mbo biedt veel beroepen.",
+      "example_ru": "Среднее профессиональное образование предлагает много профессий.",
+      "example_en": "Secondary vocational education offers many professions."
     },
     {
       "type_en": "noun",
@@ -192,7 +238,9 @@
       "dutch": "de middelbare school, middelbare scholen",
       "russian": "средняя школа",
       "english": "secondary school",
-      "example": ""
+      "example": "De middelbare school is dichtbij.",
+      "example_ru": "Средняя школа находится рядом.",
+      "example_en": "The secondary school is nearby."
     },
     {
       "type_en": "noun",
@@ -200,7 +248,9 @@
       "dutch": "de mishandeling, mishandelingen",
       "russian": "жестокое обращение",
       "english": "abuse",
-      "example": ""
+      "example": "De mishandeling is altijd strafbaar.",
+      "example_ru": "Жестокое обращение всегда наказуемо.",
+      "example_en": "Abuse is always punishable."
     },
     {
       "type_en": "noun",
@@ -208,7 +258,9 @@
       "dutch": "het onderwijs, —",
       "russian": "образование",
       "english": "education",
-      "example": ""
+      "example": "Het onderwijs is hier gratis.",
+      "example_ru": "Образование здесь бесплатное.",
+      "example_en": "Education is free here."
     },
     {
       "type_en": "noun",
@@ -216,7 +268,9 @@
       "dutch": "de ontwikkeling, ontwikkelingen",
       "russian": "развитие",
       "english": "development",
-      "example": ""
+      "example": "De ontwikkeling gaat hier snel.",
+      "example_ru": "Развитие идёт здесь быстро.",
+      "example_en": "Development goes quickly here."
     },
     {
       "type_en": "noun",
@@ -224,7 +278,9 @@
       "dutch": "de opleiding, opleidingen",
       "russian": "образование",
       "english": "course",
-      "example": ""
+      "example": "De opleiding duurt twee jaar.",
+      "example_ru": "Обучение длится два года.",
+      "example_en": "The course lasts two years."
     },
     {
       "type_en": "noun",
@@ -232,7 +288,9 @@
       "dutch": "de opvang, —",
       "russian": "присмотр",
       "english": "care",
-      "example": ""
+      "example": "De opvang sluit om zes.",
+      "example_ru": "Присмотр закрывается в шесть.",
+      "example_en": "The care facility closes at six."
     },
     {
       "type_en": "noun",
@@ -240,7 +298,9 @@
       "dutch": "de opvoeding, —",
       "russian": "воспитание",
       "english": "upbringing",
-      "example": ""
+      "example": "De opvoeding is soms lastig.",
+      "example_ru": "Воспитание иногда бывает непростым.",
+      "example_en": "Upbringing is sometimes difficult."
     },
     {
       "type_en": "noun",
@@ -248,7 +308,9 @@
       "dutch": "de ouderavond, ouderavonden",
       "russian": "родительское собрание",
       "english": "parents' evening",
-      "example": ""
+      "example": "De ouderavond is vanavond hier.",
+      "example_ru": "Родительское собрание сегодня вечером здесь.",
+      "example_en": "The parents' evening is here tonight."
     },
     {
       "type_en": "noun",
@@ -256,7 +318,9 @@
       "dutch": "de ouderbijdrage, ouderbijdragen",
       "russian": "родительский взнос",
       "english": "parental contribution",
-      "example": ""
+      "example": "De ouderbijdrage betaal je jaarlijks.",
+      "example_ru": "Родительский взнос платится ежегодно.",
+      "example_en": "You pay the parental contribution annually."
     },
     {
       "type_en": "noun",
@@ -264,7 +328,9 @@
       "dutch": "de peuter, peuters",
       "russian": "ребёнок младшего дошкольного возраста",
       "english": "toddler",
-      "example": ""
+      "example": "De peuter speelt buiten graag.",
+      "example_ru": "Малыш любит играть на улице.",
+      "example_en": "The toddler likes to play outside."
     },
     {
       "type_en": "noun",
@@ -272,7 +338,9 @@
       "dutch": "het rapport, rapporten",
       "russian": "табель",
       "english": "report",
-      "example": ""
+      "example": "Het rapport komt morgen mee.",
+      "example_ru": "Табель принесут завтра.",
+      "example_en": "The report card comes tomorrow."
     },
     {
       "type_en": "noun",
@@ -280,7 +348,9 @@
       "dutch": "het schoolreisje, schoolreisjes",
       "russian": "школьная экскурсия",
       "english": "school trip",
-      "example": ""
+      "example": "Het schoolreisje is erg leuk.",
+      "example_ru": "Школьная экскурсия очень интересная.",
+      "example_en": "The school trip is really fun."
     },
     {
       "type_en": "verb",
@@ -288,7 +358,9 @@
       "dutch": "studeren, gestudeerd",
       "russian": "учиться",
       "english": "to study",
-      "example": ""
+      "example": "Hij studeert elke dag hard.",
+      "example_ru": "Он усердно учится каждый день.",
+      "example_en": "He studies hard every day."
     },
     {
       "type_en": "noun",
@@ -296,7 +368,9 @@
       "dutch": "de studie, studies",
       "russian": "учёба",
       "english": "study",
-      "example": ""
+      "example": "De studie duurt vier jaar.",
+      "example_ru": "Учёба длится четыре года.",
+      "example_en": "The study lasts four years."
     },
     {
       "type_en": "noun",
@@ -304,7 +378,9 @@
       "dutch": "de SVB (Sociale Verzekeringsbank), —",
       "russian": "Банк социального страхования",
       "english": "Social Insurance Bank",
-      "example": ""
+      "example": "De SVB betaalt kinderbijslag uit.",
+      "example_ru": "SVB выплачивает детское пособие.",
+      "example_en": "SVB pays out child benefit."
     },
     {
       "type_en": "noun",
@@ -312,7 +388,9 @@
       "dutch": "de vaccinatie, vaccinaties",
       "russian": "вакцинация",
       "english": "vaccination",
-      "example": ""
+      "example": "De vaccinatie is vandaag gratis.",
+      "example_ru": "Вакцинация сегодня бесплатная.",
+      "example_en": "The vaccination is free today."
     },
     {
       "type_en": "adjective",
@@ -320,7 +398,9 @@
       "dutch": "verantwoordelijk",
       "russian": "ответственный",
       "english": "responsible",
-      "example": ""
+      "example": "Een verantwoordelijke ouder let goed op.",
+      "example_ru": "Ответственный родитель внимательно следит.",
+      "example_en": "A responsible parent pays close attention."
     },
     {
       "type_en": "noun",
@@ -328,7 +408,9 @@
       "dutch": "het vmbo, —",
       "russian": "предпрофессиональное среднее образование",
       "english": "pre-vocational secondary education",
-      "example": ""
+      "example": "Het vmbo biedt veel richtingen.",
+      "example_ru": "VMBO предлагает много направлений.",
+      "example_en": "Vmbo offers many directions."
     },
     {
       "type_en": "noun",
@@ -336,7 +418,9 @@
       "dutch": "de voorschool, voorscholen",
       "russian": "дошкольное учреждение",
       "english": "preschool",
-      "example": ""
+      "example": "De voorschool begint om negen.",
+      "example_ru": "Дошкольное учреждение начинает работу в девять.",
+      "example_en": "The preschool starts at nine."
     },
     {
       "type_en": "noun",
@@ -344,7 +428,9 @@
       "dutch": "het voortgezet onderwijs, —",
       "russian": "среднее образование",
       "english": "secondary education",
-      "example": ""
+      "example": "Het voortgezet onderwijs start hier.",
+      "example_ru": "Среднее образование начинается здесь.",
+      "example_en": "Secondary education starts here."
     },
     {
       "type_en": "noun",
@@ -352,7 +438,9 @@
       "dutch": "het vwo, —",
       "russian": "предуниверситетское среднее образование",
       "english": "pre-university education",
-      "example": ""
+      "example": "Het vwo duurt hier zes jaar.",
+      "example_ru": "VWO здесь длится шесть лет.",
+      "example_en": "Vwo lasts six years here."
     },
     {
       "type_en": "verb",
@@ -360,7 +448,9 @@
       "dutch": "waarderen (diploma), gewaardeerd",
       "russian": "признавать (диплом)",
       "english": "to assess (a diploma)",
-      "example": ""
+      "example": "Zij waardeert het diploma snel.",
+      "example_ru": "Она быстро оценивает диплом.",
+      "example_en": "She assesses the diploma quickly."
     },
     {
       "type_en": "noun",
@@ -368,7 +458,9 @@
       "dutch": "het wo (wetenschappelijk onderwijs), —",
       "russian": "университетское образование",
       "english": "university education",
-      "example": ""
+      "example": "Het wo trekt veel studenten.",
+      "example_ru": "Университетское образование привлекает много студентов.",
+      "example_en": "University education attracts many students."
     },
     {
       "type_en": "noun",
@@ -376,7 +468,9 @@
       "dutch": "de zwangerschap, zwangerschappen",
       "russian": "беременность",
       "english": "pregnancy",
-      "example": ""
+      "example": "De zwangerschap duurt negen maanden.",
+      "example_ru": "Беременность длится девять месяцев.",
+      "example_en": "Pregnancy lasts nine months."
     }
   ]
 }
