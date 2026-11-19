@@ -8,6 +8,7 @@ const verb: VocabularyEntry = {
   dutch: 'lopen, gelopen',
   russian: 'идти',
   english: 'walk',
+  example: 'Ik loop vandaag naar huis.',
 }
 
 const noun: VocabularyEntry = {
@@ -16,6 +17,7 @@ const noun: VocabularyEntry = {
   dutch: 'de tafel, tafels',
   russian: 'стол',
   english: 'table',
+  example: 'De tafel staat hier vandaag.',
 }
 
 const duplicateNoun: VocabularyEntry = {

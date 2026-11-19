@@ -157,6 +157,9 @@ export default function TestSession({
               <div className="test-prompt">
                 <span className="flashcard-side-label">{strings.question}</span>
                 <h1>{promptFor(currentEntry, locale, direction)}</h1>
+                {direction === 'dutch-to-translation' && currentEntry.example && (
+                  <p className="test-example">{currentEntry.example}</p>
+                )}
               </div>
               <div aria-label={strings.title} className="answer-options">
                 {options.map((option) => {

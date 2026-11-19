@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "A2 Basis",
   "entries": [
     {
@@ -7,2674 +7,3056 @@
       "type_ru": "глагол",
       "dutch": "aankleden, aangekleed",
       "russian": "одеваться",
-      "english": "get dressed"
+      "english": "get dressed",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de aantekening, aantekeningen",
       "russian": "заметка",
-      "english": "note"
+      "english": "note",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "aanwezig",
       "russian": "присутствующий",
-      "english": "present"
+      "english": "present",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het abonnement, abonnementen",
       "russian": "подписка",
-      "english": "subscription"
+      "english": "subscription",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de actie, acties",
       "russian": "действие",
-      "english": "action"
+      "english": "action",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "actief",
       "russian": "активный",
-      "english": "active"
+      "english": "active",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de activiteit, activiteiten",
       "russian": "деятельность",
-      "english": "activity"
+      "english": "activity",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "afmelden, afgemeld",
       "russian": "сняться с регистрации",
-      "english": "unregister"
+      "english": "unregister",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het afscheid, —",
       "russian": "прощание",
-      "english": "farewell"
+      "english": "farewell",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "afwezig",
       "russian": "отсутствующий",
-      "english": "absent"
+      "english": "absent",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "afzeggen, afgezegd",
       "russian": "отменить",
-      "english": "cancel"
+      "english": "cancel",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de agent, agenten",
       "russian": "полицейский",
-      "english": "police officer"
+      "english": "police officer",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het alarm, alarmen",
       "russian": "сигнализация",
-      "english": "alarm"
+      "english": "alarm",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de alinea, alinea's",
       "russian": "абзац",
-      "english": "paragraph"
+      "english": "paragraph",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "alsjeblieft",
       "russian": "пожалуйста",
-      "english": "please"
+      "english": "please",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "annuleren, geannuleerd",
       "russian": "отменить",
-      "english": "cancel"
+      "english": "cancel",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de app, apps",
       "russian": "приложение",
-      "english": "app"
+      "english": "app",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de april, —",
       "russian": "апрель",
-      "english": "April"
+      "english": "April",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de assistent, assistenten",
       "russian": "помощник",
-      "english": "assistant"
+      "english": "assistant",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de augustus, —",
       "russian": "август",
-      "english": "August"
+      "english": "August",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de baard, baarden",
       "russian": "борода",
-      "english": "beard"
+      "english": "beard",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de badkamer, badkamers",
       "russian": "ванная комната",
-      "english": "bathroom"
+      "english": "bathroom",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bagage, —",
       "russian": "багаж",
-      "english": "baggage"
+      "english": "baggage",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de balie, balies",
       "russian": "стойка обслуживания",
-      "english": "service desk"
+      "english": "service desk",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de banaan, bananen",
       "russian": "банан",
-      "english": "banana"
+      "english": "banana",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bankrekening, bankrekeningen",
       "russian": "банковский счет",
-      "english": "bank account"
+      "english": "bank account",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het basisonderwijs, —",
       "russian": "начальное образование",
-      "english": "primary education"
+      "english": "primary education",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de basisschool, basisscholen",
       "russian": "начальная школа",
-      "english": "elementary school"
+      "english": "elementary school",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het basketbal, —",
       "russian": "баскетбол",
-      "english": "basketball"
+      "english": "basketball",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het bedrag, bedragen",
       "russian": "сумма денег",
-      "english": "amount of money"
+      "english": "amount of money",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "beleefd",
       "russian": "вежливый",
-      "english": "polite"
+      "english": "polite",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "benieuwd",
       "russian": "любопытный",
-      "english": "curious"
+      "english": "curious",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de beschrijving, beschrijvingen",
       "russian": "описание",
-      "english": "description"
+      "english": "description",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "beter",
       "russian": "лучше",
-      "english": "better"
+      "english": "better",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bewoner, bewoners",
       "russian": "житель",
-      "english": "resident"
+      "english": "resident",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bezoeker, bezoekers",
       "russian": "посетитель",
-      "english": "visitor"
+      "english": "visitor",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "bezorgd",
       "russian": "обеспокоенный",
-      "english": "worried"
+      "english": "worried",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "bezorgen, bezorgd",
       "russian": "доставлять",
-      "english": "deliver"
+      "english": "deliver",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de bijbaan, bijbanen",
       "russian": "подработка",
-      "english": "side job"
+      "english": "side job",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het bijbaantje, bijbaantjes",
       "russian": "подработка",
-      "english": "side job"
+      "english": "side job",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de boete, boetes",
       "russian": "штраф",
-      "english": "fine"
+      "english": "fine",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het bord, borden",
       "russian": "тарелка",
-      "english": "plate"
+      "english": "plate",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het verkeersbord, verkeersborden",
       "russian": "дорожный знак",
-      "english": "traffic sign"
+      "english": "traffic sign",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de borstel, borstels",
       "russian": "щётка",
-      "english": "brush"
+      "english": "brush",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de broek, broeken",
       "russian": "пара брюк",
-      "english": "pair of trousers"
+      "english": "pair of trousers",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het brood, broden",
       "russian": "хлеб",
-      "english": "bread"
+      "english": "bread",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "bruin",
       "russian": "коричневый",
-      "english": "brown"
+      "english": "brown",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de buik, buiken",
       "russian": "живот",
-      "english": "belly"
+      "english": "belly",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de burgemeester, burgemeesters",
       "russian": "мэр",
-      "english": "mayor"
+      "english": "mayor",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het café, cafés",
       "russian": "кафе",
-      "english": "café"
+      "english": "café",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de cd, cd's",
       "russian": "компакт-диск",
-      "english": "CD"
+      "english": "CD",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de chauffeur, chauffeurs",
       "russian": "водитель",
-      "english": "driver"
+      "english": "driver",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de chef, chefs",
       "russian": "босс",
-      "english": "boss"
+      "english": "boss",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het cijfer, cijfers",
       "russian": "оценка",
-      "english": "grade"
+      "english": "grade",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de cliënt, cliënten",
       "russian": "клиент",
-      "english": "client"
+      "english": "client",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de club, clubs",
       "russian": "клуб",
-      "english": "club"
+      "english": "club",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "contant",
       "russian": "наличными",
-      "english": "in cash"
+      "english": "in cash",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het contract, contracten",
       "russian": "контракт",
-      "english": "contract"
+      "english": "contract",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "coördineren, gecoördineerd",
       "russian": "координировать",
-      "english": "coordinate"
+      "english": "coordinate",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de coördinator, coördinatoren",
       "russian": "координатор",
-      "english": "coordinator"
+      "english": "coordinator",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "dansen, gedanst",
       "russian": "танцевать",
-      "english": "dance"
+      "english": "dance",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de december, —",
       "russian": "декабрь",
-      "english": "December"
+      "english": "December",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "deelnemen, deelgenomen",
       "russian": "принять участие",
-      "english": "take part"
+      "english": "take part",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de deelnemer, deelnemers",
       "russian": "участник",
-      "english": "participant"
+      "english": "participant",
+      "example": ""
     },
     {
       "type_en": "numeral",
       "type_ru": "числительное",
       "dutch": "derde",
       "russian": "третий",
-      "english": "third"
+      "english": "third",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "dichtbij",
       "russian": "поблизости",
-      "english": "nearby"
+      "english": "nearby",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "digitaal",
       "russian": "цифровой",
-      "english": "digital"
+      "english": "digital",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de doos, dozen",
       "russian": "коробка",
-      "english": "box"
+      "english": "box",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "drogen, gedroogd",
       "russian": "сушить",
-      "english": "dry"
+      "english": "dry",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de druif, druiven",
       "russian": "виноградина",
-      "english": "grape"
+      "english": "grape",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "dun",
       "russian": "тонкий",
-      "english": "thin"
+      "english": "thin",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de dvd, dvd's",
       "russian": "DVD",
-      "english": "DVD"
+      "english": "DVD",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "eenzaam",
       "russian": "одинокий",
-      "english": "lonely"
+      "english": "lonely",
+      "example": ""
     },
     {
       "type_en": "numeral",
       "type_ru": "числительное",
       "dutch": "eerste",
       "russian": "первый",
-      "english": "first"
+      "english": "first",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de eigenaar, eigenaars",
       "russian": "владелец",
-      "english": "owner"
+      "english": "owner",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de elektriciteit, —",
       "russian": "электричество",
-      "english": "electricity"
+      "english": "electricity",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "eruitzien, eruitgezien",
       "russian": "выглядеть",
-      "english": "look like"
+      "english": "look like",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de euro, euro's",
       "russian": "евро",
-      "english": "euro"
+      "english": "euro",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het evenement, evenementen",
       "russian": "мероприятие",
-      "english": "event"
+      "english": "event",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "favoriet",
       "russian": "любимый",
-      "english": "favorite"
+      "english": "favorite",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de februari, —",
       "russian": "февраль",
-      "english": "February"
+      "english": "February",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de fietser, fietsers",
       "russian": "велосипедист",
-      "english": "cyclist"
+      "english": "cyclist",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het fietspad, fietspaden",
       "russian": "велосипедная дорожка",
-      "english": "cycle path"
+      "english": "cycle path",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de file, files",
       "russian": "пробка",
-      "english": "traffic jam"
+      "english": "traffic jam",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de finale, finales",
       "russian": "финал",
-      "english": "final"
+      "english": "final",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de fles, flessen",
       "russian": "бутылка",
-      "english": "bottle"
+      "english": "bottle",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "flexibel",
       "russian": "гибкий",
-      "english": "flexible"
+      "english": "flexible",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de fotograaf, fotografen",
       "russian": "фотограф",
-      "english": "photographer"
+      "english": "photographer",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de gemeente, gemeenten",
       "russian": "муниципалитет",
-      "english": "municipality"
+      "english": "municipality",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "gemiddeld",
       "russian": "средний",
-      "english": "average"
+      "english": "average",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het gerecht, gerechten",
       "russian": "блюдо",
-      "english": "dish"
+      "english": "dish",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het ijs, —",
       "russian": "лед",
-      "english": "ice"
+      "english": "ice",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "gewond",
       "russian": "раненый",
-      "english": "injured"
+      "english": "injured",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "glad",
       "russian": "гладкий",
-      "english": "smooth"
+      "english": "smooth",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het glas, glazen",
       "russian": "стакан",
-      "english": "drinking glass"
+      "english": "drinking glass",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het gram, grammen",
       "russian": "грамм",
-      "english": "gram"
+      "english": "gram",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de grap, grappen",
       "russian": "шутка",
-      "english": "joke"
+      "english": "joke",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het gras, grassen",
       "russian": "трава",
-      "english": "grass"
+      "english": "grass",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de griep, —",
       "russian": "грипп",
-      "english": "flu"
+      "english": "flu",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "grijs",
       "russian": "серый",
-      "english": "gray"
+      "english": "gray",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de groet, groeten",
       "russian": "приветствие",
-      "english": "greeting"
+      "english": "greeting",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "groeten, gegroet",
       "russian": "приветствовать",
-      "english": "greet"
+      "english": "greet",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de grootmoeder, grootmoeders",
       "russian": "бабушка",
-      "english": "grandmother"
+      "english": "grandmother",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de grootvader, grootvaders",
       "russian": "дедушка",
-      "english": "grandfather"
+      "english": "grandfather",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de haast, —",
       "russian": "спешка",
-      "english": "haste"
+      "english": "haste",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "haastig",
       "russian": "поспешный",
-      "english": "hasty"
+      "english": "hasty",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de jas, jassen",
       "russian": "пальто",
-      "english": "coat"
+      "english": "coat",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "zich haasten, gehaast",
       "russian": "торопиться",
-      "english": "hurry"
+      "english": "hurry",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de handdoek, handdoeken",
       "russian": "полотенце",
-      "english": "towel"
+      "english": "towel",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de handtekening, handtekeningen",
       "russian": "подпись",
-      "english": "signature"
+      "english": "signature",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "hardlopen, hardgelopen",
       "russian": "бегать",
-      "english": "go running"
+      "english": "go running",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de helm, helmen",
       "russian": "шлем",
-      "english": "helmet"
+      "english": "helmet",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "herkansen, herkanst",
       "russian": "пересдавать",
-      "english": "retake"
+      "english": "retake",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de herkansing, herkansingen",
       "russian": "пересдача",
-      "english": "retake"
+      "english": "retake",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de hersenen, hersens",
       "russian": "мозг",
-      "english": "brain"
+      "english": "brain",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het weer, —",
       "russian": "погода",
-      "english": "weather"
+      "english": "weather",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de hoed, hoeden",
       "russian": "шляпа",
-      "english": "hat"
+      "english": "hat",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het hok, hokken",
       "russian": "загон",
-      "english": "animal pen"
+      "english": "animal pen",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het hokje, hokjes",
       "russian": "кабинка",
-      "english": "cubicle"
+      "english": "cubicle",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de honger, —",
       "russian": "голод",
-      "english": "hunger"
+      "english": "hunger",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de horeca, —",
       "russian": "сфера гостеприимства и питания",
-      "english": "hospitality industry"
+      "english": "hospitality industry",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het hout, —",
       "russian": "дерево",
-      "english": "wood"
+      "english": "wood",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de huid, huiden",
       "russian": "кожа",
-      "english": "skin"
+      "english": "skin",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "huilen, gehuild",
       "russian": "плакать",
-      "english": "cry"
+      "english": "cry",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "inleveren, ingeleverd",
       "russian": "сдавать",
-      "english": "hand in"
+      "english": "hand in",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "inloggen, ingelogd",
       "russian": "войти в систему",
-      "english": "log in"
+      "english": "log in",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "inpakken, ingepakt",
       "russian": "упаковывать",
-      "english": "pack"
+      "english": "pack",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "inschrijven, ingeschreven",
       "russian": "зарегистрироваться",
-      "english": "register"
+      "english": "register",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het insect, insecten",
       "russian": "насекомое",
-      "english": "insect"
+      "english": "insect",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de instructeur, instructeurs",
       "russian": "инструктор",
-      "english": "instructor"
+      "english": "instructor",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de instructie, instructies",
       "russian": "инструкция",
-      "english": "instruction"
+      "english": "instruction",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "internationaal",
       "russian": "международный",
-      "english": "international"
+      "english": "international",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de inwoner, inwoners",
       "russian": "житель",
-      "english": "inhabitant"
+      "english": "inhabitant",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "inzamelen, ingezameld",
       "russian": "собирать",
-      "english": "collect"
+      "english": "collect",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "jaarlijks",
       "russian": "ежегодно",
-      "english": "annually"
+      "english": "annually",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de januari, —",
       "russian": "январь",
-      "english": "January"
+      "english": "January",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de jongere, jongeren",
       "russian": "молодой человек",
-      "english": "young person"
+      "english": "young person",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de juli, —",
       "russian": "июль",
-      "english": "July"
+      "english": "July",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de juni, —",
       "russian": "июнь",
-      "english": "June"
+      "english": "June",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de jurk, jurken",
       "russian": "платье",
-      "english": "dress"
+      "english": "dress",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kaart, kaarten",
       "russian": "карточка",
-      "english": "card"
+      "english": "card",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het kaartje, kaartjes",
       "russian": "билет",
-      "english": "ticket"
+      "english": "ticket",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kampioen, kampioenen",
       "russian": "чемпион",
-      "english": "champion"
+      "english": "champion",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kast, kasten",
       "russian": "шкаф",
-      "english": "cupboard"
+      "english": "cupboard",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de keel, kelen",
       "russian": "горло",
-      "english": "throat"
+      "english": "throat",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de keuken, keukens",
       "russian": "кухня",
-      "english": "kitchen"
+      "english": "kitchen",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het kinderdagverblijf, kinderdagverblijven",
       "russian": "детский сад",
-      "english": "daycare center"
+      "english": "daycare center",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de klacht, klachten",
       "russian": "жалоба",
-      "english": "complaint"
+      "english": "complaint",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de klok, klokken",
       "russian": "часы",
-      "english": "clock"
+      "english": "clock",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de klus, klussen",
       "russian": "дело",
-      "english": "job"
+      "english": "job",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "klussen, geklust",
       "russian": "заниматься мелким ремонтом",
-      "english": "do odd jobs"
+      "english": "do odd jobs",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de knie, knieën",
       "russian": "колено",
-      "english": "knee"
+      "english": "knee",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "knippen, geknipt",
       "russian": "стричь",
-      "english": "cut"
+      "english": "cut",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de knoop, knopen",
       "russian": "узел",
-      "english": "knot"
+      "english": "knot",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de knop, knoppen",
       "russian": "кнопка",
-      "english": "button"
+      "english": "button",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de koe, koeien",
       "russian": "корова",
-      "english": "cow"
+      "english": "cow",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de koffer, koffers",
       "russian": "чемодан",
-      "english": "suitcase"
+      "english": "suitcase",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de koffie, koffies",
       "russian": "кофе",
-      "english": "coffee"
+      "english": "coffee",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kok, koks",
       "russian": "повар",
-      "english": "cook"
+      "english": "cook",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de kraan, kranen",
       "russian": "кран",
-      "english": "faucet"
+      "english": "faucet",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het kruispunt, kruispunten",
       "russian": "перекрёсток",
-      "english": "intersection"
+      "english": "intersection",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de lamp, lampen",
       "russian": "лампа",
-      "english": "lamp"
+      "english": "lamp",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "langskomen, langsgekomen",
       "russian": "зайти",
-      "english": "come by"
+      "english": "come by",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de laptop, laptops",
       "russian": "ноутбук",
-      "english": "laptop"
+      "english": "laptop",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "later",
       "russian": "позже",
-      "english": "later"
+      "english": "later",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de leider, leiders",
       "russian": "руководитель",
-      "english": "leader"
+      "english": "leader",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de leidinggevende, leidinggevenden",
       "russian": "руководитель",
-      "english": "manager"
+      "english": "manager",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de lepel, lepels",
       "russian": "ложка",
-      "english": "spoon"
+      "english": "spoon",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "liegen, gelogen",
       "russian": "лгать",
-      "english": "lie"
+      "english": "lie",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de lift, liften",
       "russian": "лифт",
-      "english": "elevator"
+      "english": "elevator",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de lip, lippen",
       "russian": "губа",
-      "english": "lip"
+      "english": "lip",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de liter, liters",
       "russian": "литр",
-      "english": "liter"
+      "english": "liter",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de locatie, locaties",
       "russian": "место",
-      "english": "location"
+      "english": "location",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het lokaal, lokalen",
       "russian": "аудитория",
-      "english": "classroom"
+      "english": "classroom",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de lunch, lunchen",
       "russian": "обед",
-      "english": "lunch"
+      "english": "lunch",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de maaltijd, maaltijden",
       "russian": "приём пищи",
-      "english": "meal"
+      "english": "meal",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de maart, —",
       "russian": "март",
-      "english": "March"
+      "english": "March",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het magazijn, magazijnen",
       "russian": "склад",
-      "english": "warehouse"
+      "english": "warehouse",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "mailen, gemaild",
       "russian": "отправлять электронные письма",
-      "english": "email"
+      "english": "email",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de manager, managers",
       "russian": "менеджер",
-      "english": "manager"
+      "english": "manager",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "maximaal",
       "russian": "максимальный",
-      "english": "maximum"
+      "english": "maximum",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de medewerker, medewerkers",
       "russian": "сотрудник",
-      "english": "employee"
+      "english": "employee",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "meegaan, meegegaan",
       "russian": "пойти с",
-      "english": "go along"
+      "english": "go along",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de mei, —",
       "russian": "май",
-      "english": "May"
+      "english": "May",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de meneer, meneren",
       "russian": "господин",
-      "english": "sir"
+      "english": "sir",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het mes, messen",
       "russian": "нож",
-      "english": "knife"
+      "english": "knife",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "metalen",
       "russian": "металлический",
-      "english": "metal"
+      "english": "metal",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het meubel, meubels",
       "russian": "предмет мебели",
-      "english": "piece of furniture"
+      "english": "piece of furniture",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de mevrouw, mevrouwen",
       "russian": "госпожа",
-      "english": "madam"
+      "english": "madam",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de middag, middagen",
       "russian": "после полудня",
-      "english": "afternoon"
+      "english": "afternoon",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de monteur, monteurs",
       "russian": "механик",
-      "english": "mechanic"
+      "english": "mechanic",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "morgen",
       "russian": "завтра",
-      "english": "tomorrow"
+      "english": "tomorrow",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de mouw, mouwen",
       "russian": "рукав",
-      "english": "sleeve"
+      "english": "sleeve",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "naartoe",
       "russian": "туда",
-      "english": "towards"
+      "english": "towards",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "nakijken, nagekeken",
       "russian": "проверять",
-      "english": "check"
+      "english": "check",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "nat",
       "russian": "мокрый",
-      "english": "wet"
+      "english": "wet",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de nek, nekken",
       "russian": "шея",
-      "english": "neck"
+      "english": "neck",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "nerveus",
       "russian": "нервный",
-      "english": "nervous"
+      "english": "nervous",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "net",
       "russian": "только что",
-      "english": "just"
+      "english": "just",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "netjes",
       "russian": "аккуратный",
-      "english": "neat"
+      "english": "neat",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het netwerk, netwerken",
       "russian": "сеть",
-      "english": "network"
+      "english": "network",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de november, —",
       "russian": "ноябрь",
-      "english": "November"
+      "english": "November",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de oktober, —",
       "russian": "октябрь",
-      "english": "October"
+      "english": "October",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "omhoog",
       "russian": "вверх",
-      "english": "upwards"
+      "english": "upwards",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "omlaag",
       "russian": "вниз",
-      "english": "downwards"
+      "english": "downwards",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de ondernemer, ondernemers",
       "russian": "предприниматель",
-      "english": "entrepreneur"
+      "english": "entrepreneur",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "online",
       "russian": "в сети",
-      "english": "online"
+      "english": "online",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het ontbijt, ontbijten",
       "russian": "завтрак",
-      "english": "breakfast"
+      "english": "breakfast",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "ontspannen, ontspannen",
       "russian": "расслабляться",
-      "english": "relax"
+      "english": "relax",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het ontwerp, ontwerpen",
       "russian": "дизайн",
-      "english": "design"
+      "english": "design",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de oom, ooms",
       "russian": "дядя",
-      "english": "uncle"
+      "english": "uncle",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "opbellen, opgebeld",
       "russian": "позвонить",
-      "english": "call"
+      "english": "call",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "openbaar",
       "russian": "общественный",
-      "english": "public"
+      "english": "public",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het openbaar vervoer, —",
       "russian": "общественный транспорт",
-      "english": "public transport"
+      "english": "public transport",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "opschrijven, opgeschreven",
       "russian": "записать",
-      "english": "write down"
+      "english": "write down",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "opsturen, opgestuurd",
       "russian": "отправить",
-      "english": "send"
+      "english": "send",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de oudere, ouderen",
       "russian": "пожилой человек",
-      "english": "elderly person"
+      "english": "elderly person",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het overhemd, overhemden",
       "russian": "рубашка",
-      "english": "shirt"
+      "english": "shirt",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het overzicht, overzichten",
       "russian": "обзор",
-      "english": "overview"
+      "english": "overview",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het paard, paarden",
       "russian": "лошадь",
-      "english": "horse"
+      "english": "horse",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de pan, pannen",
       "russian": "сковорода",
-      "english": "frying pan"
+      "english": "frying pan",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de parkeerplaats, parkeerplaatsen",
       "russian": "парковочное место",
-      "english": "parking space"
+      "english": "parking space",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "parkeren, geparkeerd",
       "russian": "парковать",
-      "english": "park"
+      "english": "park",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de partner, partners",
       "russian": "партнёр",
-      "english": "partner"
+      "english": "partner",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de pauze, pauzes",
       "russian": "перерыв",
-      "english": "break"
+      "english": "break",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het personeel, —",
       "russian": "персонал",
-      "english": "staff"
+      "english": "staff",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de pet, petten",
       "russian": "кепка",
-      "english": "cap"
+      "english": "cap",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de pinpas, pinpassen",
       "russian": "дебетовая карта",
-      "english": "debit card"
+      "english": "debit card",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het plaatje, plaatjes",
       "russian": "картинка",
-      "english": "picture"
+      "english": "picture",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de plank, planken",
       "russian": "полка",
-      "english": "shelf"
+      "english": "shelf",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "plannen, gepland",
       "russian": "планировать",
-      "english": "plan"
+      "english": "plan",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het plastic, —",
       "russian": "пластик",
-      "english": "plastic"
+      "english": "plastic",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "plotseling",
       "russian": "внезапно",
-      "english": "suddenly"
+      "english": "suddenly",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het potlood, potloden",
       "russian": "карандаш",
-      "english": "pencil"
+      "english": "pencil",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "presenteren, gepresenteerd",
       "russian": "представлять",
-      "english": "present"
+      "english": "present",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "printen, geprint",
       "russian": "печатать",
-      "english": "print"
+      "english": "print",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de printer, printers",
       "russian": "принтер",
-      "english": "printer"
+      "english": "printer",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het project, projecten",
       "russian": "проект",
-      "english": "project"
+      "english": "project",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het raam, ramen",
       "russian": "окно",
-      "english": "window"
+      "english": "window",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "recyclen, gerecycled",
       "russian": "перерабатывать",
-      "english": "recycle"
+      "english": "recycle",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de regio, regio's",
       "russian": "регион",
-      "english": "region"
+      "english": "region",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "rennen, gerend",
       "russian": "бежать",
-      "english": "run"
+      "english": "run",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de reparatie, reparaties",
       "russian": "ремонт",
-      "english": "repair"
+      "english": "repair",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "repareren, gerepareerd",
       "russian": "ремонт",
-      "english": "repair"
+      "english": "repair",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het rijbewijs, rijbewijzen",
       "russian": "водительские права",
-      "english": "driver’s license"
+      "english": "driver’s license",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het risico, risico's",
       "russian": "риск",
-      "english": "risk"
+      "english": "risk",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de robot, robots",
       "russian": "робот",
-      "english": "robot"
+      "english": "robot",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de rok, rokken",
       "russian": "юбка",
-      "english": "skirt"
+      "english": "skirt",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "roken, gerookt",
       "russian": "курить",
-      "english": "smoke"
+      "english": "smoke",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de rommel, —",
       "russian": "хлам",
-      "english": "junk"
+      "english": "junk",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het rooster, roosters",
       "russian": "расписание",
-      "english": "schedule"
+      "english": "schedule",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de rotzooi, rotzooien",
       "russian": "беспорядок",
-      "english": "mess"
+      "english": "mess",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "roze",
       "russian": "розовый",
-      "english": "pink"
+      "english": "pink",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de rugzak, rugzakken",
       "russian": "рюкзак",
-      "english": "backpack"
+      "english": "backpack",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "’s avonds",
       "russian": "вечером",
-      "english": "in the evening"
+      "english": "in the evening",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "’s morgens",
       "russian": "утром",
-      "english": "in the morning"
+      "english": "in the morning",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "’s ochtends",
       "russian": "утром",
-      "english": "in the morning"
+      "english": "in the morning",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de schaar, scharen",
       "russian": "ножницы",
-      "english": "scissors"
+      "english": "scissors",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de schade, —",
       "russian": "ущерб",
-      "english": "damage"
+      "english": "damage",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "schamen, geschaamd",
       "russian": "стыдиться",
-      "english": "be ashamed"
+      "english": "be ashamed",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "scheef",
       "russian": "кривой",
-      "english": "crooked"
+      "english": "crooked",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het schip, schepen",
       "russian": "корабль",
-      "english": "ship"
+      "english": "ship",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de schoen, schoenen",
       "russian": "туфля",
-      "english": "shoe"
+      "english": "shoe",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "schoonmaken, schoongemaakt",
       "russian": "убирать",
-      "english": "clean"
+      "english": "clean",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de schouder, schouders",
       "russian": "плечо",
-      "english": "shoulder"
+      "english": "shoulder",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "schuin",
       "russian": "наклонный",
-      "english": "slanted"
+      "english": "slanted",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de secretaresse, secretaressen",
       "russian": "секретарь",
-      "english": "secretary"
+      "english": "secretary",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het seizoen, seizoenen",
       "russian": "сезон",
-      "english": "season"
+      "english": "season",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de september, —",
       "russian": "сентябрь",
-      "english": "September"
+      "english": "September",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "serveren, geserveerd",
       "russian": "подавать",
-      "english": "serve"
+      "english": "serve",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de sleutel, sleutels",
       "russian": "ключ",
-      "english": "key"
+      "english": "key",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de sneeuw, —",
       "russian": "снег",
-      "english": "snow"
+      "english": "snow",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "snijden, gesneden",
       "russian": "резать",
-      "english": "cut"
+      "english": "cut",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "sociaal",
       "russian": "социальный",
-      "english": "social"
+      "english": "social",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de soep, soepen",
       "russian": "суп",
-      "english": "soup"
+      "english": "soup",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de sok, sokken",
       "russian": "носок",
-      "english": "sock"
+      "english": "sock",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de sollicitatie, sollicitaties",
       "russian": "заявление о приёме на работу",
-      "english": "job application"
+      "english": "job application",
+      "example": ""
     },
     {
       "type_en": "interjection",
       "type_ru": "междометие",
       "dutch": "sorry",
       "russian": "извини",
-      "english": "sorry"
+      "english": "sorry",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de spaarrekening, spaarrekeningen",
       "russian": "сберегательный счёт",
-      "english": "savings account"
+      "english": "savings account",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de spier, spieren",
       "russian": "мышца",
-      "english": "muscle"
+      "english": "muscle",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de sport, sporten",
       "russian": "спорт",
-      "english": "sport"
+      "english": "sport",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het spul, spullen",
       "russian": "вещи",
-      "english": "belongings"
+      "english": "belongings",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de stage, stages",
       "russian": "стажировка",
-      "english": "internship"
+      "english": "internship",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "stage lopen, stage gelopen",
       "russian": "проходить стажировку",
-      "english": "do an internship"
+      "english": "do an internship",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de stagiair, stagiairs",
       "russian": "стажёр",
-      "english": "intern"
+      "english": "intern",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de stagiaire, stagiaires",
       "russian": "стажёр",
-      "english": "intern"
+      "english": "intern",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de start, starts",
       "russian": "начало",
-      "english": "start"
+      "english": "start",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "starten, gestart",
       "russian": "начинать",
-      "english": "start"
+      "english": "start",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de steen, stenen",
       "russian": "камень",
-      "english": "stone"
+      "english": "stone",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "stelen, gestolen",
       "russian": "красть",
-      "english": "steal"
+      "english": "steal",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de stoel, stoelen",
       "russian": "стул",
-      "english": "chair"
+      "english": "chair",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de stoep, stoepen",
       "russian": "тротуар",
-      "english": "sidewalk"
+      "english": "sidewalk",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de storing, storingen",
       "russian": "неисправность",
-      "english": "malfunction"
+      "english": "malfunction",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de studiegenoot, studiegenoten",
       "russian": "сокурсник",
-      "english": "fellow student"
+      "english": "fellow student",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tabel, tabellen",
       "russian": "таблица",
-      "english": "table"
+      "english": "table",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tand, tanden",
       "russian": "зуб",
-      "english": "tooth"
+      "english": "tooth",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tante, tantes",
       "russian": "тётя",
-      "english": "aunt"
+      "english": "aunt",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tas, tassen",
       "russian": "сумка",
-      "english": "bag"
+      "english": "bag",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de taxi, taxi's",
       "russian": "такси",
-      "english": "taxi"
+      "english": "taxi",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het team, teams",
       "russian": "команда",
-      "english": "team"
+      "english": "team",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de technicus, technici",
       "russian": "техник",
-      "english": "technician"
+      "english": "technician",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de teen, tenen",
       "russian": "палец ноги",
-      "english": "toe"
+      "english": "toe",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de telefoon, telefoons",
       "russian": "телефон",
-      "english": "telephone"
+      "english": "telephone",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het tentamen, tentamens",
       "russian": "экзамен",
-      "english": "exam"
+      "english": "exam",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "tevoren",
       "russian": "заранее",
-      "english": "beforehand"
+      "english": "beforehand",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de thee, theeën",
       "russian": "чай",
-      "english": "tea"
+      "english": "tea",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "tillen, getild",
       "russian": "поднимать",
-      "english": "lift"
+      "english": "lift",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "optillen, opgetild",
       "russian": "приподнимать",
-      "english": "lift up"
+      "english": "lift up",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "timmeren, getimmerd",
       "russian": "заниматься столярным делом",
-      "english": "do carpentry"
+      "english": "do carpentry",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de timmerman, timmermannen",
       "russian": "мужчина-плотник",
-      "english": "male carpenter"
+      "english": "male carpenter",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tip, tippen",
       "russian": "совет",
-      "english": "tip"
+      "english": "tip",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "toelichten, toegelicht",
       "russian": "объяснять",
-      "english": "explain"
+      "english": "explain",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de toets, toetsen",
       "russian": "тест",
-      "english": "test"
+      "english": "test",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tong, tongen",
       "russian": "язык",
-      "english": "tongue"
+      "english": "tongue",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de toonbank, toonbanken",
       "russian": "прилавок",
-      "english": "counter"
+      "english": "counter",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "trainen, getraind",
       "russian": "тренироваться",
-      "english": "train"
+      "english": "train",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de trainer, trainers",
       "russian": "тренер",
-      "english": "trainer"
+      "english": "trainer",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de training, trainingen",
       "russian": "тренировка",
-      "english": "training"
+      "english": "training",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de trap, trappen",
       "russian": "лестница",
-      "english": "staircase"
+      "english": "staircase",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tuinman, tuinmannen",
       "russian": "садовник",
-      "english": "gardener"
+      "english": "gardener",
+      "example": ""
     },
     {
       "type_en": "numeral",
       "type_ru": "числительное",
       "dutch": "tweede",
       "russian": "второй",
-      "english": "second"
+      "english": "second",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "tweedehands",
       "russian": "подержанный",
-      "english": "secondhand"
+      "english": "secondhand",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de uitgang, uitgangen",
       "russian": "выход",
-      "english": "exit"
+      "english": "exit",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het uitje, uitjes",
       "russian": "прогулка",
-      "english": "outing"
+      "english": "outing",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "uitloggen, uitgelogd",
       "russian": "выйти из системы",
-      "english": "log out"
+      "english": "log out",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "uitschrijven, uitgeschreven",
       "russian": "сняться с регистрации",
-      "english": "deregister"
+      "english": "deregister",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het uitzendbureau, uitzendbureaus",
       "russian": "агентство по трудоустройству",
-      "english": "employment agency"
+      "english": "employment agency",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de uitzendkracht, uitzendkrachten",
       "russian": "временный работник",
-      "english": "temporary worker"
+      "english": "temporary worker",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "uitzoeken, uitgezocht",
       "russian": "выяснять",
-      "english": "find out"
+      "english": "find out",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het vakgebied, vakgebieden",
       "russian": "область знаний",
-      "english": "field of expertise"
+      "english": "field of expertise",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "vanmiddag",
       "russian": "сегодня днём",
-      "english": "this afternoon"
+      "english": "this afternoon",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "vanmorgen",
       "russian": "сегодня утром",
-      "english": "this morning"
+      "english": "this morning",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "vannacht",
       "russian": "сегодня ночью",
-      "english": "tonight"
+      "english": "tonight",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de veiligheid, veiligheden",
       "russian": "безопасность",
-      "english": "safety"
+      "english": "safety",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "verbaasd",
       "russian": "удивлённый",
-      "english": "surprised"
+      "english": "surprised",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verdieping, verdiepingen",
       "russian": "этаж",
-      "english": "floor"
+      "english": "floor",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "verdrietig",
       "russian": "грустный",
-      "english": "sad"
+      "english": "sad",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vereniging, verenigingen",
       "russian": "ассоциация",
-      "english": "association"
+      "english": "association",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het verkeer, —",
       "russian": "дорожное движение",
-      "english": "traffic"
+      "english": "traffic",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verkiezing, verkiezingen",
       "russian": "выборы",
-      "english": "election"
+      "english": "election",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "verkouden",
       "russian": "простуженный",
-      "english": "having a cold"
+      "english": "having a cold",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het verpleeghuis, verpleeghuizen",
       "russian": "дом престарелых",
-      "english": "nursing home"
+      "english": "nursing home",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verpleegkundige, verpleegkundigen",
       "russian": "медработник",
-      "english": "nurse"
+      "english": "nurse",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verpleegster, verpleegsters",
       "russian": "медсестра",
-      "english": "nurse"
+      "english": "nurse",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "verplegen, verpleegd",
       "russian": "ухаживать за больными",
-      "english": "nurse"
+      "english": "nurse",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verpleger, verplegers",
       "russian": "медбрат",
-      "english": "male nurse"
+      "english": "male nurse",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "verschrikkelijk",
       "russian": "ужасный",
-      "english": "terrible"
+      "english": "terrible",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vertraging, vertragingen",
       "russian": "задержка",
-      "english": "delay"
+      "english": "delay",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "verzenden, verzonden",
       "russian": "отправлять",
-      "english": "send"
+      "english": "send",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het vlees, vlezen",
       "russian": "мясо",
-      "english": "meat"
+      "english": "meat",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vloer, vloeren",
       "russian": "пол",
-      "english": "floor"
+      "english": "floor",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het voetbal, —",
       "russian": "футбол",
-      "english": "football"
+      "english": "football",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "voetballen, gevoetbald",
       "russian": "играть в футбол",
-      "english": "play football"
+      "english": "play football",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de voetbalclub, voetbalclubs",
       "russian": "футбольный клуб",
-      "english": "football club"
+      "english": "football club",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vogel, vogels",
       "russian": "птица",
-      "english": "bird"
+      "english": "bird",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "volgend",
       "russian": "следующий",
-      "english": "next"
+      "english": "next",
+      "example": ""
     },
     {
       "type_en": "adverb",
       "type_ru": "наречие",
       "dutch": "vooraf",
       "russian": "заранее",
-      "english": "beforehand"
+      "english": "beforehand",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de voorbereiding, voorbereidingen",
       "russian": "подготовка",
-      "english": "preparation"
+      "english": "preparation",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "voorlezen, voorgelezen",
       "russian": "читать вслух",
-      "english": "read aloud"
+      "english": "read aloud",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de voorlichting, voorlichtingen",
       "russian": "информирование",
-      "english": "information"
+      "english": "information",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de voorzitter, voorzitters",
       "russian": "председатель",
-      "english": "chairperson"
+      "english": "chairperson",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vork, vorken",
       "russian": "вилка",
-      "english": "fork"
+      "english": "fork",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vrachtwagen, vrachtwagens",
       "russian": "грузовик",
-      "english": "truck"
+      "english": "truck",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "vriendelijk",
       "russian": "дружелюбный",
-      "english": "friendly"
+      "english": "friendly",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vrijwilliger, vrijwilligers",
       "russian": "волонтёр",
-      "english": "volunteer"
+      "english": "volunteer",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "waaien, gewaaid",
       "russian": "дуть",
-      "english": "blow"
+      "english": "blow",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "waarschuwen, gewaarschuwd",
       "russian": "предупреждать",
-      "english": "warn"
+      "english": "warn",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "wassen, gewassen",
       "russian": "мыть",
-      "english": "wash"
+      "english": "wash",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de website, websites",
       "russian": "веб-сайт",
-      "english": "website"
+      "english": "website",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de wedstrijd, wedstrijden",
       "russian": "соревнование",
-      "english": "competition"
+      "english": "competition",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het weekeinde, weekeinden",
       "russian": "выходные",
-      "english": "weekend"
+      "english": "weekend",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de werkgever, werkgevers",
       "russian": "работодатель",
-      "english": "employer"
+      "english": "employer",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "werkloos",
       "russian": "безработный",
-      "english": "unemployed"
+      "english": "unemployed",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de werknemer, werknemers",
       "russian": "работник",
-      "english": "employee"
+      "english": "employee",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het werkstuk, werkstukken",
       "russian": "учебный проект",
-      "english": "school project"
+      "english": "school project",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de wijk, wijken",
       "russian": "район",
-      "english": "neighbourhood"
+      "english": "neighbourhood",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de wind, winden",
       "russian": "ветер",
-      "english": "wind"
+      "english": "wind",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de wiskunde, —",
       "russian": "математика",
-      "english": "mathematics"
+      "english": "mathematics",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de wolk, wolken",
       "russian": "облако",
-      "english": "cloud"
+      "english": "cloud",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de woningbouwvereniging, woningbouwverenigingen",
       "russian": "жилищное товарищество",
-      "english": "housing association"
+      "english": "housing association",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de workshop, workshops",
       "russian": "мастер-класс",
-      "english": "workshop"
+      "english": "workshop",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "zenuwachtig",
       "russian": "нервный",
-      "english": "nervous"
+      "english": "nervous",
+      "example": ""
     }
   ]
 }

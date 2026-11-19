@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "title": "Gezondheidszorg in Nederland",
   "entries": [
     {
@@ -7,350 +7,400 @@
       "type_ru": "существительное",
       "dutch": "de aanvullende verzekering, aanvullende verzekeringen",
       "russian": "дополнительная страховка",
-      "english": "supplementary insurance"
+      "english": "supplementary insurance",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de abortus, abortussen",
       "russian": "аборт",
-      "english": "abortion"
+      "english": "abortion",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het alarmnummer, alarmnummers",
       "russian": "номер экстренного вызова",
-      "english": "emergency number"
+      "english": "emergency number",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de basisverzekering, basisverzekeringen",
       "russian": "базовая медицинская страховка",
-      "english": "basic health insurance"
+      "english": "basic health insurance",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het beroepsgeheim, beroepsgeheimen",
       "russian": "профессиональная тайна",
-      "english": "professional confidentiality"
+      "english": "professional confidentiality",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de besnijdenis, besnijdenissen",
       "russian": "обрезание",
-      "english": "circumcision"
+      "english": "circumcision",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het bezwaar, bezwaren",
       "russian": "возражение",
-      "english": "objection"
+      "english": "objection",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "declareren, gedeclareerd",
       "russian": "предъявлять к оплате",
-      "english": "to claim expenses"
+      "english": "to claim expenses",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de donor, donoren",
       "russian": "донор",
-      "english": "donor"
+      "english": "donor",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het donorregister, donorregisters",
       "russian": "реестр доноров",
-      "english": "donor registry"
+      "english": "donor registry",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "doorverwijzen, doorverwezen",
       "russian": "направлять к специалисту",
-      "english": "to refer"
+      "english": "to refer",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het dossier, dossiers",
       "russian": "дело",
-      "english": "file"
+      "english": "file",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de eerwraak, —",
       "russian": "убийство чести",
-      "english": "honour killing"
+      "english": "honour killing",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de eigen bijdrage, eigen bijdragen",
       "russian": "личный взнос",
-      "english": "personal contribution"
+      "english": "personal contribution",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het eigen risico, eigen risico’s",
       "russian": "франшиза",
-      "english": "deductible"
+      "english": "deductible",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de euthanasie, —",
       "russian": "эвтаназия",
-      "english": "euthanasia"
+      "english": "euthanasia",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de fysiotherapeut, fysiotherapeuten",
       "russian": "физиотерапевт",
-      "english": "physiotherapist"
+      "english": "physiotherapist",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de geestelijke gezondheidszorg (GGZ), —",
       "russian": "психиатрическая помощь",
-      "english": "mental healthcare"
+      "english": "mental healthcare",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het geweld, —",
       "russian": "насилие",
-      "english": "violence"
+      "english": "violence",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de gezondheidszorg, —",
       "russian": "здравоохранение",
-      "english": "healthcare"
+      "english": "healthcare",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de huisartsenpost, huisartsenposten",
       "russian": "дежурная служба врачей общей практики",
-      "english": "out-of-hours GP service"
+      "english": "out-of-hours GP service",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het huiselijk geweld, —",
       "russian": "домашнее насилие",
-      "english": "domestic violence"
+      "english": "domestic violence",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het levensgevaar, —",
       "russian": "угроза жизни",
-      "english": "life-threatening danger"
+      "english": "life-threatening danger",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de mantelzorg, —",
       "russian": "уход за близким",
-      "english": "informal care"
+      "english": "informal care",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de mishandeling, mishandelingen",
       "russian": "жестокое обращение",
-      "english": "abuse"
+      "english": "abuse",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de mondhygiënist, mondhygiënisten",
       "russian": "гигиенист полости рта",
-      "english": "dental hygienist"
+      "english": "dental hygienist",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de moord, moorden",
       "russian": "убийство",
-      "english": "murder"
+      "english": "murder",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de noodsituatie, noodsituaties",
       "russian": "чрезвычайная ситуация",
-      "english": "emergency situation"
+      "english": "emergency situation",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de orgaandonatie, orgaandonaties",
       "russian": "донорство органов",
-      "english": "organ donation"
+      "english": "organ donation",
+      "example": ""
     },
     {
       "type_en": "verb",
       "type_ru": "глагол",
       "dutch": "overlijden, overleden",
       "russian": "умирать",
-      "english": "to die"
+      "english": "to die",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de praktijk, praktijken",
       "russian": "практика",
-      "english": "practice"
+      "english": "practice",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de praktijkondersteuner (POH), praktijkondersteuners (POH)",
       "russian": "медицинский помощник при врачебной практике",
-      "english": "practice nurse"
+      "english": "practice nurse",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de premie, premies",
       "russian": "страховой взнос",
-      "english": "premium"
+      "english": "premium",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het recept, recepten",
       "russian": "рецепт",
-      "english": "prescription"
+      "english": "prescription",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het recht, rechten",
       "russian": "право",
-      "english": "right"
+      "english": "right",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de specialist, specialisten",
       "russian": "врач-специалист",
-      "english": "specialist"
+      "english": "specialist",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de spoed, —",
       "russian": "срочность",
-      "english": "urgency"
+      "english": "urgency",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de Spoedeisende Hulp (SEH), —",
       "russian": "отделение неотложной помощи",
-      "english": "emergency department"
+      "english": "emergency department",
+      "example": ""
     },
     {
       "type_en": "adjective",
       "type_ru": "прилагательное",
       "dutch": "strafbaar",
       "russian": "наказуемый",
-      "english": "punishable"
+      "english": "punishable",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de therapeut, therapeuten",
       "russian": "терапевт",
-      "english": "therapist"
+      "english": "therapist",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de toestemming, —",
       "russian": "согласие",
-      "english": "consent"
+      "english": "consent",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de tolk, tolken",
       "russian": "переводчик",
-      "english": "interpreter"
+      "english": "interpreter",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vaccinatie, vaccinaties",
       "russian": "вакцинация",
-      "english": "vaccination"
+      "english": "vaccination",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de vergoeding, vergoedingen",
       "russian": "возмещение",
-      "english": "reimbursement"
+      "english": "reimbursement",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verkrachting, verkrachtingen",
       "russian": "изнасилование",
-      "english": "rape"
+      "english": "rape",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verwijzing, verwijzingen",
       "russian": "направление",
-      "english": "referral"
+      "english": "referral",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de verzekering, verzekeringen",
       "russian": "страхование",
-      "english": "insurance"
+      "english": "insurance",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de zorg, —",
       "russian": "здравоохранение",
-      "english": "care"
+      "english": "care",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de zorgtoeslag, zorgtoeslagen",
       "russian": "пособие на медицинскую страховку",
-      "english": "healthcare benefit"
+      "english": "healthcare benefit",
+      "example": ""
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "de zorgverzekering, zorgverzekeringen",
       "russian": "медицинская страховка",
-      "english": "health insurance"
+      "english": "health insurance",
+      "example": ""
     }
   ]
 }

@@ -6,6 +6,7 @@ export interface VocabularyEntry {
   dutch: string
   russian: string
   english: string
+  example?: string
 }
 
 export interface VocabularyDictionary {

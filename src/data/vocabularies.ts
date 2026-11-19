@@ -13,6 +13,9 @@ function parseEntry(value: unknown, file: string): VocabularyEntry {
   if (!isObject(value) || !fields.every((field) => isNonEmptyString(value[field]))) {
     throw new Error(`Invalid vocabulary entry in ${file}: expected non-empty string fields ${fields.join(', ')}`)
   }
+  if (value.example !== undefined && typeof value.example !== 'string') {
+    throw new Error(`Invalid vocabulary entry in ${file}: example must be a string when provided`)
+  }
 
   return {
     type_en: value.type_en as string,
@@ -20,12 +23,13 @@ function parseEntry(value: unknown, file: string): VocabularyEntry {
     dutch: value.dutch as string,
     russian: value.russian as string,
     english: value.english as string,
+    ...(isNonEmptyString(value.example) ? { example: value.example } : {}),
   }
 }
 
 function parseDictionary(file: string, value: unknown): VocabularyDictionary {
-  if (!isObject(value) || value.schemaVersion !== 1 || !isNonEmptyString(value.title) || !Array.isArray(value.entries)) {
-    throw new Error(`Invalid vocabulary dictionary ${file}: expected schemaVersion 1, string title, and entries`)
+  if (!isObject(value) || value.schemaVersion !== 2 || !isNonEmptyString(value.title) || !Array.isArray(value.entries)) {
+    throw new Error(`Invalid vocabulary dictionary ${file}: expected schemaVersion 2, string title, and entries`)
   }
 
   return {
