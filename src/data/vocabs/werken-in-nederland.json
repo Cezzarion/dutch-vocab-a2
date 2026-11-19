@@ -8,7 +8,9 @@
       "dutch": "het arbeidscontract, arbeidscontracten",
       "russian": "трудовой договор",
       "english": "employment contract",
-      "example": ""
+      "example": "Het arbeidscontract loopt tot december.",
+      "example_ru": "Трудовой договор действует до декабря.",
+      "example_en": "The employment contract runs until December."
     },
     {
       "type_en": "noun",
@@ -16,7 +18,9 @@
       "dutch": "de arbeidsmarkt, arbeidsmarkten",
       "russian": "рынок труда",
       "english": "labour market",
-      "example": ""
+      "example": "De arbeidsmarkt verandert snel.",
+      "example_ru": "Рынок труда быстро меняется.",
+      "example_en": "The labour market changes quickly."
     },
     {
       "type_en": "noun",
@@ -24,7 +28,9 @@
       "dutch": "de arbeidsomstandigheden, —",
       "russian": "условия труда",
       "english": "working conditions",
-      "example": ""
+      "example": "De arbeidsomstandigheden zijn hier goed.",
+      "example_ru": "Условия труда здесь хорошие.",
+      "example_en": "The working conditions are good here."
     },
     {
       "type_en": "adjective",
@@ -32,7 +38,9 @@
       "dutch": "arbeidsongeschikt",
       "russian": "нетрудоспособный",
       "english": "incapacitated for work",
-      "example": ""
+      "example": "Hij is arbeidsongeschikt na het ongeluk.",
+      "example_ru": "Он нетрудоспособен после несчастного случая.",
+      "example_en": "He is incapacitated for work after the accident."
     },
     {
       "type_en": "noun",
@@ -40,7 +48,9 @@
       "dutch": "de arbeidsovereenkomst, arbeidsovereenkomsten",
       "russian": "трудовое соглашение",
       "english": "employment agreement",
-      "example": ""
+      "example": "De arbeidsovereenkomst staat op papier.",
+      "example_ru": "Трудовое соглашение оформлено на бумаге.",
+      "example_en": "The employment agreement is on paper."
     },
     {
       "type_en": "noun",
@@ -48,7 +58,9 @@
       "dutch": "de arbeidsvoorwaarde, arbeidsvoorwaarden",
       "russian": "условие труда",
       "english": "employment condition",
-      "example": ""
+      "example": "De arbeidsvoorwaarden staan in de cao.",
+      "example_ru": "Условия труда прописаны в коллективном договоре.",
+      "example_en": "The employment conditions are in the collective agreement."
     },
     {
       "type_en": "noun",
@@ -56,7 +68,9 @@
       "dutch": "het bedrijf, bedrijven",
       "russian": "компания",
       "english": "company",
-      "example": ""
+      "example": "Het bedrijf groeit elk jaar.",
+      "example_ru": "Компания растёт каждый год.",
+      "example_en": "The company grows every year."
     },
     {
       "type_en": "noun",
@@ -64,7 +78,9 @@
       "dutch": "de belasting, belastingen",
       "russian": "налог",
       "english": "tax",
-      "example": ""
+      "example": "De belasting betaal je elk jaar.",
+      "example_ru": "Налог платится каждый год.",
+      "example_en": "You pay tax every year."
     },
     {
       "type_en": "noun",
@@ -72,7 +88,9 @@
       "dutch": "het beoordelingsgesprek, beoordelingsgesprekken",
       "russian": "оценочная беседа",
       "english": "performance review",
-      "example": ""
+      "example": "Het beoordelingsgesprek is morgen.",
+      "example_ru": "Оценочная беседа завтра.",
+      "example_en": "The performance review is tomorrow."
     },
     {
       "type_en": "noun",
@@ -80,7 +98,9 @@
       "dutch": "de bepaalde tijd, bepaalde tijden",
       "russian": "определённый срок",
       "english": "fixed term",
-      "example": ""
+      "example": "Zijn contract is voor bepaalde tijd.",
+      "example_ru": "Его контракт на определённый срок.",
+      "example_en": "His contract is for a fixed term."
     },
     {
       "type_en": "adjective",
@@ -88,7 +108,9 @@
       "dutch": "beschikbaar",
       "russian": "доступный",
       "english": "available",
-      "example": ""
+      "example": "De functie is nog beschikbaar.",
+      "example_ru": "Должность ещё доступна.",
+      "example_en": "The position is still available."
     },
     {
       "type_en": "noun",
@@ -96,7 +118,9 @@
       "dutch": "de bijstand, —",
       "russian": "социальная помощь",
       "english": "social assistance",
-      "example": ""
+      "example": "Zij krijgt bijstand van de gemeente.",
+      "example_ru": "Она получает социальную помощь от муниципалитета.",
+      "example_en": "She receives social assistance from the municipality."
     },
     {
       "type_en": "adjective",
@@ -104,23 +128,29 @@
       "dutch": "bruto",
       "russian": "брутто",
       "english": "gross",
-      "example": ""
+      "example": "Mijn bruto salaris is hoger.",
+      "example_ru": "Моя зарплата брутто выше.",
+      "example_en": "My gross salary is higher."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
-      "dutch": "de cao (collectieve arbeidsovereenkomst), cao’s",
+      "dutch": "de cao (collectieve arbeidsovereenkomst), cao's",
       "russian": "коллективный трудовой договор",
       "english": "collective labour agreement",
-      "example": ""
+      "example": "De cao geldt voor alle werknemers.",
+      "example_ru": "Коллективный договор действует для всех работников.",
+      "example_en": "The collective agreement applies to all employees."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
-      "dutch": "de collega, collega’s",
+      "dutch": "de collega, collega's",
       "russian": "коллега",
       "english": "colleague",
-      "example": ""
+      "example": "Mijn collega helpt mij vandaag.",
+      "example_ru": "Мой коллега помогает мне сегодня.",
+      "example_en": "My colleague helps me today."
     },
     {
       "type_en": "noun",
@@ -128,15 +158,19 @@
       "dutch": "de competentie, competenties",
       "russian": "компетенция",
       "english": "competence",
-      "example": ""
+      "example": "Die competentie is belangrijk hier.",
+      "example_ru": "Эта компетенция здесь важна.",
+      "example_en": "That competence is important here."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
-      "dutch": "het cv (curriculum vitae), cv’s",
+      "dutch": "het cv (curriculum vitae), cv's",
       "russian": "резюме",
       "english": "CV",
-      "example": ""
+      "example": "Stuur je cv vandaag nog op.",
+      "example_ru": "Отправь своё резюме ещё сегодня.",
+      "example_en": "Send your CV today."
     },
     {
       "type_en": "noun",
@@ -144,7 +178,9 @@
       "dutch": "de deeltijd, —",
       "russian": "неполный рабочий день",
       "english": "part-time",
-      "example": ""
+      "example": "Zij werkt in deeltijd.",
+      "example_ru": "Она работает на полставки.",
+      "example_en": "She works part-time."
     },
     {
       "type_en": "noun",
@@ -152,7 +188,9 @@
       "dutch": "de discriminatie, discriminaties",
       "russian": "дискриминация",
       "english": "discrimination",
-      "example": ""
+      "example": "Discriminatie op het werk is verboden.",
+      "example_ru": "Дискриминация на работе запрещена.",
+      "example_en": "Discrimination at work is forbidden."
     },
     {
       "type_en": "noun",
@@ -160,7 +198,9 @@
       "dutch": "de ervaring, ervaringen",
       "russian": "опыт",
       "english": "experience",
-      "example": ""
+      "example": "Hij heeft veel ervaring.",
+      "example_ru": "У него много опыта.",
+      "example_en": "He has a lot of experience."
     },
     {
       "type_en": "adjective",
@@ -168,7 +208,9 @@
       "dutch": "fulltime",
       "russian": "полный рабочий день",
       "english": "full-time",
-      "example": ""
+      "example": "Ik zoek een fulltime baan.",
+      "example_ru": "Я ищу работу на полную ставку.",
+      "example_en": "I am looking for a full-time job."
     },
     {
       "type_en": "noun",
@@ -176,7 +218,9 @@
       "dutch": "de functie, functies",
       "russian": "должность",
       "english": "position",
-      "example": ""
+      "example": "De functie past goed bij haar.",
+      "example_ru": "Эта должность ей хорошо подходит.",
+      "example_en": "The position suits her well."
     },
     {
       "type_en": "verb",
@@ -184,7 +228,9 @@
       "dutch": "functioneren, gefunctioneerd",
       "russian": "работать",
       "english": "to function",
-      "example": ""
+      "example": "Het team functioneert goed samen.",
+      "example_ru": "Команда хорошо работает вместе.",
+      "example_en": "The team functions well together."
     },
     {
       "type_en": "adjective",
@@ -192,7 +238,9 @@
       "dutch": "geschikt",
       "russian": "подходящий",
       "english": "suitable",
-      "example": ""
+      "example": "Hij is geschikt voor deze baan.",
+      "example_ru": "Он подходит для этой работы.",
+      "example_en": "He is suitable for this job."
     },
     {
       "type_en": "noun",
@@ -200,7 +248,9 @@
       "dutch": "het inkomen, inkomens",
       "russian": "доход",
       "english": "income",
-      "example": ""
+      "example": "Het inkomen is genoeg voor de huur.",
+      "example_ru": "Дохода хватает на аренду.",
+      "example_en": "The income is enough for the rent."
     },
     {
       "type_en": "noun",
@@ -208,7 +258,9 @@
       "dutch": "de jaaropgave, jaaropgaven",
       "russian": "годовая справка о доходах",
       "english": "annual income statement",
-      "example": ""
+      "example": "De jaaropgave komt in februari.",
+      "example_ru": "Годовая справка о доходах приходит в феврале.",
+      "example_en": "The annual income statement comes in February."
     },
     {
       "type_en": "noun",
@@ -216,7 +268,9 @@
       "dutch": "de Kamer van Koophandel (KvK), —",
       "russian": "Торговая палата",
       "english": "Chamber of Commerce",
-      "example": ""
+      "example": "Hij schrijft zich in bij de KvK.",
+      "example_ru": "Он регистрируется в Торговой палате.",
+      "example_en": "He registers at the Chamber of Commerce."
     },
     {
       "type_en": "noun",
@@ -224,7 +278,9 @@
       "dutch": "de leidinggevende, leidinggevenden",
       "russian": "руководитель",
       "english": "manager",
-      "example": ""
+      "example": "De leidinggevende beslist over het rooster.",
+      "example_ru": "Руководитель решает вопрос с расписанием.",
+      "example_en": "The manager decides on the schedule."
     },
     {
       "type_en": "noun",
@@ -232,7 +288,9 @@
       "dutch": "de loondienst, —",
       "russian": "работа по найму",
       "english": "employment",
-      "example": ""
+      "example": "Zij werkt in loondienst.",
+      "example_ru": "Она работает по найму.",
+      "example_en": "She works in employment."
     },
     {
       "type_en": "noun",
@@ -240,7 +298,9 @@
       "dutch": "de loonstrook, loonstroken",
       "russian": "расчётный лист",
       "english": "payslip",
-      "example": ""
+      "example": "De loonstrook komt elke maand.",
+      "example_ru": "Расчётный лист приходит каждый месяц.",
+      "example_en": "The payslip comes every month."
     },
     {
       "type_en": "noun",
@@ -248,7 +308,9 @@
       "dutch": "de MAP (module arbeidsmarkt en participatie), —",
       "russian": "модуль «Рынок труда и участие»",
       "english": "Labour Market and Participation module",
-      "example": ""
+      "example": "De MAP is onderdeel van de inburgering.",
+      "example_ru": "MAP — часть программы интеграции.",
+      "example_en": "The MAP is part of the integration programme."
     },
     {
       "type_en": "noun",
@@ -256,7 +318,9 @@
       "dutch": "de medezeggenschapsraad (MR), medezeggenschapsraden (MR)",
       "russian": "совет работников",
       "english": "works council",
-      "example": ""
+      "example": "De MR vergadert elke maand.",
+      "example_ru": "Совет работников заседает каждый месяц.",
+      "example_en": "The works council meets every month."
     },
     {
       "type_en": "noun",
@@ -264,7 +328,9 @@
       "dutch": "het minimumloon, minimumlonen",
       "russian": "минимальная заработная плата",
       "english": "minimum wage",
-      "example": ""
+      "example": "Het minimumloon stijgt in januari.",
+      "example_ru": "Минимальная зарплата растёт в январе.",
+      "example_en": "The minimum wage increases in January."
     },
     {
       "type_en": "noun",
@@ -272,7 +338,9 @@
       "dutch": "de motivatie, motivaties",
       "russian": "мотивация",
       "english": "motivation",
-      "example": ""
+      "example": "Schrijf je motivatie in de brief.",
+      "example_ru": "Напиши мотивацию в письме.",
+      "example_en": "Write your motivation in the letter."
     },
     {
       "type_en": "adjective",
@@ -280,7 +348,9 @@
       "dutch": "netto",
       "russian": "нетто",
       "english": "net",
-      "example": ""
+      "example": "Het netto bedrag staat onderaan.",
+      "example_ru": "Сумма нетто указана внизу.",
+      "example_en": "The net amount is at the bottom."
     },
     {
       "type_en": "noun",
@@ -288,7 +358,9 @@
       "dutch": "het netwerk, netwerken",
       "russian": "сеть",
       "english": "network",
-      "example": ""
+      "example": "Een goed netwerk helpt bij werk.",
+      "example_ru": "Хорошие связи помогают в поиске работы.",
+      "example_en": "A good network helps with work."
     },
     {
       "type_en": "noun",
@@ -296,7 +368,9 @@
       "dutch": "de ondernemer, ondernemers",
       "russian": "предприниматель",
       "english": "entrepreneur",
-      "example": ""
+      "example": "De ondernemer heeft een eigen zaak.",
+      "example_ru": "У предпринимателя есть собственное дело.",
+      "example_en": "The entrepreneur has their own business."
     },
     {
       "type_en": "noun",
@@ -304,7 +378,9 @@
       "dutch": "de ondernemingsraad (OR), ondernemingsraden (OR)",
       "russian": "совет предприятия",
       "english": "works council",
-      "example": ""
+      "example": "De OR denkt mee over de plannen.",
+      "example_ru": "Совет предприятия участвует в обсуждении планов.",
+      "example_en": "The works council contributes to the plans."
     },
     {
       "type_en": "adjective",
@@ -312,7 +388,9 @@
       "dutch": "onregelmatig (werk)",
       "russian": "нерегулярный (график работы)",
       "english": "irregular (working hours)",
-      "example": ""
+      "example": "Zij heeft onregelmatige werktijden.",
+      "example_ru": "У неё нерегулярный график работы.",
+      "example_en": "She has irregular working hours."
     },
     {
       "type_en": "verb",
@@ -320,7 +398,9 @@
       "dutch": "ontslaan, ontslagen",
       "russian": "увольнять",
       "english": "to dismiss",
-      "example": ""
+      "example": "De baas ontslaat hem volgende week.",
+      "example_ru": "Начальник увольняет его на следующей неделе.",
+      "example_en": "The boss dismisses him next week."
     },
     {
       "type_en": "noun",
@@ -328,7 +408,9 @@
       "dutch": "het ontslag, ontslagen",
       "russian": "увольнение",
       "english": "dismissal",
-      "example": ""
+      "example": "Het ontslag kwam als een verrassing.",
+      "example_ru": "Увольнение стало неожиданностью.",
+      "example_en": "The dismissal came as a surprise."
     },
     {
       "type_en": "adjective",
@@ -336,7 +418,9 @@
       "dutch": "parttime",
       "russian": "неполный рабочий день",
       "english": "part-time",
-      "example": ""
+      "example": "Hij werkt parttime op dinsdag.",
+      "example_ru": "Он работает на полставки по вторникам.",
+      "example_en": "He works part-time on Tuesdays."
     },
     {
       "type_en": "noun",
@@ -344,7 +428,9 @@
       "dutch": "het pensioen, pensioenen",
       "russian": "пенсия",
       "english": "pension",
-      "example": ""
+      "example": "Het pensioen begint op je 67e.",
+      "example_ru": "Пенсия начинается в 67 лет.",
+      "example_en": "The pension starts at age 67."
     },
     {
       "type_en": "noun",
@@ -352,7 +438,9 @@
       "dutch": "het personeel, —",
       "russian": "персонал",
       "english": "staff",
-      "example": ""
+      "example": "Het personeel werkt hier graag.",
+      "example_ru": "Персонал здесь работает с удовольствием.",
+      "example_en": "The staff enjoy working here."
     },
     {
       "type_en": "noun",
@@ -360,7 +448,9 @@
       "dutch": "de personeelsvereniging (PV), personeelsverenigingen (PV)",
       "russian": "объединение работников",
       "english": "staff association",
-      "example": ""
+      "example": "De PV organiseert een feest.",
+      "example_ru": "Объединение работников организует праздник.",
+      "example_en": "The staff association organises a party."
     },
     {
       "type_en": "adjective",
@@ -368,7 +458,9 @@
       "dutch": "regelmatig (werk)",
       "russian": "регулярный (график работы)",
       "english": "regular (working hours)",
-      "example": ""
+      "example": "Ik werk regelmatige uren.",
+      "example_ru": "Я работаю по регулярному графику.",
+      "example_en": "I work regular hours."
     },
     {
       "type_en": "noun",
@@ -376,7 +468,9 @@
       "dutch": "de salarisstrook, salarisstroken",
       "russian": "расчётный лист зарплаты",
       "english": "payslip",
-      "example": ""
+      "example": "De salarisstrook staat online.",
+      "example_ru": "Расчётный лист доступен онлайн.",
+      "example_en": "The payslip is online."
     },
     {
       "type_en": "noun",
@@ -384,7 +478,9 @@
       "dutch": "de sector, sectoren",
       "russian": "сектор",
       "english": "sector",
-      "example": ""
+      "example": "De zorgsector zoekt veel mensen.",
+      "example_ru": "Сектор здравоохранения ищет много людей.",
+      "example_en": "The healthcare sector is looking for many people."
     },
     {
       "type_en": "noun",
@@ -392,7 +488,9 @@
       "dutch": "de sollicitatie, sollicitaties",
       "russian": "заявление о приёме на работу",
       "english": "job application",
-      "example": ""
+      "example": "De sollicitatie is verstuurd.",
+      "example_ru": "Заявление о приёме на работу отправлено.",
+      "example_en": "The job application has been sent."
     },
     {
       "type_en": "verb",
@@ -400,7 +498,9 @@
       "dutch": "solliciteren, gesolliciteerd",
       "russian": "подавать заявление о приёме на работу",
       "english": "to apply for a job",
-      "example": ""
+      "example": "Zij solliciteert bij een ziekenhuis.",
+      "example_ru": "Она подаёт заявление в больницу.",
+      "example_en": "She applies for a job at a hospital."
     },
     {
       "type_en": "noun",
@@ -408,7 +508,9 @@
       "dutch": "de stage, stages",
       "russian": "стажировка",
       "english": "internship",
-      "example": ""
+      "example": "De stage duurt drie maanden.",
+      "example_ru": "Стажировка длится три месяца.",
+      "example_en": "The internship lasts three months."
     },
     {
       "type_en": "noun",
@@ -416,7 +518,9 @@
       "dutch": "de uitkering, uitkeringen",
       "russian": "пособие",
       "english": "benefit",
-      "example": ""
+      "example": "Hij krijgt een uitkering van het UWV.",
+      "example_ru": "Он получает пособие от UWV.",
+      "example_en": "He receives a benefit from UWV."
     },
     {
       "type_en": "noun",
@@ -424,7 +528,9 @@
       "dutch": "het uitzendbureau, uitzendbureaus",
       "russian": "агентство по трудоустройству",
       "english": "employment agency",
-      "example": ""
+      "example": "Het uitzendbureau vindt werk voor je.",
+      "example_ru": "Агентство по трудоустройству найдёт тебе работу.",
+      "example_en": "The employment agency finds work for you."
     },
     {
       "type_en": "noun",
@@ -432,7 +538,9 @@
       "dutch": "het UWV, —",
       "russian": "Агентство страхования работников",
       "english": "Employee Insurance Agency",
-      "example": ""
+      "example": "Het UWV helpt werkloze mensen.",
+      "example_ru": "UWV помогает безработным людям.",
+      "example_en": "UWV helps unemployed people."
     },
     {
       "type_en": "noun",
@@ -440,7 +548,9 @@
       "dutch": "de vacature, vacatures",
       "russian": "вакансия",
       "english": "vacancy",
-      "example": ""
+      "example": "De vacature staat op de website.",
+      "example_ru": "Вакансия размещена на сайте.",
+      "example_en": "The vacancy is on the website."
     },
     {
       "type_en": "noun",
@@ -448,7 +558,9 @@
       "dutch": "de vakbond, vakbonden",
       "russian": "профсоюз",
       "english": "trade union",
-      "example": ""
+      "example": "De vakbond komt op voor werknemers.",
+      "example_ru": "Профсоюз защищает интересы работников.",
+      "example_en": "The trade union stands up for employees."
     },
     {
       "type_en": "noun",
@@ -456,7 +568,9 @@
       "dutch": "de vertrouwenspersoon, vertrouwenspersonen",
       "russian": "доверенное лицо",
       "english": "confidential adviser",
-      "example": ""
+      "example": "Praat met de vertrouwenspersoon op je werk.",
+      "example_ru": "Поговори с доверенным лицом на работе.",
+      "example_en": "Talk to the confidential adviser at your work."
     },
     {
       "type_en": "noun",
@@ -464,7 +578,9 @@
       "dutch": "de verzekering, verzekeringen",
       "russian": "страхование",
       "english": "insurance",
-      "example": ""
+      "example": "De verzekering betaal je elke maand.",
+      "example_ru": "За страховку платишь каждый месяц.",
+      "example_en": "You pay for insurance every month."
     },
     {
       "type_en": "noun",
@@ -472,7 +588,9 @@
       "dutch": "de voltijd, —",
       "russian": "полный рабочий день",
       "english": "full-time",
-      "example": ""
+      "example": "Hij werkt in voltijd.",
+      "example_ru": "Он работает на полную ставку.",
+      "example_en": "He works full-time."
     },
     {
       "type_en": "noun",
@@ -480,7 +598,9 @@
       "dutch": "het vrijwilligerswerk, —",
       "russian": "волонтёрская работа",
       "english": "volunteer work",
-      "example": ""
+      "example": "Vrijwilligerswerk is goed voor je cv.",
+      "example_ru": "Волонтёрская работа полезна для резюме.",
+      "example_en": "Volunteer work is good for your CV."
     },
     {
       "type_en": "noun",
@@ -488,7 +608,9 @@
       "dutch": "de werkgever, werkgevers",
       "russian": "работодатель",
       "english": "employer",
-      "example": ""
+      "example": "De werkgever betaalt het salaris.",
+      "example_ru": "Работодатель платит зарплату.",
+      "example_en": "The employer pays the salary."
     },
     {
       "type_en": "adjective",
@@ -496,7 +618,9 @@
       "dutch": "werkloos",
       "russian": "безработный",
       "english": "unemployed",
-      "example": ""
+      "example": "Zij is al drie maanden werkloos.",
+      "example_ru": "Она уже три месяца безработная.",
+      "example_en": "She has been unemployed for three months."
     },
     {
       "type_en": "noun",
@@ -504,7 +628,9 @@
       "dutch": "de werknemer, werknemers",
       "russian": "работник",
       "english": "employee",
-      "example": ""
+      "example": "De werknemer heeft recht op vakantie.",
+      "example_ru": "Работник имеет право на отпуск.",
+      "example_en": "The employee has the right to vacation."
     },
     {
       "type_en": "noun",
@@ -512,7 +638,9 @@
       "dutch": "de WIA-uitkering, wia-uitkeringen",
       "russian": "пособие по нетрудоспособности WIA",
       "english": "WIA disability benefit",
-      "example": ""
+      "example": "De WIA-uitkering is voor zieke werknemers.",
+      "example_ru": "Пособие WIA предназначено для больных работников.",
+      "example_en": "The WIA benefit is for sick employees."
     },
     {
       "type_en": "adjective",
@@ -520,7 +648,9 @@
       "dutch": "zelfstandig",
       "russian": "самостоятельный",
       "english": "self-employed",
-      "example": ""
+      "example": "Hij werkt zelfstandig vanuit huis.",
+      "example_ru": "Он работает самостоятельно из дома.",
+      "example_en": "He works independently from home."
     },
     {
       "type_en": "noun",
@@ -528,15 +658,19 @@
       "dutch": "de ziektewet, ziektewetten",
       "russian": "закон о больничных выплатах",
       "english": "Sickness Benefits Act",
-      "example": ""
+      "example": "De ziektewet beschermt zieke werknemers.",
+      "example_ru": "Закон о больничных защищает заболевших работников.",
+      "example_en": "The Sickness Benefits Act protects sick employees."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
-      "dutch": "de zzp’er, zzp’ers",
+      "dutch": "de zzp'er, zzp'ers",
       "russian": "самозанятый",
       "english": "self-employed person",
-      "example": ""
+      "example": "De zzp'er stuurt zelf facturen.",
+      "example_ru": "Самозанятый сам отправляет счета.",
+      "example_en": "The freelancer sends invoices themselves."
     }
   ]
 }

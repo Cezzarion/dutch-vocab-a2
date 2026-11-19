@@ -7,6 +7,8 @@ export interface VocabularyEntry {
   russian: string
   english: string
   example?: string
+  example_ru?: string
+  example_en?: string
 }
 
 export interface VocabularyDictionary {

@@ -8,7 +8,9 @@
       "dutch": "aankleden, aangekleed",
       "russian": "одеваться",
       "english": "get dressed",
-      "example": ""
+      "example": "Ik kleed me snel aan.",
+      "example_ru": "Я быстро одеваюсь.",
+      "example_en": "I get dressed quickly."
     },
     {
       "type_en": "noun",
@@ -16,7 +18,9 @@
       "dutch": "de aantekening, aantekeningen",
       "russian": "заметка",
       "english": "note",
-      "example": ""
+      "example": "De aantekening staat in mijn schrift.",
+      "example_ru": "Заметка в моей тетради.",
+      "example_en": "The note is in my notebook."
     },
     {
       "type_en": "adjective",
@@ -24,7 +28,9 @@
       "dutch": "aanwezig",
       "russian": "присутствующий",
       "english": "present",
-      "example": ""
+      "example": "Alle studenten zijn vandaag aanwezig.",
+      "example_ru": "Все студенты сегодня присутствуют.",
+      "example_en": "All students are present today."
     },
     {
       "type_en": "noun",
@@ -32,7 +38,9 @@
       "dutch": "het abonnement, abonnementen",
       "russian": "подписка",
       "english": "subscription",
-      "example": ""
+      "example": "Het abonnement loopt tot december.",
+      "example_ru": "Подписка действует до декабря.",
+      "example_en": "The subscription runs until December."
     },
     {
       "type_en": "noun",
@@ -40,7 +48,9 @@
       "dutch": "de actie, acties",
       "russian": "действие",
       "english": "action",
-      "example": ""
+      "example": "De actie begint morgen vroeg.",
+      "example_ru": "Акция начинается завтра рано.",
+      "example_en": "The campaign starts early tomorrow."
     },
     {
       "type_en": "adjective",
@@ -48,7 +58,9 @@
       "dutch": "actief",
       "russian": "активный",
       "english": "active",
-      "example": ""
+      "example": "Hij is heel actief op school.",
+      "example_ru": "Он очень активен в школе.",
+      "example_en": "He is very active at school."
     },
     {
       "type_en": "noun",
@@ -56,7 +68,9 @@
       "dutch": "de activiteit, activiteiten",
       "russian": "деятельность",
       "english": "activity",
-      "example": ""
+      "example": "De activiteit vindt plaats in het park.",
+      "example_ru": "Мероприятие проходит в парке.",
+      "example_en": "The activity takes place in the park."
     },
     {
       "type_en": "verb",
@@ -64,7 +78,9 @@
       "dutch": "afmelden, afgemeld",
       "russian": "сняться с регистрации",
       "english": "unregister",
-      "example": ""
+      "example": "Zij meldt zich af voor de cursus.",
+      "example_ru": "Она отписывается от курса.",
+      "example_en": "She unregisters from the course."
     },
     {
       "type_en": "noun",
@@ -72,7 +88,9 @@
       "dutch": "het afscheid, —",
       "russian": "прощание",
       "english": "farewell",
-      "example": ""
+      "example": "Het afscheid was moeilijk voor ons.",
+      "example_ru": "Прощание было трудным для нас.",
+      "example_en": "The farewell was difficult for us."
     },
     {
       "type_en": "adjective",
@@ -80,7 +98,9 @@
       "dutch": "afwezig",
       "russian": "отсутствующий",
       "english": "absent",
-      "example": ""
+      "example": "De leraar is vandaag afwezig.",
+      "example_ru": "Учитель сегодня отсутствует.",
+      "example_en": "The teacher is absent today."
     },
     {
       "type_en": "verb",
@@ -88,7 +108,9 @@
       "dutch": "afzeggen, afgezegd",
       "russian": "отменить",
       "english": "cancel",
-      "example": ""
+      "example": "Wij zeggen de afspraak af.",
+      "example_ru": "Мы отменяем встречу.",
+      "example_en": "We cancel the appointment."
     },
     {
       "type_en": "noun",
@@ -96,7 +118,9 @@
       "dutch": "de agent, agenten",
       "russian": "полицейский",
       "english": "police officer",
-      "example": ""
+      "example": "De agent staat op de hoek.",
+      "example_ru": "Полицейский стоит на углу.",
+      "example_en": "The police officer is on the corner."
     },
     {
       "type_en": "noun",
@@ -104,7 +128,9 @@
       "dutch": "het alarm, alarmen",
       "russian": "сигнализация",
       "english": "alarm",
-      "example": ""
+      "example": "Het alarm gaat elke ochtend af.",
+      "example_ru": "Будильник звонит каждое утро.",
+      "example_en": "The alarm goes off every morning."
     },
     {
       "type_en": "noun",
@@ -112,7 +138,9 @@
       "dutch": "de alinea, alinea's",
       "russian": "абзац",
       "english": "paragraph",
-      "example": ""
+      "example": "Lees de eerste alinea hardop.",
+      "example_ru": "Прочитай первый абзац вслух.",
+      "example_en": "Read the first paragraph aloud."
     },
     {
       "type_en": "adverb",
@@ -120,7 +148,9 @@
       "dutch": "alsjeblieft",
       "russian": "пожалуйста",
       "english": "please",
-      "example": ""
+      "example": "Een kopje thee, alsjeblieft.",
+      "example_ru": "Чашку чая, пожалуйста.",
+      "example_en": "A cup of tea, please."
     },
     {
       "type_en": "verb",
@@ -128,7 +158,9 @@
       "dutch": "annuleren, geannuleerd",
       "russian": "отменить",
       "english": "cancel",
-      "example": ""
+      "example": "Hij annuleert de vlucht vandaag.",
+      "example_ru": "Он отменяет рейс сегодня.",
+      "example_en": "He cancels the flight today."
     },
     {
       "type_en": "noun",
@@ -136,7 +168,9 @@
       "dutch": "de app, apps",
       "russian": "приложение",
       "english": "app",
-      "example": ""
+      "example": "De app werkt goed op mijn telefoon.",
+      "example_ru": "Приложение хорошо работает на моём телефоне.",
+      "example_en": "The app works well on my phone."
     },
     {
       "type_en": "noun",
@@ -144,7 +178,9 @@
       "dutch": "de april, —",
       "russian": "апрель",
       "english": "April",
-      "example": ""
+      "example": "In april wordt het warmer.",
+      "example_ru": "В апреле становится теплее.",
+      "example_en": "In April it gets warmer."
     },
     {
       "type_en": "noun",
@@ -152,7 +188,9 @@
       "dutch": "de assistent, assistenten",
       "russian": "помощник",
       "english": "assistant",
-      "example": ""
+      "example": "De assistent helpt de dokter vandaag.",
+      "example_ru": "Ассистент помогает врачу сегодня.",
+      "example_en": "The assistant helps the doctor today."
     },
     {
       "type_en": "noun",
@@ -160,7 +198,9 @@
       "dutch": "de augustus, —",
       "russian": "август",
       "english": "August",
-      "example": ""
+      "example": "In augustus gaan we op vakantie.",
+      "example_ru": "В августе мы едем в отпуск.",
+      "example_en": "In August we go on holiday."
     },
     {
       "type_en": "noun",
@@ -168,7 +208,9 @@
       "dutch": "de baard, baarden",
       "russian": "борода",
       "english": "beard",
-      "example": ""
+      "example": "Hij heeft een lange zwarte baard.",
+      "example_ru": "У него длинная чёрная борода.",
+      "example_en": "He has a long black beard."
     },
     {
       "type_en": "noun",
@@ -176,7 +218,9 @@
       "dutch": "de badkamer, badkamers",
       "russian": "ванная комната",
       "english": "bathroom",
-      "example": ""
+      "example": "De badkamer is boven aan de trap.",
+      "example_ru": "Ванная комната наверху лестницы.",
+      "example_en": "The bathroom is at the top of the stairs."
     },
     {
       "type_en": "noun",
@@ -184,7 +228,9 @@
       "dutch": "de bagage, —",
       "russian": "багаж",
       "english": "baggage",
-      "example": ""
+      "example": "De bagage staat al bij de deur.",
+      "example_ru": "Багаж уже у двери.",
+      "example_en": "The luggage is already by the door."
     },
     {
       "type_en": "noun",
@@ -192,7 +238,9 @@
       "dutch": "de balie, balies",
       "russian": "стойка обслуживания",
       "english": "service desk",
-      "example": ""
+      "example": "De balie is links bij de ingang.",
+      "example_ru": "Стойка слева у входа.",
+      "example_en": "The desk is on the left at the entrance."
     },
     {
       "type_en": "noun",
@@ -200,7 +248,9 @@
       "dutch": "de banaan, bananen",
       "russian": "банан",
       "english": "banana",
-      "example": ""
+      "example": "De banaan is lekker en gezond.",
+      "example_ru": "Банан вкусный и полезный.",
+      "example_en": "The banana is tasty and healthy."
     },
     {
       "type_en": "noun",
@@ -208,7 +258,9 @@
       "dutch": "de bankrekening, bankrekeningen",
       "russian": "банковский счет",
       "english": "bank account",
-      "example": ""
+      "example": "Ik open een nieuwe bankrekening.",
+      "example_ru": "Я открываю новый банковский счёт.",
+      "example_en": "I am opening a new bank account."
     },
     {
       "type_en": "noun",
@@ -216,7 +268,9 @@
       "dutch": "het basisonderwijs, —",
       "russian": "начальное образование",
       "english": "primary education",
-      "example": ""
+      "example": "Het basisonderwijs duurt acht jaar.",
+      "example_ru": "Начальное образование длится восемь лет.",
+      "example_en": "Primary education lasts eight years."
     },
     {
       "type_en": "noun",
@@ -224,7 +278,9 @@
       "dutch": "de basisschool, basisscholen",
       "russian": "начальная школа",
       "english": "elementary school",
-      "example": ""
+      "example": "De basisschool is vlak bij ons huis.",
+      "example_ru": "Начальная школа рядом с нашим домом.",
+      "example_en": "The elementary school is near our house."
     },
     {
       "type_en": "noun",
@@ -232,7 +288,9 @@
       "dutch": "het basketbal, —",
       "russian": "баскетбол",
       "english": "basketball",
-      "example": ""
+      "example": "Wij spelen basketbal in de zaal.",
+      "example_ru": "Мы играем в баскетбол в зале.",
+      "example_en": "We play basketball in the gym."
     },
     {
       "type_en": "noun",
@@ -240,7 +298,9 @@
       "dutch": "het bedrag, bedragen",
       "russian": "сумма денег",
       "english": "amount of money",
-      "example": ""
+      "example": "Het bedrag staat op de factuur.",
+      "example_ru": "Сумма указана в счёте.",
+      "example_en": "The amount is on the invoice."
     },
     {
       "type_en": "adjective",
@@ -248,7 +308,9 @@
       "dutch": "beleefd",
       "russian": "вежливый",
       "english": "polite",
-      "example": ""
+      "example": "Zij is altijd erg beleefd.",
+      "example_ru": "Она всегда очень вежлива.",
+      "example_en": "She is always very polite."
     },
     {
       "type_en": "adjective",
@@ -256,7 +318,9 @@
       "dutch": "benieuwd",
       "russian": "любопытный",
       "english": "curious",
-      "example": ""
+      "example": "Ik ben benieuwd naar het antwoord.",
+      "example_ru": "Мне любопытно узнать ответ.",
+      "example_en": "I am curious about the answer."
     },
     {
       "type_en": "noun",
@@ -264,7 +328,9 @@
       "dutch": "de beschrijving, beschrijvingen",
       "russian": "описание",
       "english": "description",
-      "example": ""
+      "example": "De beschrijving klopt niet helemaal.",
+      "example_ru": "Описание не совсем точное.",
+      "example_en": "The description is not entirely correct."
     },
     {
       "type_en": "adjective",
@@ -272,7 +338,9 @@
       "dutch": "beter",
       "russian": "лучше",
       "english": "better",
-      "example": ""
+      "example": "Vandaag gaat het veel beter.",
+      "example_ru": "Сегодня намного лучше.",
+      "example_en": "Today it is much better."
     },
     {
       "type_en": "noun",
@@ -280,7 +348,9 @@
       "dutch": "de bewoner, bewoners",
       "russian": "житель",
       "english": "resident",
-      "example": ""
+      "example": "De bewoner woont hier al tien jaar.",
+      "example_ru": "Жилец живёт здесь уже десять лет.",
+      "example_en": "The resident has lived here for ten years."
     },
     {
       "type_en": "noun",
@@ -288,7 +358,9 @@
       "dutch": "de bezoeker, bezoekers",
       "russian": "посетитель",
       "english": "visitor",
-      "example": ""
+      "example": "De bezoeker wacht in de hal.",
+      "example_ru": "Посетитель ждёт в холле.",
+      "example_en": "The visitor is waiting in the hall."
     },
     {
       "type_en": "adjective",
@@ -296,7 +368,9 @@
       "dutch": "bezorgd",
       "russian": "обеспокоенный",
       "english": "worried",
-      "example": ""
+      "example": "Zij is bezorgd over haar kind.",
+      "example_ru": "Она беспокоится о своём ребёнке.",
+      "example_en": "She is worried about her child."
     },
     {
       "type_en": "verb",
@@ -304,7 +378,9 @@
       "dutch": "bezorgen, bezorgd",
       "russian": "доставлять",
       "english": "deliver",
-      "example": ""
+      "example": "Hij bezorgt de pakketjes op tijd.",
+      "example_ru": "Он доставляет посылки вовремя.",
+      "example_en": "He delivers the packages on time."
     },
     {
       "type_en": "noun",
@@ -312,7 +388,9 @@
       "dutch": "de bijbaan, bijbanen",
       "russian": "подработка",
       "english": "side job",
-      "example": ""
+      "example": "De bijbaan is in een winkel.",
+      "example_ru": "Подработка в магазине.",
+      "example_en": "The side job is in a shop."
     },
     {
       "type_en": "noun",
@@ -320,7 +398,9 @@
       "dutch": "het bijbaantje, bijbaantjes",
       "russian": "подработка",
       "english": "side job",
-      "example": ""
+      "example": "Ik heb een leuk bijbaantje gevonden.",
+      "example_ru": "Я нашёл хорошую подработку.",
+      "example_en": "I found a nice side job."
     },
     {
       "type_en": "noun",
@@ -328,7 +408,9 @@
       "dutch": "de boete, boetes",
       "russian": "штраф",
       "english": "fine",
-      "example": ""
+      "example": "De boete was vijftig euro.",
+      "example_ru": "Штраф составил пятьдесят евро.",
+      "example_en": "The fine was fifty euros."
     },
     {
       "type_en": "noun",
@@ -336,7 +418,9 @@
       "dutch": "het bord, borden",
       "russian": "тарелка",
       "english": "plate",
-      "example": ""
+      "example": "Het bord staat op de tafel.",
+      "example_ru": "Тарелка стоит на столе.",
+      "example_en": "The plate is on the table."
     },
     {
       "type_en": "noun",
@@ -344,7 +428,9 @@
       "dutch": "het verkeersbord, verkeersborden",
       "russian": "дорожный знак",
       "english": "traffic sign",
-      "example": ""
+      "example": "Het verkeersbord wijst naar rechts.",
+      "example_ru": "Дорожный знак указывает направо.",
+      "example_en": "The traffic sign points to the right."
     },
     {
       "type_en": "noun",
@@ -352,7 +438,9 @@
       "dutch": "de borstel, borstels",
       "russian": "щётка",
       "english": "brush",
-      "example": ""
+      "example": "De borstel ligt in de badkamer.",
+      "example_ru": "Щётка лежит в ванной.",
+      "example_en": "The brush is in the bathroom."
     },
     {
       "type_en": "noun",
@@ -360,7 +448,9 @@
       "dutch": "de broek, broeken",
       "russian": "пара брюк",
       "english": "pair of trousers",
-      "example": ""
+      "example": "De broek past mij goed.",
+      "example_ru": "Брюки мне хорошо сидят.",
+      "example_en": "The trousers fit me well."
     },
     {
       "type_en": "noun",
@@ -368,7 +458,9 @@
       "dutch": "het brood, broden",
       "russian": "хлеб",
       "english": "bread",
-      "example": ""
+      "example": "Het brood is vers van de bakker.",
+      "example_ru": "Хлеб свежий от пекаря.",
+      "example_en": "The bread is fresh from the bakery."
     },
     {
       "type_en": "adjective",
@@ -376,7 +468,9 @@
       "dutch": "bruin",
       "russian": "коричневый",
       "english": "brown",
-      "example": ""
+      "example": "Zij draagt een bruine jas.",
+      "example_ru": "Она носит коричневое пальто.",
+      "example_en": "She wears a brown coat."
     },
     {
       "type_en": "noun",
@@ -384,7 +478,9 @@
       "dutch": "de buik, buiken",
       "russian": "живот",
       "english": "belly",
-      "example": ""
+      "example": "Mijn buik doet een beetje pijn.",
+      "example_ru": "Мой живот немного болит.",
+      "example_en": "My belly hurts a little."
     },
     {
       "type_en": "noun",
@@ -392,7 +488,9 @@
       "dutch": "de burgemeester, burgemeesters",
       "russian": "мэр",
       "english": "mayor",
-      "example": ""
+      "example": "De burgemeester opent het nieuwe gebouw.",
+      "example_ru": "Мэр открывает новое здание.",
+      "example_en": "The mayor opens the new building."
     },
     {
       "type_en": "noun",
@@ -400,7 +498,9 @@
       "dutch": "het café, cafés",
       "russian": "кафе",
       "english": "café",
-      "example": ""
+      "example": "Het café op de hoek is gezellig.",
+      "example_ru": "Кафе на углу уютное.",
+      "example_en": "The café on the corner is cozy."
     },
     {
       "type_en": "noun",
@@ -408,7 +508,9 @@
       "dutch": "de cd, cd's",
       "russian": "компакт-диск",
       "english": "CD",
-      "example": ""
+      "example": "De cd ligt op de plank.",
+      "example_ru": "Компакт-диск лежит на полке.",
+      "example_en": "The CD is on the shelf."
     },
     {
       "type_en": "noun",
@@ -416,7 +518,9 @@
       "dutch": "de chauffeur, chauffeurs",
       "russian": "водитель",
       "english": "driver",
-      "example": ""
+      "example": "De chauffeur rijdt ons naar huis.",
+      "example_ru": "Водитель везёт нас домой.",
+      "example_en": "The driver takes us home."
     },
     {
       "type_en": "noun",
@@ -424,7 +528,9 @@
       "dutch": "de chef, chefs",
       "russian": "босс",
       "english": "boss",
-      "example": ""
+      "example": "De chef is vandaag niet op kantoor.",
+      "example_ru": "Босс сегодня не в офисе.",
+      "example_en": "The boss is not in the office today."
     },
     {
       "type_en": "noun",
@@ -432,7 +538,9 @@
       "dutch": "het cijfer, cijfers",
       "russian": "оценка",
       "english": "grade",
-      "example": ""
+      "example": "Het cijfer voor wiskunde was een acht.",
+      "example_ru": "Оценка по математике — восьмёрка.",
+      "example_en": "The grade for maths was an eight."
     },
     {
       "type_en": "noun",
@@ -440,7 +548,9 @@
       "dutch": "de cliënt, cliënten",
       "russian": "клиент",
       "english": "client",
-      "example": ""
+      "example": "De cliënt heeft een afspraak om drie uur.",
+      "example_ru": "У клиента встреча в три часа.",
+      "example_en": "The client has an appointment at three."
     },
     {
       "type_en": "noun",
@@ -448,7 +558,9 @@
       "dutch": "de club, clubs",
       "russian": "клуб",
       "english": "club",
-      "example": ""
+      "example": "De club traint elke woensdag.",
+      "example_ru": "Клуб тренируется каждую среду.",
+      "example_en": "The club trains every Wednesday."
     },
     {
       "type_en": "adjective",
@@ -456,7 +568,9 @@
       "dutch": "contant",
       "russian": "наличными",
       "english": "in cash",
-      "example": ""
+      "example": "Wij betalen vandaag contant.",
+      "example_ru": "Мы платим сегодня наличными.",
+      "example_en": "We pay in cash today."
     },
     {
       "type_en": "noun",
@@ -464,7 +578,9 @@
       "dutch": "het contract, contracten",
       "russian": "контракт",
       "english": "contract",
-      "example": ""
+      "example": "Het contract is voor twee jaar.",
+      "example_ru": "Контракт на два года.",
+      "example_en": "The contract is for two years."
     },
     {
       "type_en": "verb",
@@ -472,7 +588,9 @@
       "dutch": "coördineren, gecoördineerd",
       "russian": "координировать",
       "english": "coordinate",
-      "example": ""
+      "example": "Zij coördineert het hele project.",
+      "example_ru": "Она координирует весь проект.",
+      "example_en": "She coordinates the whole project."
     },
     {
       "type_en": "noun",
@@ -480,7 +598,9 @@
       "dutch": "de coördinator, coördinatoren",
       "russian": "координатор",
       "english": "coordinator",
-      "example": ""
+      "example": "De coördinator regelt alles voor het feest.",
+      "example_ru": "Координатор организует всё к празднику.",
+      "example_en": "The coordinator arranges everything for the party."
     },
     {
       "type_en": "verb",
@@ -488,7 +608,9 @@
       "dutch": "dansen, gedanst",
       "russian": "танцевать",
       "english": "dance",
-      "example": ""
+      "example": "Wij dansen graag op muziek.",
+      "example_ru": "Мы любим танцевать под музыку.",
+      "example_en": "We like to dance to music."
     },
     {
       "type_en": "noun",
@@ -496,7 +618,9 @@
       "dutch": "de december, —",
       "russian": "декабрь",
       "english": "December",
-      "example": ""
+      "example": "In december vieren we Kerstmis.",
+      "example_ru": "В декабре мы празднуем Рождество.",
+      "example_en": "In December we celebrate Christmas."
     },
     {
       "type_en": "verb",
@@ -504,7 +628,9 @@
       "dutch": "deelnemen, deelgenomen",
       "russian": "принять участие",
       "english": "take part",
-      "example": ""
+      "example": "Hij neemt deel aan de cursus.",
+      "example_ru": "Он участвует в курсе.",
+      "example_en": "He takes part in the course."
     },
     {
       "type_en": "noun",
@@ -512,7 +638,9 @@
       "dutch": "de deelnemer, deelnemers",
       "russian": "участник",
       "english": "participant",
-      "example": ""
+      "example": "De deelnemer krijgt een certificaat.",
+      "example_ru": "Участник получает сертификат.",
+      "example_en": "The participant receives a certificate."
     },
     {
       "type_en": "numeral",
@@ -520,7 +648,9 @@
       "dutch": "derde",
       "russian": "третий",
       "english": "third",
-      "example": ""
+      "example": "Dit is de derde keer.",
+      "example_ru": "Это третий раз.",
+      "example_en": "This is the third time."
     },
     {
       "type_en": "adjective",
@@ -528,7 +658,9 @@
       "dutch": "dichtbij",
       "russian": "поблизости",
       "english": "nearby",
-      "example": ""
+      "example": "De winkel is dichtbij het station.",
+      "example_ru": "Магазин рядом с вокзалом.",
+      "example_en": "The shop is near the station."
     },
     {
       "type_en": "adjective",
@@ -536,7 +668,9 @@
       "dutch": "digitaal",
       "russian": "цифровой",
       "english": "digital",
-      "example": ""
+      "example": "De digitale les begint om negen uur.",
+      "example_ru": "Онлайн-урок начинается в девять.",
+      "example_en": "The digital class starts at nine."
     },
     {
       "type_en": "noun",
@@ -544,7 +678,9 @@
       "dutch": "de doos, dozen",
       "russian": "коробка",
       "english": "box",
-      "example": ""
+      "example": "De doos is te zwaar om te tillen.",
+      "example_ru": "Коробка слишком тяжёлая, чтобы поднять.",
+      "example_en": "The box is too heavy to lift."
     },
     {
       "type_en": "verb",
@@ -552,7 +688,9 @@
       "dutch": "drogen, gedroogd",
       "russian": "сушить",
       "english": "dry",
-      "example": ""
+      "example": "Zij droogt de kleren buiten.",
+      "example_ru": "Она сушит одежду на улице.",
+      "example_en": "She dries the clothes outside."
     },
     {
       "type_en": "noun",
@@ -560,7 +698,9 @@
       "dutch": "de druif, druiven",
       "russian": "виноградина",
       "english": "grape",
-      "example": ""
+      "example": "De druiven zijn zoet en rood.",
+      "example_ru": "Виноград сладкий и красный.",
+      "example_en": "The grapes are sweet and red."
     },
     {
       "type_en": "adjective",
@@ -568,7 +708,9 @@
       "dutch": "dun",
       "russian": "тонкий",
       "english": "thin",
-      "example": ""
+      "example": "Het papier is heel dun.",
+      "example_ru": "Бумага очень тонкая.",
+      "example_en": "The paper is very thin."
     },
     {
       "type_en": "noun",
@@ -576,7 +718,9 @@
       "dutch": "de dvd, dvd's",
       "russian": "DVD",
       "english": "DVD",
-      "example": ""
+      "example": "De dvd ligt op het bureau.",
+      "example_ru": "DVD лежит на столе.",
+      "example_en": "The DVD is on the desk."
     },
     {
       "type_en": "adjective",
@@ -584,7 +728,9 @@
       "dutch": "eenzaam",
       "russian": "одинокий",
       "english": "lonely",
-      "example": ""
+      "example": "De oude man voelt zich eenzaam.",
+      "example_ru": "Старик чувствует себя одиноко.",
+      "example_en": "The old man feels lonely."
     },
     {
       "type_en": "numeral",
@@ -592,7 +738,9 @@
       "dutch": "eerste",
       "russian": "первый",
       "english": "first",
-      "example": ""
+      "example": "Dit is de eerste dag.",
+      "example_ru": "Это первый день.",
+      "example_en": "This is the first day."
     },
     {
       "type_en": "noun",
@@ -600,7 +748,9 @@
       "dutch": "de eigenaar, eigenaars",
       "russian": "владелец",
       "english": "owner",
-      "example": ""
+      "example": "De eigenaar van het restaurant is aardig.",
+      "example_ru": "Владелец ресторана приятный.",
+      "example_en": "The owner of the restaurant is nice."
     },
     {
       "type_en": "noun",
@@ -608,7 +758,9 @@
       "dutch": "de elektriciteit, —",
       "russian": "электричество",
       "english": "electricity",
-      "example": ""
+      "example": "De elektriciteit valt soms uit.",
+      "example_ru": "Электричество иногда пропадает.",
+      "example_en": "The electricity sometimes goes out."
     },
     {
       "type_en": "verb",
@@ -616,7 +768,9 @@
       "dutch": "eruitzien, eruitgezien",
       "russian": "выглядеть",
       "english": "look like",
-      "example": ""
+      "example": "Dat ziet er heel mooi uit.",
+      "example_ru": "Это выглядит очень красиво.",
+      "example_en": "That looks very nice."
     },
     {
       "type_en": "noun",
@@ -624,7 +778,9 @@
       "dutch": "de euro, euro's",
       "russian": "евро",
       "english": "euro",
-      "example": ""
+      "example": "Het kost vijf euro per stuk.",
+      "example_ru": "Это стоит пять евро за штуку.",
+      "example_en": "It costs five euros each."
     },
     {
       "type_en": "noun",
@@ -632,7 +788,9 @@
       "dutch": "het evenement, evenementen",
       "russian": "мероприятие",
       "english": "event",
-      "example": ""
+      "example": "Het evenement trekt veel bezoekers.",
+      "example_ru": "Мероприятие привлекает много посетителей.",
+      "example_en": "The event attracts many visitors."
     },
     {
       "type_en": "adjective",
@@ -640,7 +798,9 @@
       "dutch": "favoriet",
       "russian": "любимый",
       "english": "favorite",
-      "example": ""
+      "example": "Dat is mijn favoriete gerecht.",
+      "example_ru": "Это моё любимое блюдо.",
+      "example_en": "That is my favorite dish."
     },
     {
       "type_en": "noun",
@@ -648,7 +808,9 @@
       "dutch": "de februari, —",
       "russian": "февраль",
       "english": "February",
-      "example": ""
+      "example": "In februari is het nog koud.",
+      "example_ru": "В феврале ещё холодно.",
+      "example_en": "In February it is still cold."
     },
     {
       "type_en": "noun",
@@ -656,7 +818,9 @@
       "dutch": "de fietser, fietsers",
       "russian": "велосипедист",
       "english": "cyclist",
-      "example": ""
+      "example": "De fietser rijdt over het fietspad.",
+      "example_ru": "Велосипедист едет по велодорожке.",
+      "example_en": "The cyclist rides on the cycle path."
     },
     {
       "type_en": "noun",
@@ -664,7 +828,9 @@
       "dutch": "het fietspad, fietspaden",
       "russian": "велосипедная дорожка",
       "english": "cycle path",
-      "example": ""
+      "example": "Het fietspad loopt langs het kanaal.",
+      "example_ru": "Велодорожка идёт вдоль канала.",
+      "example_en": "The cycle path runs along the canal."
     },
     {
       "type_en": "noun",
@@ -672,7 +838,9 @@
       "dutch": "de file, files",
       "russian": "пробка",
       "english": "traffic jam",
-      "example": ""
+      "example": "Er staat een lange file op de snelweg.",
+      "example_ru": "На автомагистрали большая пробка.",
+      "example_en": "There is a long traffic jam on the motorway."
     },
     {
       "type_en": "noun",
@@ -680,7 +848,9 @@
       "dutch": "de finale, finales",
       "russian": "финал",
       "english": "final",
-      "example": ""
+      "example": "De finale is komende zaterdag.",
+      "example_ru": "Финал в эту субботу.",
+      "example_en": "The final is this Saturday."
     },
     {
       "type_en": "noun",
@@ -688,7 +858,9 @@
       "dutch": "de fles, flessen",
       "russian": "бутылка",
       "english": "bottle",
-      "example": ""
+      "example": "De fles water staat in de koelkast.",
+      "example_ru": "Бутылка воды стоит в холодильнике.",
+      "example_en": "The bottle of water is in the fridge."
     },
     {
       "type_en": "adjective",
@@ -696,7 +868,9 @@
       "dutch": "flexibel",
       "russian": "гибкий",
       "english": "flexible",
-      "example": ""
+      "example": "Zij is erg flexibel met haar werktijden.",
+      "example_ru": "Она очень гибко подходит к рабочему графику.",
+      "example_en": "She is very flexible with her working hours."
     },
     {
       "type_en": "noun",
@@ -704,7 +878,9 @@
       "dutch": "de fotograaf, fotografen",
       "russian": "фотограф",
       "english": "photographer",
-      "example": ""
+      "example": "De fotograaf maakt mooie portretten.",
+      "example_ru": "Фотограф делает красивые портреты.",
+      "example_en": "The photographer takes beautiful portraits."
     },
     {
       "type_en": "noun",
@@ -712,7 +888,9 @@
       "dutch": "de gemeente, gemeenten",
       "russian": "муниципалитет",
       "english": "municipality",
-      "example": ""
+      "example": "De gemeente heeft een nieuw plan.",
+      "example_ru": "У муниципалитета новый план.",
+      "example_en": "The municipality has a new plan."
     },
     {
       "type_en": "adjective",
@@ -720,7 +898,9 @@
       "dutch": "gemiddeld",
       "russian": "средний",
       "english": "average",
-      "example": ""
+      "example": "De gemiddelde temperatuur is tien graden.",
+      "example_ru": "Средняя температура — десять градусов.",
+      "example_en": "The average temperature is ten degrees."
     },
     {
       "type_en": "noun",
@@ -728,7 +908,9 @@
       "dutch": "het gerecht, gerechten",
       "russian": "блюдо",
       "english": "dish",
-      "example": ""
+      "example": "Het gerecht smaakt heerlijk met rijst.",
+      "example_ru": "Блюдо очень вкусное с рисом.",
+      "example_en": "The dish tastes delicious with rice."
     },
     {
       "type_en": "noun",
@@ -736,7 +918,9 @@
       "dutch": "het ijs, —",
       "russian": "лед",
       "english": "ice",
-      "example": ""
+      "example": "Het ijs op de weg is gevaarlijk.",
+      "example_ru": "Лёд на дороге опасен.",
+      "example_en": "The ice on the road is dangerous."
     },
     {
       "type_en": "adjective",
@@ -744,7 +928,9 @@
       "dutch": "gewond",
       "russian": "раненый",
       "english": "injured",
-      "example": ""
+      "example": "De gewonde man wacht op de ambulance.",
+      "example_ru": "Раненый мужчина ждёт скорую.",
+      "example_en": "The injured man waits for the ambulance."
     },
     {
       "type_en": "adjective",
@@ -752,7 +938,9 @@
       "dutch": "glad",
       "russian": "гладкий",
       "english": "smooth",
-      "example": ""
+      "example": "De weg is glad door de regen.",
+      "example_ru": "Дорога скользкая из-за дождя.",
+      "example_en": "The road is slippery from the rain."
     },
     {
       "type_en": "noun",
@@ -760,7 +948,9 @@
       "dutch": "het glas, glazen",
       "russian": "стакан",
       "english": "drinking glass",
-      "example": ""
+      "example": "Het glas staat op de tafel.",
+      "example_ru": "Стакан стоит на столе.",
+      "example_en": "The glass is on the table."
     },
     {
       "type_en": "noun",
@@ -768,7 +958,9 @@
       "dutch": "het gram, grammen",
       "russian": "грамм",
       "english": "gram",
-      "example": ""
+      "example": "Ik heb tweehonderd gram kaas nodig.",
+      "example_ru": "Мне нужно двести граммов сыра.",
+      "example_en": "I need two hundred grams of cheese."
     },
     {
       "type_en": "noun",
@@ -776,7 +968,9 @@
       "dutch": "de grap, grappen",
       "russian": "шутка",
       "english": "joke",
-      "example": ""
+      "example": "De grap was heel grappig.",
+      "example_ru": "Шутка была очень смешной.",
+      "example_en": "The joke was very funny."
     },
     {
       "type_en": "noun",
@@ -784,7 +978,9 @@
       "dutch": "het gras, grassen",
       "russian": "трава",
       "english": "grass",
-      "example": ""
+      "example": "Het gras is nat van de regen.",
+      "example_ru": "Трава мокрая от дождя.",
+      "example_en": "The grass is wet from the rain."
     },
     {
       "type_en": "noun",
@@ -792,7 +988,9 @@
       "dutch": "de griep, —",
       "russian": "грипп",
       "english": "flu",
-      "example": ""
+      "example": "Ik heb de griep en blijf thuis.",
+      "example_ru": "У меня грипп, и я остаюсь дома.",
+      "example_en": "I have the flu and stay home."
     },
     {
       "type_en": "adjective",
@@ -800,7 +998,9 @@
       "dutch": "grijs",
       "russian": "серый",
       "english": "gray",
-      "example": ""
+      "example": "Hij draagt een grijze trui.",
+      "example_ru": "Он носит серый свитер.",
+      "example_en": "He wears a grey sweater."
     },
     {
       "type_en": "noun",
@@ -808,7 +1008,9 @@
       "dutch": "de groet, groeten",
       "russian": "приветствие",
       "english": "greeting",
-      "example": ""
+      "example": "De groet was kort maar vriendelijk.",
+      "example_ru": "Приветствие было коротким, но дружелюбным.",
+      "example_en": "The greeting was short but friendly."
     },
     {
       "type_en": "verb",
@@ -816,7 +1018,9 @@
       "dutch": "groeten, gegroet",
       "russian": "приветствовать",
       "english": "greet",
-      "example": ""
+      "example": "Zij groet de buren elke ochtend.",
+      "example_ru": "Она здоровается с соседями каждое утро.",
+      "example_en": "She greets the neighbours every morning."
     },
     {
       "type_en": "noun",
@@ -824,7 +1028,9 @@
       "dutch": "de grootmoeder, grootmoeders",
       "russian": "бабушка",
       "english": "grandmother",
-      "example": ""
+      "example": "De grootmoeder vertelt graag verhalen.",
+      "example_ru": "Бабушка любит рассказывать истории.",
+      "example_en": "The grandmother likes to tell stories."
     },
     {
       "type_en": "noun",
@@ -832,7 +1038,9 @@
       "dutch": "de grootvader, grootvaders",
       "russian": "дедушка",
       "english": "grandfather",
-      "example": ""
+      "example": "De grootvader werkt nog in de tuin.",
+      "example_ru": "Дедушка ещё работает в саду.",
+      "example_en": "The grandfather still works in the garden."
     },
     {
       "type_en": "noun",
@@ -840,7 +1048,9 @@
       "dutch": "de haast, —",
       "russian": "спешка",
       "english": "haste",
-      "example": ""
+      "example": "Ik heb geen haast vandaag.",
+      "example_ru": "Я сегодня не спешу.",
+      "example_en": "I am in no hurry today."
     },
     {
       "type_en": "adjective",
@@ -848,7 +1058,9 @@
       "dutch": "haastig",
       "russian": "поспешный",
       "english": "hasty",
-      "example": ""
+      "example": "Dat was een haastige beslissing.",
+      "example_ru": "Это было поспешное решение.",
+      "example_en": "That was a hasty decision."
     },
     {
       "type_en": "noun",
@@ -856,7 +1068,9 @@
       "dutch": "de jas, jassen",
       "russian": "пальто",
       "english": "coat",
-      "example": ""
+      "example": "De jas hangt aan de kapstok.",
+      "example_ru": "Пальто висит на вешалке.",
+      "example_en": "The coat hangs on the coat rack."
     },
     {
       "type_en": "verb",
@@ -864,7 +1078,9 @@
       "dutch": "zich haasten, gehaast",
       "russian": "торопиться",
       "english": "hurry",
-      "example": ""
+      "example": "Zij haast zich naar het station.",
+      "example_ru": "Она спешит на вокзал.",
+      "example_en": "She hurries to the station."
     },
     {
       "type_en": "noun",
@@ -872,7 +1088,9 @@
       "dutch": "de handdoek, handdoeken",
       "russian": "полотенце",
       "english": "towel",
-      "example": ""
+      "example": "De handdoek hangt in de badkamer.",
+      "example_ru": "Полотенце висит в ванной.",
+      "example_en": "The towel hangs in the bathroom."
     },
     {
       "type_en": "noun",
@@ -880,7 +1098,9 @@
       "dutch": "de handtekening, handtekeningen",
       "russian": "подпись",
       "english": "signature",
-      "example": ""
+      "example": "Zet je handtekening onderaan het formulier.",
+      "example_ru": "Поставь подпись внизу бланка.",
+      "example_en": "Put your signature at the bottom of the form."
     },
     {
       "type_en": "verb",
@@ -888,7 +1108,9 @@
       "dutch": "hardlopen, hardgelopen",
       "russian": "бегать",
       "english": "go running",
-      "example": ""
+      "example": "Hij loopt hard in het park.",
+      "example_ru": "Он бегает в парке.",
+      "example_en": "He runs in the park."
     },
     {
       "type_en": "noun",
@@ -896,7 +1118,9 @@
       "dutch": "de helm, helmen",
       "russian": "шлем",
       "english": "helmet",
-      "example": ""
+      "example": "De helm ligt op de fiets.",
+      "example_ru": "Шлем лежит на велосипеде.",
+      "example_en": "The helmet is on the bicycle."
     },
     {
       "type_en": "verb",
@@ -904,7 +1128,9 @@
       "dutch": "herkansen, herkanst",
       "russian": "пересдавать",
       "english": "retake",
-      "example": ""
+      "example": "Zij herkanst het examen volgende week.",
+      "example_ru": "Она пересдаёт экзамен на следующей неделе.",
+      "example_en": "She retakes the exam next week."
     },
     {
       "type_en": "noun",
@@ -912,7 +1138,9 @@
       "dutch": "de herkansing, herkansingen",
       "russian": "пересдача",
       "english": "retake",
-      "example": ""
+      "example": "De herkansing is op maandag.",
+      "example_ru": "Пересдача в понедельник.",
+      "example_en": "The retake is on Monday."
     },
     {
       "type_en": "noun",
@@ -920,7 +1148,9 @@
       "dutch": "de hersenen, hersens",
       "russian": "мозг",
       "english": "brain",
-      "example": ""
+      "example": "De hersenen werken de hele dag.",
+      "example_ru": "Мозг работает весь день.",
+      "example_en": "The brain works all day."
     },
     {
       "type_en": "noun",
@@ -928,7 +1158,9 @@
       "dutch": "het weer, —",
       "russian": "погода",
       "english": "weather",
-      "example": ""
+      "example": "Het weer is vandaag warm en zonnig.",
+      "example_ru": "Погода сегодня тёплая и солнечная.",
+      "example_en": "The weather is warm and sunny today."
     },
     {
       "type_en": "noun",
@@ -936,7 +1168,9 @@
       "dutch": "de hoed, hoeden",
       "russian": "шляпа",
       "english": "hat",
-      "example": ""
+      "example": "De hoed beschermt tegen de zon.",
+      "example_ru": "Шляпа защищает от солнца.",
+      "example_en": "The hat protects against the sun."
     },
     {
       "type_en": "noun",
@@ -944,7 +1178,9 @@
       "dutch": "het hok, hokken",
       "russian": "загон",
       "english": "animal pen",
-      "example": ""
+      "example": "Het hok van het konijn is schoon.",
+      "example_ru": "Клетка кролика чистая.",
+      "example_en": "The rabbit pen is clean."
     },
     {
       "type_en": "noun",
@@ -952,7 +1188,9 @@
       "dutch": "het hokje, hokjes",
       "russian": "кабинка",
       "english": "cubicle",
-      "example": ""
+      "example": "Het hokje is bezet op dit moment.",
+      "example_ru": "Кабинка сейчас занята.",
+      "example_en": "The cubicle is occupied at the moment."
     },
     {
       "type_en": "noun",
@@ -960,7 +1198,9 @@
       "dutch": "de honger, —",
       "russian": "голод",
       "english": "hunger",
-      "example": ""
+      "example": "Ik heb honger na het sporten.",
+      "example_ru": "Я голоден после тренировки.",
+      "example_en": "I am hungry after exercising."
     },
     {
       "type_en": "noun",
@@ -968,7 +1208,9 @@
       "dutch": "de horeca, —",
       "russian": "сфера гостеприимства и питания",
       "english": "hospitality industry",
-      "example": ""
+      "example": "De horeca zoekt veel personeel.",
+      "example_ru": "Сфера общепита ищет много персонала.",
+      "example_en": "The hospitality industry is looking for staff."
     },
     {
       "type_en": "noun",
@@ -976,7 +1218,9 @@
       "dutch": "het hout, —",
       "russian": "дерево",
       "english": "wood",
-      "example": ""
+      "example": "Het hout is nog nat van de regen.",
+      "example_ru": "Дерево ещё мокрое от дождя.",
+      "example_en": "The wood is still wet from the rain."
     },
     {
       "type_en": "noun",
@@ -984,7 +1228,9 @@
       "dutch": "de huid, huiden",
       "russian": "кожа",
       "english": "skin",
-      "example": ""
+      "example": "De huid is droog in de winter.",
+      "example_ru": "Кожа сухая зимой.",
+      "example_en": "The skin is dry in winter."
     },
     {
       "type_en": "verb",
@@ -992,7 +1238,9 @@
       "dutch": "huilen, gehuild",
       "russian": "плакать",
       "english": "cry",
-      "example": ""
+      "example": "Het kind huilt omdat het gevallen is.",
+      "example_ru": "Ребёнок плачет, потому что упал.",
+      "example_en": "The child cries because it fell."
     },
     {
       "type_en": "verb",
@@ -1000,7 +1248,9 @@
       "dutch": "inleveren, ingeleverd",
       "russian": "сдавать",
       "english": "hand in",
-      "example": ""
+      "example": "Wij leveren de opdracht morgen in.",
+      "example_ru": "Мы сдаём задание завтра.",
+      "example_en": "We hand in the assignment tomorrow."
     },
     {
       "type_en": "verb",
@@ -1008,7 +1258,9 @@
       "dutch": "inloggen, ingelogd",
       "russian": "войти в систему",
       "english": "log in",
-      "example": ""
+      "example": "Ik log in op mijn account.",
+      "example_ru": "Я вхожу в свой аккаунт.",
+      "example_en": "I log in to my account."
     },
     {
       "type_en": "verb",
@@ -1016,7 +1268,9 @@
       "dutch": "inpakken, ingepakt",
       "russian": "упаковывать",
       "english": "pack",
-      "example": ""
+      "example": "Zij pakt haar koffer in voor de reis.",
+      "example_ru": "Она собирает чемодан в дорогу.",
+      "example_en": "She packs her suitcase for the trip."
     },
     {
       "type_en": "verb",
@@ -1024,7 +1278,9 @@
       "dutch": "inschrijven, ingeschreven",
       "russian": "зарегистрироваться",
       "english": "register",
-      "example": ""
+      "example": "Hij schrijft zich in voor de cursus.",
+      "example_ru": "Он записывается на курс.",
+      "example_en": "He registers for the course."
     },
     {
       "type_en": "noun",
@@ -1032,7 +1288,9 @@
       "dutch": "het insect, insecten",
       "russian": "насекомое",
       "english": "insect",
-      "example": ""
+      "example": "Er zit een insect op het raam.",
+      "example_ru": "На окне сидит насекомое.",
+      "example_en": "There is an insect on the window."
     },
     {
       "type_en": "noun",
@@ -1040,7 +1298,9 @@
       "dutch": "de instructeur, instructeurs",
       "russian": "инструктор",
       "english": "instructor",
-      "example": ""
+      "example": "De instructeur legt de oefening goed uit.",
+      "example_ru": "Инструктор хорошо объясняет упражнение.",
+      "example_en": "The instructor explains the exercise well."
     },
     {
       "type_en": "noun",
@@ -1048,7 +1308,9 @@
       "dutch": "de instructie, instructies",
       "russian": "инструкция",
       "english": "instruction",
-      "example": ""
+      "example": "De instructie staat op het bord.",
+      "example_ru": "Инструкция написана на доске.",
+      "example_en": "The instruction is on the board."
     },
     {
       "type_en": "adjective",
@@ -1056,7 +1318,9 @@
       "dutch": "internationaal",
       "russian": "международный",
       "english": "international",
-      "example": ""
+      "example": "Het is een internationaal bedrijf.",
+      "example_ru": "Это международная компания.",
+      "example_en": "It is an international company."
     },
     {
       "type_en": "noun",
@@ -1064,7 +1328,9 @@
       "dutch": "de inwoner, inwoners",
       "russian": "житель",
       "english": "inhabitant",
-      "example": ""
+      "example": "De inwoner van dit huis is vriendelijk.",
+      "example_ru": "Жилец этого дома приветливый.",
+      "example_en": "The inhabitant of this house is friendly."
     },
     {
       "type_en": "verb",
@@ -1072,7 +1338,9 @@
       "dutch": "inzamelen, ingezameld",
       "russian": "собирать",
       "english": "collect",
-      "example": ""
+      "example": "Wij zamelen kleren in voor het goede doel.",
+      "example_ru": "Мы собираем одежду на благотворительность.",
+      "example_en": "We collect clothes for charity."
     },
     {
       "type_en": "adverb",
@@ -1080,7 +1348,9 @@
       "dutch": "jaarlijks",
       "russian": "ежегодно",
       "english": "annually",
-      "example": ""
+      "example": "Het festival vindt jaarlijks plaats.",
+      "example_ru": "Фестиваль проходит ежегодно.",
+      "example_en": "The festival takes place annually."
     },
     {
       "type_en": "noun",
@@ -1088,7 +1358,9 @@
       "dutch": "de januari, —",
       "russian": "январь",
       "english": "January",
-      "example": ""
+      "example": "In januari begint het nieuwe schooljaar.",
+      "example_ru": "В январе начинается новый учебный год.",
+      "example_en": "In January the new school year starts."
     },
     {
       "type_en": "noun",
@@ -1096,7 +1368,9 @@
       "dutch": "de jongere, jongeren",
       "russian": "молодой человек",
       "english": "young person",
-      "example": ""
+      "example": "De jongeren zitten in het buurthuis.",
+      "example_ru": "Молодёжь сидит в общественном центре.",
+      "example_en": "The young people are in the community centre."
     },
     {
       "type_en": "noun",
@@ -1104,7 +1378,9 @@
       "dutch": "de juli, —",
       "russian": "июль",
       "english": "July",
-      "example": ""
+      "example": "In juli is het vaak heel warm.",
+      "example_ru": "В июле часто очень жарко.",
+      "example_en": "In July it is often very warm."
     },
     {
       "type_en": "noun",
@@ -1112,7 +1388,9 @@
       "dutch": "de juni, —",
       "russian": "июнь",
       "english": "June",
-      "example": ""
+      "example": "In juni eindigt het schooljaar.",
+      "example_ru": "В июне заканчивается учебный год.",
+      "example_en": "In June the school year ends."
     },
     {
       "type_en": "noun",
@@ -1120,7 +1398,9 @@
       "dutch": "de jurk, jurken",
       "russian": "платье",
       "english": "dress",
-      "example": ""
+      "example": "Zij draagt een rode jurk naar het feest.",
+      "example_ru": "Она надевает красное платье на праздник.",
+      "example_en": "She wears a red dress to the party."
     },
     {
       "type_en": "noun",
@@ -1128,7 +1408,9 @@
       "dutch": "de kaart, kaarten",
       "russian": "карточка",
       "english": "card",
-      "example": ""
+      "example": "De kaart is voor haar verjaardag.",
+      "example_ru": "Открытка на её день рождения.",
+      "example_en": "The card is for her birthday."
     },
     {
       "type_en": "noun",
@@ -1136,7 +1418,9 @@
       "dutch": "het kaartje, kaartjes",
       "russian": "билет",
       "english": "ticket",
-      "example": ""
+      "example": "Ik koop een kaartje voor de trein.",
+      "example_ru": "Я покупаю билет на поезд.",
+      "example_en": "I buy a ticket for the train."
     },
     {
       "type_en": "noun",
@@ -1144,7 +1428,9 @@
       "dutch": "de kampioen, kampioenen",
       "russian": "чемпион",
       "english": "champion",
-      "example": ""
+      "example": "De kampioen krijgt een gouden medaille.",
+      "example_ru": "Чемпион получает золотую медаль.",
+      "example_en": "The champion receives a gold medal."
     },
     {
       "type_en": "noun",
@@ -1152,7 +1438,9 @@
       "dutch": "de kast, kasten",
       "russian": "шкаф",
       "english": "cupboard",
-      "example": ""
+      "example": "De kast staat in de slaapkamer.",
+      "example_ru": "Шкаф стоит в спальне.",
+      "example_en": "The cupboard is in the bedroom."
     },
     {
       "type_en": "noun",
@@ -1160,7 +1448,9 @@
       "dutch": "de keel, kelen",
       "russian": "горло",
       "english": "throat",
-      "example": ""
+      "example": "Mijn keel doet pijn als ik slik.",
+      "example_ru": "Горло болит, когда я глотаю.",
+      "example_en": "My throat hurts when I swallow."
     },
     {
       "type_en": "noun",
@@ -1168,7 +1458,9 @@
       "dutch": "de keuken, keukens",
       "russian": "кухня",
       "english": "kitchen",
-      "example": ""
+      "example": "De keuken is groot en licht.",
+      "example_ru": "Кухня большая и светлая.",
+      "example_en": "The kitchen is big and bright."
     },
     {
       "type_en": "noun",
@@ -1176,7 +1468,9 @@
       "dutch": "het kinderdagverblijf, kinderdagverblijven",
       "russian": "детский сад",
       "english": "daycare center",
-      "example": ""
+      "example": "Het kinderdagverblijf opent om half acht.",
+      "example_ru": "Детский сад открывается в полвосьмого.",
+      "example_en": "The daycare opens at half past seven."
     },
     {
       "type_en": "noun",
@@ -1184,7 +1478,9 @@
       "dutch": "de klacht, klachten",
       "russian": "жалоба",
       "english": "complaint",
-      "example": ""
+      "example": "De klacht gaat over het lawaai.",
+      "example_ru": "Жалоба касается шума.",
+      "example_en": "The complaint is about the noise."
     },
     {
       "type_en": "noun",
@@ -1192,7 +1488,9 @@
       "dutch": "de klok, klokken",
       "russian": "часы",
       "english": "clock",
-      "example": ""
+      "example": "De klok hangt aan de muur.",
+      "example_ru": "Часы висят на стене.",
+      "example_en": "The clock hangs on the wall."
     },
     {
       "type_en": "noun",
@@ -1200,7 +1498,9 @@
       "dutch": "de klus, klussen",
       "russian": "дело",
       "english": "job",
-      "example": ""
+      "example": "De klus duurt ongeveer twee uur.",
+      "example_ru": "Работа длится около двух часов.",
+      "example_en": "The job takes about two hours."
     },
     {
       "type_en": "verb",
@@ -1208,7 +1508,9 @@
       "dutch": "klussen, geklust",
       "russian": "заниматься мелким ремонтом",
       "english": "do odd jobs",
-      "example": ""
+      "example": "Hij klust graag in het weekend.",
+      "example_ru": "Он любит мастерить в выходные.",
+      "example_en": "He likes doing odd jobs on the weekend."
     },
     {
       "type_en": "noun",
@@ -1216,7 +1518,9 @@
       "dutch": "de knie, knieën",
       "russian": "колено",
       "english": "knee",
-      "example": ""
+      "example": "Mijn knie doet pijn na het hardlopen.",
+      "example_ru": "Колено болит после бега.",
+      "example_en": "My knee hurts after running."
     },
     {
       "type_en": "verb",
@@ -1224,7 +1528,9 @@
       "dutch": "knippen, geknipt",
       "russian": "стричь",
       "english": "cut",
-      "example": ""
+      "example": "De kapper knipt mijn haar kort.",
+      "example_ru": "Парикмахер стрижёт мне волосы коротко.",
+      "example_en": "The barber cuts my hair short."
     },
     {
       "type_en": "noun",
@@ -1232,7 +1538,9 @@
       "dutch": "de knoop, knopen",
       "russian": "узел",
       "english": "knot",
-      "example": ""
+      "example": "De knoop zit te strak vast.",
+      "example_ru": "Узел завязан слишком туго.",
+      "example_en": "The knot is tied too tight."
     },
     {
       "type_en": "noun",
@@ -1240,7 +1548,9 @@
       "dutch": "de knop, knoppen",
       "russian": "кнопка",
       "english": "button",
-      "example": ""
+      "example": "Druk op de groene knop.",
+      "example_ru": "Нажми на зелёную кнопку.",
+      "example_en": "Press the green button."
     },
     {
       "type_en": "noun",
@@ -1248,7 +1558,9 @@
       "dutch": "de koe, koeien",
       "russian": "корова",
       "english": "cow",
-      "example": ""
+      "example": "De koe staat in de wei.",
+      "example_ru": "Корова стоит на лугу.",
+      "example_en": "The cow stands in the meadow."
     },
     {
       "type_en": "noun",
@@ -1256,7 +1568,9 @@
       "dutch": "de koffer, koffers",
       "russian": "чемодан",
       "english": "suitcase",
-      "example": ""
+      "example": "De koffer is te zwaar voor mij.",
+      "example_ru": "Чемодан слишком тяжёлый для меня.",
+      "example_en": "The suitcase is too heavy for me."
     },
     {
       "type_en": "noun",
@@ -1264,7 +1578,9 @@
       "dutch": "de koffie, koffies",
       "russian": "кофе",
       "english": "coffee",
-      "example": ""
+      "example": "De koffie is lekker en warm.",
+      "example_ru": "Кофе вкусный и горячий.",
+      "example_en": "The coffee is tasty and warm."
     },
     {
       "type_en": "noun",
@@ -1272,7 +1588,9 @@
       "dutch": "de kok, koks",
       "russian": "повар",
       "english": "cook",
-      "example": ""
+      "example": "De kok maakt de soep in de keuken.",
+      "example_ru": "Повар готовит суп на кухне.",
+      "example_en": "The cook makes the soup in the kitchen."
     },
     {
       "type_en": "noun",
@@ -1280,7 +1598,9 @@
       "dutch": "de kraan, kranen",
       "russian": "кран",
       "english": "faucet",
-      "example": ""
+      "example": "De kraan in de badkamer lekt.",
+      "example_ru": "Кран в ванной течёт.",
+      "example_en": "The faucet in the bathroom leaks."
     },
     {
       "type_en": "noun",
@@ -1288,7 +1608,9 @@
       "dutch": "het kruispunt, kruispunten",
       "russian": "перекрёсток",
       "english": "intersection",
-      "example": ""
+      "example": "Stop bij het kruispunt en kijk goed.",
+      "example_ru": "Остановись на перекрёстке и посмотри внимательно.",
+      "example_en": "Stop at the intersection and look carefully."
     },
     {
       "type_en": "noun",
@@ -1296,7 +1618,9 @@
       "dutch": "de lamp, lampen",
       "russian": "лампа",
       "english": "lamp",
-      "example": ""
+      "example": "De lamp in de woonkamer is kapot.",
+      "example_ru": "Лампа в гостиной сломалась.",
+      "example_en": "The lamp in the living room is broken."
     },
     {
       "type_en": "verb",
@@ -1304,7 +1628,9 @@
       "dutch": "langskomen, langsgekomen",
       "russian": "зайти",
       "english": "come by",
-      "example": ""
+      "example": "Zij komt morgen even langs.",
+      "example_ru": "Она завтра зайдёт.",
+      "example_en": "She comes by tomorrow."
     },
     {
       "type_en": "noun",
@@ -1312,7 +1638,9 @@
       "dutch": "de laptop, laptops",
       "russian": "ноутбук",
       "english": "laptop",
-      "example": ""
+      "example": "De laptop staat op het bureau.",
+      "example_ru": "Ноутбук стоит на столе.",
+      "example_en": "The laptop is on the desk."
     },
     {
       "type_en": "adverb",
@@ -1320,7 +1648,9 @@
       "dutch": "later",
       "russian": "позже",
       "english": "later",
-      "example": ""
+      "example": "Ik bel je later terug.",
+      "example_ru": "Я перезвоню тебе позже.",
+      "example_en": "I will call you back later."
     },
     {
       "type_en": "noun",
@@ -1328,7 +1658,9 @@
       "dutch": "de leider, leiders",
       "russian": "руководитель",
       "english": "leader",
-      "example": ""
+      "example": "De leider spreekt voor de groep.",
+      "example_ru": "Руководитель выступает перед группой.",
+      "example_en": "The leader speaks to the group."
     },
     {
       "type_en": "noun",
@@ -1336,7 +1668,9 @@
       "dutch": "de leidinggevende, leidinggevenden",
       "russian": "руководитель",
       "english": "manager",
-      "example": ""
+      "example": "De leidinggevende beslist over het rooster.",
+      "example_ru": "Руководитель решает по поводу расписания.",
+      "example_en": "The manager decides on the schedule."
     },
     {
       "type_en": "noun",
@@ -1344,7 +1678,9 @@
       "dutch": "de lepel, lepels",
       "russian": "ложка",
       "english": "spoon",
-      "example": ""
+      "example": "De lepel ligt naast het bord.",
+      "example_ru": "Ложка лежит рядом с тарелкой.",
+      "example_en": "The spoon is next to the plate."
     },
     {
       "type_en": "verb",
@@ -1352,7 +1688,9 @@
       "dutch": "liegen, gelogen",
       "russian": "лгать",
       "english": "lie",
-      "example": ""
+      "example": "Je mag niet liegen tegen de rechter.",
+      "example_ru": "Нельзя лгать судье.",
+      "example_en": "You must not lie to the judge."
     },
     {
       "type_en": "noun",
@@ -1360,7 +1698,9 @@
       "dutch": "de lift, liften",
       "russian": "лифт",
       "english": "elevator",
-      "example": ""
+      "example": "De lift gaat naar de vijfde verdieping.",
+      "example_ru": "Лифт едет на пятый этаж.",
+      "example_en": "The elevator goes to the fifth floor."
     },
     {
       "type_en": "noun",
@@ -1368,7 +1708,9 @@
       "dutch": "de lip, lippen",
       "russian": "губа",
       "english": "lip",
-      "example": ""
+      "example": "Haar lippen zijn rood van de kou.",
+      "example_ru": "Её губы красные от холода.",
+      "example_en": "Her lips are red from the cold."
     },
     {
       "type_en": "noun",
@@ -1376,7 +1718,9 @@
       "dutch": "de liter, liters",
       "russian": "литр",
       "english": "liter",
-      "example": ""
+      "example": "Ik drink een halve liter melk.",
+      "example_ru": "Я пью полтора литра молока.",
+      "example_en": "I drink half a liter of milk."
     },
     {
       "type_en": "noun",
@@ -1384,7 +1728,9 @@
       "dutch": "de locatie, locaties",
       "russian": "место",
       "english": "location",
-      "example": ""
+      "example": "De locatie van het feest is geheim.",
+      "example_ru": "Место проведения праздника — секрет.",
+      "example_en": "The location of the party is a secret."
     },
     {
       "type_en": "noun",
@@ -1392,7 +1738,9 @@
       "dutch": "het lokaal, lokalen",
       "russian": "аудитория",
       "english": "classroom",
-      "example": ""
+      "example": "Het lokaal is op de tweede verdieping.",
+      "example_ru": "Аудитория на втором этаже.",
+      "example_en": "The classroom is on the second floor."
     },
     {
       "type_en": "noun",
@@ -1400,7 +1748,9 @@
       "dutch": "de lunch, lunchen",
       "russian": "обед",
       "english": "lunch",
-      "example": ""
+      "example": "De lunch is om twaalf uur.",
+      "example_ru": "Обед в двенадцать часов.",
+      "example_en": "Lunch is at twelve o'clock."
     },
     {
       "type_en": "noun",
@@ -1408,7 +1758,9 @@
       "dutch": "de maaltijd, maaltijden",
       "russian": "приём пищи",
       "english": "meal",
-      "example": ""
+      "example": "De maaltijd was eenvoudig maar lekker.",
+      "example_ru": "Еда была простой, но вкусной.",
+      "example_en": "The meal was simple but tasty."
     },
     {
       "type_en": "noun",
@@ -1416,7 +1768,9 @@
       "dutch": "de maart, —",
       "russian": "март",
       "english": "March",
-      "example": ""
+      "example": "In maart begint de lente.",
+      "example_ru": "В марте начинается весна.",
+      "example_en": "In March spring begins."
     },
     {
       "type_en": "noun",
@@ -1424,7 +1778,9 @@
       "dutch": "het magazijn, magazijnen",
       "russian": "склад",
       "english": "warehouse",
-      "example": ""
+      "example": "Het magazijn is achter het kantoor.",
+      "example_ru": "Склад за офисом.",
+      "example_en": "The warehouse is behind the office."
     },
     {
       "type_en": "verb",
@@ -1432,7 +1788,9 @@
       "dutch": "mailen, gemaild",
       "russian": "отправлять электронные письма",
       "english": "email",
-      "example": ""
+      "example": "Ik mail het document vanavond naar je.",
+      "example_ru": "Я отправлю тебе документ вечером.",
+      "example_en": "I will email the document to you tonight."
     },
     {
       "type_en": "noun",
@@ -1440,7 +1798,9 @@
       "dutch": "de manager, managers",
       "russian": "менеджер",
       "english": "manager",
-      "example": ""
+      "example": "De manager heeft een vergadering om twee uur.",
+      "example_ru": "У менеджера совещание в два часа.",
+      "example_en": "The manager has a meeting at two o'clock."
     },
     {
       "type_en": "adjective",
@@ -1448,7 +1808,9 @@
       "dutch": "maximaal",
       "russian": "максимальный",
       "english": "maximum",
-      "example": ""
+      "example": "Het maximale aantal deelnemers is twintig.",
+      "example_ru": "Максимальное количество участников — двадцать.",
+      "example_en": "The maximum number of participants is twenty."
     },
     {
       "type_en": "noun",
@@ -1456,7 +1818,9 @@
       "dutch": "de medewerker, medewerkers",
       "russian": "сотрудник",
       "english": "employee",
-      "example": ""
+      "example": "De medewerker helpt de klant bij de balie.",
+      "example_ru": "Сотрудник помогает клиенту у стойки.",
+      "example_en": "The employee helps the customer at the desk."
     },
     {
       "type_en": "verb",
@@ -1464,7 +1828,9 @@
       "dutch": "meegaan, meegegaan",
       "russian": "пойти с",
       "english": "go along",
-      "example": ""
+      "example": "Ga je mee naar het feest?",
+      "example_ru": "Пойдёшь с нами на праздник?",
+      "example_en": "Are you coming along to the party?"
     },
     {
       "type_en": "noun",
@@ -1472,7 +1838,9 @@
       "dutch": "de mei, —",
       "russian": "май",
       "english": "May",
-      "example": ""
+      "example": "In mei bloeien de bloemen overal.",
+      "example_ru": "В мае повсюду цветут цветы.",
+      "example_en": "In May flowers bloom everywhere."
     },
     {
       "type_en": "noun",
@@ -1480,7 +1848,9 @@
       "dutch": "de meneer, meneren",
       "russian": "господин",
       "english": "sir",
-      "example": ""
+      "example": "De meneer wacht al een half uur.",
+      "example_ru": "Господин ждёт уже полчаса.",
+      "example_en": "The gentleman has been waiting for half an hour."
     },
     {
       "type_en": "noun",
@@ -1488,7 +1858,9 @@
       "dutch": "het mes, messen",
       "russian": "нож",
       "english": "knife",
-      "example": ""
+      "example": "Het mes is heel scherp.",
+      "example_ru": "Нож очень острый.",
+      "example_en": "The knife is very sharp."
     },
     {
       "type_en": "adjective",
@@ -1496,7 +1868,9 @@
       "dutch": "metalen",
       "russian": "металлический",
       "english": "metal",
-      "example": ""
+      "example": "De metalen deur is erg zwaar.",
+      "example_ru": "Металлическая дверь очень тяжёлая.",
+      "example_en": "The metal door is very heavy."
     },
     {
       "type_en": "noun",
@@ -1504,7 +1878,9 @@
       "dutch": "het meubel, meubels",
       "russian": "предмет мебели",
       "english": "piece of furniture",
-      "example": ""
+      "example": "Het meubel past niet door de deur.",
+      "example_ru": "Мебель не проходит в дверь.",
+      "example_en": "The furniture does not fit through the door."
     },
     {
       "type_en": "noun",
@@ -1512,7 +1888,9 @@
       "dutch": "de mevrouw, mevrouwen",
       "russian": "госпожа",
       "english": "madam",
-      "example": ""
+      "example": "De mevrouw zit in de wachtkamer.",
+      "example_ru": "Госпожа сидит в приёмной.",
+      "example_en": "The lady is sitting in the waiting room."
     },
     {
       "type_en": "noun",
@@ -1520,7 +1898,9 @@
       "dutch": "de middag, middagen",
       "russian": "после полудня",
       "english": "afternoon",
-      "example": ""
+      "example": "De middag breng ik door in het park.",
+      "example_ru": "Я провожу день в парке.",
+      "example_en": "I spend the afternoon in the park."
     },
     {
       "type_en": "noun",
@@ -1528,7 +1908,9 @@
       "dutch": "de monteur, monteurs",
       "russian": "механик",
       "english": "mechanic",
-      "example": ""
+      "example": "De monteur repareert de wasmachine vandaag.",
+      "example_ru": "Механик чинит стиральную машину сегодня.",
+      "example_en": "The mechanic repairs the washing machine today."
     },
     {
       "type_en": "adverb",
@@ -1536,7 +1918,9 @@
       "dutch": "morgen",
       "russian": "завтра",
       "english": "tomorrow",
-      "example": ""
+      "example": "Morgen ga ik naar de tandarts.",
+      "example_ru": "Завтра я иду к стоматологу.",
+      "example_en": "Tomorrow I go to the dentist."
     },
     {
       "type_en": "noun",
@@ -1544,7 +1928,9 @@
       "dutch": "de mouw, mouwen",
       "russian": "рукав",
       "english": "sleeve",
-      "example": ""
+      "example": "De mouw van mijn jas is gescheurd.",
+      "example_ru": "Рукав моего пальто порван.",
+      "example_en": "The sleeve of my coat is torn."
     },
     {
       "type_en": "adverb",
@@ -1552,7 +1938,9 @@
       "dutch": "naartoe",
       "russian": "туда",
       "english": "towards",
-      "example": ""
+      "example": "Waar gaan we naartoe vanavond?",
+      "example_ru": "Куда мы идём сегодня вечером?",
+      "example_en": "Where are we going tonight?"
     },
     {
       "type_en": "verb",
@@ -1560,7 +1948,9 @@
       "dutch": "nakijken, nagekeken",
       "russian": "проверять",
       "english": "check",
-      "example": ""
+      "example": "De docent kijkt de toetsen morgen na.",
+      "example_ru": "Преподаватель проверит тесты завтра.",
+      "example_en": "The teacher checks the tests tomorrow."
     },
     {
       "type_en": "adjective",
@@ -1568,7 +1958,9 @@
       "dutch": "nat",
       "russian": "мокрый",
       "english": "wet",
-      "example": ""
+      "example": "De vloer is nat en glad.",
+      "example_ru": "Пол мокрый и скользкий.",
+      "example_en": "The floor is wet and slippery."
     },
     {
       "type_en": "noun",
@@ -1576,7 +1968,9 @@
       "dutch": "de nek, nekken",
       "russian": "шея",
       "english": "neck",
-      "example": ""
+      "example": "Mijn nek doet pijn na het slapen.",
+      "example_ru": "Шея болит после сна.",
+      "example_en": "My neck hurts after sleeping."
     },
     {
       "type_en": "adjective",
@@ -1584,7 +1978,9 @@
       "dutch": "nerveus",
       "russian": "нервный",
       "english": "nervous",
-      "example": ""
+      "example": "Zij is nerveus voor het examen.",
+      "example_ru": "Она нервничает перед экзаменом.",
+      "example_en": "She is nervous about the exam."
     },
     {
       "type_en": "adverb",
@@ -1592,7 +1988,9 @@
       "dutch": "net",
       "russian": "только что",
       "english": "just",
-      "example": ""
+      "example": "Ik heb het net gehoord.",
+      "example_ru": "Я только что это услышал.",
+      "example_en": "I just heard it."
     },
     {
       "type_en": "adjective",
@@ -1600,7 +1998,9 @@
       "dutch": "netjes",
       "russian": "аккуратный",
       "english": "neat",
-      "example": ""
+      "example": "Zijn kamer is altijd netjes opgeruimd.",
+      "example_ru": "Его комната всегда аккуратно убрана.",
+      "example_en": "His room is always neatly tidied."
     },
     {
       "type_en": "noun",
@@ -1608,7 +2008,9 @@
       "dutch": "het netwerk, netwerken",
       "russian": "сеть",
       "english": "network",
-      "example": ""
+      "example": "Het netwerk werkt vandaag niet goed.",
+      "example_ru": "Сеть сегодня плохо работает.",
+      "example_en": "The network is not working well today."
     },
     {
       "type_en": "noun",
@@ -1616,7 +2018,9 @@
       "dutch": "de november, —",
       "russian": "ноябрь",
       "english": "November",
-      "example": ""
+      "example": "In november valt het eerste blad.",
+      "example_ru": "В ноябре опадает первый лист.",
+      "example_en": "In November the first leaves fall."
     },
     {
       "type_en": "noun",
@@ -1624,7 +2028,9 @@
       "dutch": "de oktober, —",
       "russian": "октябрь",
       "english": "October",
-      "example": ""
+      "example": "Oktober is een mooie herfstmaand.",
+      "example_ru": "Октябрь — красивый осенний месяц.",
+      "example_en": "October is a beautiful autumn month."
     },
     {
       "type_en": "adverb",
@@ -1632,7 +2038,9 @@
       "dutch": "omhoog",
       "russian": "вверх",
       "english": "upwards",
-      "example": ""
+      "example": "De bal gaat omhoog.",
+      "example_ru": "Мяч летит вверх.",
+      "example_en": "The ball goes up."
     },
     {
       "type_en": "adverb",
@@ -1640,7 +2048,9 @@
       "dutch": "omlaag",
       "russian": "вниз",
       "english": "downwards",
-      "example": ""
+      "example": "De temperatuur gaat omlaag.",
+      "example_ru": "Температура падает.",
+      "example_en": "The temperature goes down."
     },
     {
       "type_en": "noun",
@@ -1648,7 +2058,9 @@
       "dutch": "de ondernemer, ondernemers",
       "russian": "предприниматель",
       "english": "entrepreneur",
-      "example": ""
+      "example": "De ondernemer start een nieuw bedrijf.",
+      "example_ru": "Предприниматель открывает новую компанию.",
+      "example_en": "The entrepreneur starts a new business."
     },
     {
       "type_en": "adverb",
@@ -1656,7 +2068,9 @@
       "dutch": "online",
       "russian": "в сети",
       "english": "online",
-      "example": ""
+      "example": "Ik bestel het boek online.",
+      "example_ru": "Я заказываю книгу онлайн.",
+      "example_en": "I order the book online."
     },
     {
       "type_en": "noun",
@@ -1664,7 +2078,9 @@
       "dutch": "het ontbijt, ontbijten",
       "russian": "завтрак",
       "english": "breakfast",
-      "example": ""
+      "example": "Het ontbijt staat klaar op de tafel.",
+      "example_ru": "Завтрак готов на столе.",
+      "example_en": "Breakfast is ready on the table."
     },
     {
       "type_en": "verb",
@@ -1672,7 +2088,9 @@
       "dutch": "ontspannen, ontspannen",
       "russian": "расслабляться",
       "english": "relax",
-      "example": ""
+      "example": "Wij ontspannen graag in het weekend.",
+      "example_ru": "Мы любим отдыхать в выходные.",
+      "example_en": "We like to relax on the weekend."
     },
     {
       "type_en": "noun",
@@ -1680,7 +2098,9 @@
       "dutch": "het ontwerp, ontwerpen",
       "russian": "дизайн",
       "english": "design",
-      "example": ""
+      "example": "Het ontwerp ziet er modern uit.",
+      "example_ru": "Дизайн выглядит современно.",
+      "example_en": "The design looks modern."
     },
     {
       "type_en": "noun",
@@ -1688,7 +2108,9 @@
       "dutch": "de oom, ooms",
       "russian": "дядя",
       "english": "uncle",
-      "example": ""
+      "example": "De oom woont in Utrecht.",
+      "example_ru": "Дядя живёт в Утрехте.",
+      "example_en": "The uncle lives in Utrecht."
     },
     {
       "type_en": "verb",
@@ -1696,7 +2118,9 @@
       "dutch": "opbellen, opgebeld",
       "russian": "позвонить",
       "english": "call",
-      "example": ""
+      "example": "Zij belt haar moeder vanavond op.",
+      "example_ru": "Она звонит маме сегодня вечером.",
+      "example_en": "She calls her mother tonight."
     },
     {
       "type_en": "adjective",
@@ -1704,7 +2128,9 @@
       "dutch": "openbaar",
       "russian": "общественный",
       "english": "public",
-      "example": ""
+      "example": "Het openbaar vervoer is hier goed.",
+      "example_ru": "Общественный транспорт здесь хороший.",
+      "example_en": "Public transport is good here."
     },
     {
       "type_en": "noun",
@@ -1712,7 +2138,9 @@
       "dutch": "het openbaar vervoer, —",
       "russian": "общественный транспорт",
       "english": "public transport",
-      "example": ""
+      "example": "Het openbaar vervoer rijdt tot middernacht.",
+      "example_ru": "Общественный транспорт ходит до полуночи.",
+      "example_en": "Public transport runs until midnight."
     },
     {
       "type_en": "verb",
@@ -1720,7 +2148,9 @@
       "dutch": "opschrijven, opgeschreven",
       "russian": "записать",
       "english": "write down",
-      "example": ""
+      "example": "Ik schrijf de woorden op in mijn schrift.",
+      "example_ru": "Я записываю слова в тетрадь.",
+      "example_en": "I write the words down in my notebook."
     },
     {
       "type_en": "verb",
@@ -1728,7 +2158,9 @@
       "dutch": "opsturen, opgestuurd",
       "russian": "отправить",
       "english": "send",
-      "example": ""
+      "example": "Wij sturen het pakket vandaag op.",
+      "example_ru": "Мы отправляем посылку сегодня.",
+      "example_en": "We send the package today."
     },
     {
       "type_en": "noun",
@@ -1736,7 +2168,9 @@
       "dutch": "de oudere, ouderen",
       "russian": "пожилой человек",
       "english": "elderly person",
-      "example": ""
+      "example": "De oudere leest de krant in het park.",
+      "example_ru": "Пожилой человек читает газету в парке.",
+      "example_en": "The elderly person reads the newspaper in the park."
     },
     {
       "type_en": "noun",
@@ -1744,7 +2178,9 @@
       "dutch": "het overhemd, overhemden",
       "russian": "рубашка",
       "english": "shirt",
-      "example": ""
+      "example": "Het overhemd is pas gestreken.",
+      "example_ru": "Рубашка только что выглажена.",
+      "example_en": "The shirt has just been ironed."
     },
     {
       "type_en": "noun",
@@ -1752,7 +2188,9 @@
       "dutch": "het overzicht, overzichten",
       "russian": "обзор",
       "english": "overview",
-      "example": ""
+      "example": "Het overzicht laat alle cijfers zien.",
+      "example_ru": "Обзор показывает все цифры.",
+      "example_en": "The overview shows all the figures."
     },
     {
       "type_en": "noun",
@@ -1760,7 +2198,9 @@
       "dutch": "het paard, paarden",
       "russian": "лошадь",
       "english": "horse",
-      "example": ""
+      "example": "Het paard loopt rustig door het veld.",
+      "example_ru": "Лошадь спокойно идёт по полю.",
+      "example_en": "The horse walks calmly through the field."
     },
     {
       "type_en": "noun",
@@ -1768,7 +2208,9 @@
       "dutch": "de pan, pannen",
       "russian": "сковорода",
       "english": "frying pan",
-      "example": ""
+      "example": "De pan staat op het vuur.",
+      "example_ru": "Сковорода стоит на огне.",
+      "example_en": "The pan is on the stove."
     },
     {
       "type_en": "noun",
@@ -1776,7 +2218,9 @@
       "dutch": "de parkeerplaats, parkeerplaatsen",
       "russian": "парковочное место",
       "english": "parking space",
-      "example": ""
+      "example": "De parkeerplaats is achter het gebouw.",
+      "example_ru": "Парковка за зданием.",
+      "example_en": "The parking space is behind the building."
     },
     {
       "type_en": "verb",
@@ -1784,7 +2228,9 @@
       "dutch": "parkeren, geparkeerd",
       "russian": "парковать",
       "english": "park",
-      "example": ""
+      "example": "Zij parkeert de auto voor het huis.",
+      "example_ru": "Она паркует машину перед домом.",
+      "example_en": "She parks the car in front of the house."
     },
     {
       "type_en": "noun",
@@ -1792,7 +2238,9 @@
       "dutch": "de partner, partners",
       "russian": "партнёр",
       "english": "partner",
-      "example": ""
+      "example": "Mijn partner werkt ook in Amsterdam.",
+      "example_ru": "Мой партнёр тоже работает в Амстердаме.",
+      "example_en": "My partner also works in Amsterdam."
     },
     {
       "type_en": "noun",
@@ -1800,7 +2248,9 @@
       "dutch": "de pauze, pauzes",
       "russian": "перерыв",
       "english": "break",
-      "example": ""
+      "example": "De pauze duurt een kwartier.",
+      "example_ru": "Перерыв длится пятнадцать минут.",
+      "example_en": "The break lasts fifteen minutes."
     },
     {
       "type_en": "noun",
@@ -1808,7 +2258,9 @@
       "dutch": "het personeel, —",
       "russian": "персонал",
       "english": "staff",
-      "example": ""
+      "example": "Het personeel draagt een uniform.",
+      "example_ru": "Персонал носит форму.",
+      "example_en": "The staff wears a uniform."
     },
     {
       "type_en": "noun",
@@ -1816,7 +2268,9 @@
       "dutch": "de pet, petten",
       "russian": "кепка",
       "english": "cap",
-      "example": ""
+      "example": "De pet beschermt tegen de zon.",
+      "example_ru": "Кепка защищает от солнца.",
+      "example_en": "The cap protects against the sun."
     },
     {
       "type_en": "noun",
@@ -1824,7 +2278,9 @@
       "dutch": "de pinpas, pinpassen",
       "russian": "дебетовая карта",
       "english": "debit card",
-      "example": ""
+      "example": "Ik betaal met mijn pinpas.",
+      "example_ru": "Я плачу дебетовой картой.",
+      "example_en": "I pay with my debit card."
     },
     {
       "type_en": "noun",
@@ -1832,7 +2288,9 @@
       "dutch": "het plaatje, plaatjes",
       "russian": "картинка",
       "english": "picture",
-      "example": ""
+      "example": "Het plaatje in het boek is mooi.",
+      "example_ru": "Картинка в книге красивая.",
+      "example_en": "The picture in the book is nice."
     },
     {
       "type_en": "noun",
@@ -1840,7 +2298,9 @@
       "dutch": "de plank, planken",
       "russian": "полка",
       "english": "shelf",
-      "example": ""
+      "example": "De plank hangt boven het bureau.",
+      "example_ru": "Полка висит над столом.",
+      "example_en": "The shelf hangs above the desk."
     },
     {
       "type_en": "verb",
@@ -1848,7 +2308,9 @@
       "dutch": "plannen, gepland",
       "russian": "планировать",
       "english": "plan",
-      "example": ""
+      "example": "Wij plannen de vergadering voor vrijdag.",
+      "example_ru": "Мы планируем совещание на пятницу.",
+      "example_en": "We plan the meeting for Friday."
     },
     {
       "type_en": "noun",
@@ -1856,7 +2318,9 @@
       "dutch": "het plastic, —",
       "russian": "пластик",
       "english": "plastic",
-      "example": ""
+      "example": "Het plastic hoort in de gele bak.",
+      "example_ru": "Пластик выбрасывают в жёлтый контейнер.",
+      "example_en": "Plastic goes in the yellow bin."
     },
     {
       "type_en": "adverb",
@@ -1864,7 +2328,9 @@
       "dutch": "plotseling",
       "russian": "внезапно",
       "english": "suddenly",
-      "example": ""
+      "example": "Plotseling begon het hard te regenen.",
+      "example_ru": "Внезапно пошёл сильный дождь.",
+      "example_en": "Suddenly it started raining hard."
     },
     {
       "type_en": "noun",
@@ -1872,7 +2338,9 @@
       "dutch": "het potlood, potloden",
       "russian": "карандаш",
       "english": "pencil",
-      "example": ""
+      "example": "Het potlood ligt in de la.",
+      "example_ru": "Карандаш лежит в ящике.",
+      "example_en": "The pencil is in the drawer."
     },
     {
       "type_en": "verb",
@@ -1880,7 +2348,9 @@
       "dutch": "presenteren, gepresenteerd",
       "russian": "представлять",
       "english": "present",
-      "example": ""
+      "example": "Zij presenteert het plan aan het team.",
+      "example_ru": "Она представляет план команде.",
+      "example_en": "She presents the plan to the team."
     },
     {
       "type_en": "verb",
@@ -1888,7 +2358,9 @@
       "dutch": "printen, geprint",
       "russian": "печатать",
       "english": "print",
-      "example": ""
+      "example": "Ik print het document op kantoor.",
+      "example_ru": "Я печатаю документ в офисе.",
+      "example_en": "I print the document at the office."
     },
     {
       "type_en": "noun",
@@ -1896,7 +2368,9 @@
       "dutch": "de printer, printers",
       "russian": "принтер",
       "english": "printer",
-      "example": ""
+      "example": "De printer heeft geen papier meer.",
+      "example_ru": "В принтере закончилась бумага.",
+      "example_en": "The printer is out of paper."
     },
     {
       "type_en": "noun",
@@ -1904,7 +2378,9 @@
       "dutch": "het project, projecten",
       "russian": "проект",
       "english": "project",
-      "example": ""
+      "example": "Het project duurt nog twee maanden.",
+      "example_ru": "Проект продлится ещё два месяца.",
+      "example_en": "The project lasts two more months."
     },
     {
       "type_en": "noun",
@@ -1912,7 +2388,9 @@
       "dutch": "het raam, ramen",
       "russian": "окно",
       "english": "window",
-      "example": ""
+      "example": "Het raam staat open voor de frisse lucht.",
+      "example_ru": "Окно открыто для свежего воздуха.",
+      "example_en": "The window is open for fresh air."
     },
     {
       "type_en": "verb",
@@ -1920,7 +2398,9 @@
       "dutch": "recyclen, gerecycled",
       "russian": "перерабатывать",
       "english": "recycle",
-      "example": ""
+      "example": "Wij recyclen papier en glas thuis.",
+      "example_ru": "Мы перерабатываем бумагу и стекло дома.",
+      "example_en": "We recycle paper and glass at home."
     },
     {
       "type_en": "noun",
@@ -1928,7 +2408,9 @@
       "dutch": "de regio, regio's",
       "russian": "регион",
       "english": "region",
-      "example": ""
+      "example": "De regio heeft veel natuur en bossen.",
+      "example_ru": "В регионе много природы и лесов.",
+      "example_en": "The region has a lot of nature and forests."
     },
     {
       "type_en": "verb",
@@ -1936,7 +2418,9 @@
       "dutch": "rennen, gerend",
       "russian": "бежать",
       "english": "run",
-      "example": ""
+      "example": "De kinderen rennen door de tuin.",
+      "example_ru": "Дети бегают по саду.",
+      "example_en": "The children run through the garden."
     },
     {
       "type_en": "noun",
@@ -1944,7 +2428,9 @@
       "dutch": "de reparatie, reparaties",
       "russian": "ремонт",
       "english": "repair",
-      "example": ""
+      "example": "De reparatie van de fiets kost dertig euro.",
+      "example_ru": "Ремонт велосипеда стоит тридцать евро.",
+      "example_en": "The repair of the bicycle costs thirty euros."
     },
     {
       "type_en": "verb",
@@ -1952,7 +2438,9 @@
       "dutch": "repareren, gerepareerd",
       "russian": "ремонт",
       "english": "repair",
-      "example": ""
+      "example": "De monteur repareert de auto vandaag.",
+      "example_ru": "Механик ремонтирует машину сегодня.",
+      "example_en": "The mechanic repairs the car today."
     },
     {
       "type_en": "noun",
@@ -1960,7 +2448,9 @@
       "dutch": "het rijbewijs, rijbewijzen",
       "russian": "водительские права",
       "english": "driver’s license",
-      "example": ""
+      "example": "Het rijbewijs is vijf jaar geldig.",
+      "example_ru": "Водительские права действительны пять лет.",
+      "example_en": "The driver's license is valid for five years."
     },
     {
       "type_en": "noun",
@@ -1968,7 +2458,9 @@
       "dutch": "het risico, risico's",
       "russian": "риск",
       "english": "risk",
-      "example": ""
+      "example": "Het risico is te groot voor ons.",
+      "example_ru": "Риск слишком велик для нас.",
+      "example_en": "The risk is too great for us."
     },
     {
       "type_en": "noun",
@@ -1976,7 +2468,9 @@
       "dutch": "de robot, robots",
       "russian": "робот",
       "english": "robot",
-      "example": ""
+      "example": "De robot maakt het huis schoon.",
+      "example_ru": "Робот убирает дом.",
+      "example_en": "The robot cleans the house."
     },
     {
       "type_en": "noun",
@@ -1984,7 +2478,9 @@
       "dutch": "de rok, rokken",
       "russian": "юбка",
       "english": "skirt",
-      "example": ""
+      "example": "De rok is blauw met witte strepen.",
+      "example_ru": "Юбка синяя с белыми полосками.",
+      "example_en": "The skirt is blue with white stripes."
     },
     {
       "type_en": "verb",
@@ -1992,7 +2488,9 @@
       "dutch": "roken, gerookt",
       "russian": "курить",
       "english": "smoke",
-      "example": ""
+      "example": "Hij rookt niet meer sinds vorig jaar.",
+      "example_ru": "Он больше не курит с прошлого года.",
+      "example_en": "He no longer smokes since last year."
     },
     {
       "type_en": "noun",
@@ -2000,7 +2498,9 @@
       "dutch": "de rommel, —",
       "russian": "хлам",
       "english": "junk",
-      "example": ""
+      "example": "De rommel op zolder moet weg.",
+      "example_ru": "Хлам на чердаке нужно убрать.",
+      "example_en": "The junk in the attic needs to go."
     },
     {
       "type_en": "noun",
@@ -2008,7 +2508,9 @@
       "dutch": "het rooster, roosters",
       "russian": "расписание",
       "english": "schedule",
-      "example": ""
+      "example": "Het rooster hangt op het prikbord.",
+      "example_ru": "Расписание висит на доске объявлений.",
+      "example_en": "The schedule hangs on the notice board."
     },
     {
       "type_en": "noun",
@@ -2016,7 +2518,9 @@
       "dutch": "de rotzooi, rotzooien",
       "russian": "беспорядок",
       "english": "mess",
-      "example": ""
+      "example": "Wat een rotzooi op je kamer!",
+      "example_ru": "Какой беспорядок в твоей комнате!",
+      "example_en": "What a mess in your room!"
     },
     {
       "type_en": "adjective",
@@ -2024,7 +2528,9 @@
       "dutch": "roze",
       "russian": "розовый",
       "english": "pink",
-      "example": ""
+      "example": "Zij draagt een roze sjaal.",
+      "example_ru": "Она носит розовый шарф.",
+      "example_en": "She wears a pink scarf."
     },
     {
       "type_en": "noun",
@@ -2032,7 +2538,9 @@
       "dutch": "de rugzak, rugzakken",
       "russian": "рюкзак",
       "english": "backpack",
-      "example": ""
+      "example": "De rugzak is te zwaar voor school.",
+      "example_ru": "Рюкзак слишком тяжёлый для школы.",
+      "example_en": "The backpack is too heavy for school."
     },
     {
       "type_en": "adverb",
@@ -2040,7 +2548,9 @@
       "dutch": "’s avonds",
       "russian": "вечером",
       "english": "in the evening",
-      "example": ""
+      "example": "’s Avonds kijk ik graag televisie.",
+      "example_ru": "Вечером я люблю смотреть телевизор.",
+      "example_en": "In the evening I like to watch TV."
     },
     {
       "type_en": "adverb",
@@ -2048,7 +2558,9 @@
       "dutch": "’s morgens",
       "russian": "утром",
       "english": "in the morning",
-      "example": ""
+      "example": "’s Morgens drink ik altijd koffie.",
+      "example_ru": "Утром я всегда пью кофе.",
+      "example_en": "In the morning I always drink coffee."
     },
     {
       "type_en": "adverb",
@@ -2056,7 +2568,9 @@
       "dutch": "’s ochtends",
       "russian": "утром",
       "english": "in the morning",
-      "example": ""
+      "example": "’s Ochtends is het nog fris buiten.",
+      "example_ru": "Утром на улице ещё прохладно.",
+      "example_en": "In the morning it is still fresh outside."
     },
     {
       "type_en": "noun",
@@ -2064,7 +2578,9 @@
       "dutch": "de schaar, scharen",
       "russian": "ножницы",
       "english": "scissors",
-      "example": ""
+      "example": "De schaar ligt in de la.",
+      "example_ru": "Ножницы лежат в ящике.",
+      "example_en": "The scissors are in the drawer."
     },
     {
       "type_en": "noun",
@@ -2072,7 +2588,9 @@
       "dutch": "de schade, —",
       "russian": "ущерб",
       "english": "damage",
-      "example": ""
+      "example": "De schade aan de auto is groot.",
+      "example_ru": "Повреждение машины значительное.",
+      "example_en": "The damage to the car is large."
     },
     {
       "type_en": "verb",
@@ -2080,7 +2598,9 @@
       "dutch": "schamen, geschaamd",
       "russian": "стыдиться",
       "english": "be ashamed",
-      "example": ""
+      "example": "Hij schaamt zich voor zijn fout.",
+      "example_ru": "Он стыдится своей ошибки.",
+      "example_en": "He is ashamed of his mistake."
     },
     {
       "type_en": "adjective",
@@ -2088,7 +2608,9 @@
       "dutch": "scheef",
       "russian": "кривой",
       "english": "crooked",
-      "example": ""
+      "example": "Het schilderij hangt een beetje scheef.",
+      "example_ru": "Картина висит немного криво.",
+      "example_en": "The painting hangs a bit crooked."
     },
     {
       "type_en": "noun",
@@ -2096,7 +2618,9 @@
       "dutch": "het schip, schepen",
       "russian": "корабль",
       "english": "ship",
-      "example": ""
+      "example": "Het schip vaart naar Engeland.",
+      "example_ru": "Корабль плывёт в Англию.",
+      "example_en": "The ship sails to England."
     },
     {
       "type_en": "noun",
@@ -2104,7 +2628,9 @@
       "dutch": "de schoen, schoenen",
       "russian": "туфля",
       "english": "shoe",
-      "example": ""
+      "example": "De schoen past precies goed.",
+      "example_ru": "Туфля подходит идеально.",
+      "example_en": "The shoe fits just right."
     },
     {
       "type_en": "verb",
@@ -2112,7 +2638,9 @@
       "dutch": "schoonmaken, schoongemaakt",
       "russian": "убирать",
       "english": "clean",
-      "example": ""
+      "example": "Wij maken het huis elke zaterdag schoon.",
+      "example_ru": "Мы убираем дом каждую субботу.",
+      "example_en": "We clean the house every Saturday."
     },
     {
       "type_en": "noun",
@@ -2120,7 +2648,9 @@
       "dutch": "de schouder, schouders",
       "russian": "плечо",
       "english": "shoulder",
-      "example": ""
+      "example": "Mijn schouder doet pijn na het sporten.",
+      "example_ru": "Плечо болит после тренировки.",
+      "example_en": "My shoulder hurts after exercising."
     },
     {
       "type_en": "adjective",
@@ -2128,7 +2658,9 @@
       "dutch": "schuin",
       "russian": "наклонный",
       "english": "slanted",
-      "example": ""
+      "example": "Het dak is schuin aan één kant.",
+      "example_ru": "Крыша наклонная с одной стороны.",
+      "example_en": "The roof is slanted on one side."
     },
     {
       "type_en": "noun",
@@ -2136,7 +2668,9 @@
       "dutch": "de secretaresse, secretaressen",
       "russian": "секретарь",
       "english": "secretary",
-      "example": ""
+      "example": "De secretaresse beantwoordt de telefoon.",
+      "example_ru": "Секретарь отвечает на телефон.",
+      "example_en": "The secretary answers the phone."
     },
     {
       "type_en": "noun",
@@ -2144,7 +2678,9 @@
       "dutch": "het seizoen, seizoenen",
       "russian": "сезон",
       "english": "season",
-      "example": ""
+      "example": "Het seizoen begint in september.",
+      "example_ru": "Сезон начинается в сентябре.",
+      "example_en": "The season starts in September."
     },
     {
       "type_en": "noun",
@@ -2152,7 +2688,9 @@
       "dutch": "de september, —",
       "russian": "сентябрь",
       "english": "September",
-      "example": ""
+      "example": "In september begint de school weer.",
+      "example_ru": "В сентябре снова начинается школа.",
+      "example_en": "In September school starts again."
     },
     {
       "type_en": "verb",
@@ -2160,7 +2698,9 @@
       "dutch": "serveren, geserveerd",
       "russian": "подавать",
       "english": "serve",
-      "example": ""
+      "example": "De ober serveert de soep aan tafel.",
+      "example_ru": "Официант подаёт суп к столу.",
+      "example_en": "The waiter serves the soup at the table."
     },
     {
       "type_en": "noun",
@@ -2168,7 +2708,9 @@
       "dutch": "de sleutel, sleutels",
       "russian": "ключ",
       "english": "key",
-      "example": ""
+      "example": "De sleutel ligt op de kast.",
+      "example_ru": "Ключ лежит на шкафу.",
+      "example_en": "The key is on the cupboard."
     },
     {
       "type_en": "noun",
@@ -2176,7 +2718,9 @@
       "dutch": "de sneeuw, —",
       "russian": "снег",
       "english": "snow",
-      "example": ""
+      "example": "De sneeuw valt zachtjes naar beneden.",
+      "example_ru": "Снег тихо падает вниз.",
+      "example_en": "The snow falls softly down."
     },
     {
       "type_en": "verb",
@@ -2184,7 +2728,9 @@
       "dutch": "snijden, gesneden",
       "russian": "резать",
       "english": "cut",
-      "example": ""
+      "example": "Zij snijdt het brood met een mes.",
+      "example_ru": "Она режет хлеб ножом.",
+      "example_en": "She cuts the bread with a knife."
     },
     {
       "type_en": "adjective",
@@ -2192,7 +2738,9 @@
       "dutch": "sociaal",
       "russian": "социальный",
       "english": "social",
-      "example": ""
+      "example": "Hij is een heel sociaal persoon.",
+      "example_ru": "Он очень общительный человек.",
+      "example_en": "He is a very social person."
     },
     {
       "type_en": "noun",
@@ -2200,7 +2748,9 @@
       "dutch": "de soep, soepen",
       "russian": "суп",
       "english": "soup",
-      "example": ""
+      "example": "De soep is warm en lekker.",
+      "example_ru": "Суп тёплый и вкусный.",
+      "example_en": "The soup is warm and tasty."
     },
     {
       "type_en": "noun",
@@ -2208,7 +2758,9 @@
       "dutch": "de sok, sokken",
       "russian": "носок",
       "english": "sock",
-      "example": ""
+      "example": "De sok heeft een gat erin.",
+      "example_ru": "В носке дырка.",
+      "example_en": "The sock has a hole in it."
     },
     {
       "type_en": "noun",
@@ -2216,7 +2768,9 @@
       "dutch": "de sollicitatie, sollicitaties",
       "russian": "заявление о приёме на работу",
       "english": "job application",
-      "example": ""
+      "example": "De sollicitatie was voor een baan bij de bank.",
+      "example_ru": "Заявление было на работу в банке.",
+      "example_en": "The application was for a job at the bank."
     },
     {
       "type_en": "interjection",
@@ -2224,7 +2778,9 @@
       "dutch": "sorry",
       "russian": "извини",
       "english": "sorry",
-      "example": ""
+      "example": "Sorry, ik ben te laat!",
+      "example_ru": "Извините, я опоздал!",
+      "example_en": "Sorry, I am late!"
     },
     {
       "type_en": "noun",
@@ -2232,7 +2788,9 @@
       "dutch": "de spaarrekening, spaarrekeningen",
       "russian": "сберегательный счёт",
       "english": "savings account",
-      "example": ""
+      "example": "De spaarrekening heeft een goede rente.",
+      "example_ru": "У сберегательного счёта хороший процент.",
+      "example_en": "The savings account has a good interest rate."
     },
     {
       "type_en": "noun",
@@ -2240,7 +2798,9 @@
       "dutch": "de spier, spieren",
       "russian": "мышца",
       "english": "muscle",
-      "example": ""
+      "example": "De spier in mijn been doet pijn.",
+      "example_ru": "Мышца в ноге болит.",
+      "example_en": "The muscle in my leg hurts."
     },
     {
       "type_en": "noun",
@@ -2248,7 +2808,9 @@
       "dutch": "de sport, sporten",
       "russian": "спорт",
       "english": "sport",
-      "example": ""
+      "example": "Voetbal is een populaire sport hier.",
+      "example_ru": "Футбол — популярный спорт здесь.",
+      "example_en": "Football is a popular sport here."
     },
     {
       "type_en": "noun",
@@ -2256,7 +2818,9 @@
       "dutch": "het spul, spullen",
       "russian": "вещи",
       "english": "belongings",
-      "example": ""
+      "example": "Al mijn spullen liggen in dozen.",
+      "example_ru": "Все мои вещи лежат в коробках.",
+      "example_en": "All my belongings are in boxes."
     },
     {
       "type_en": "noun",
@@ -2264,7 +2828,9 @@
       "dutch": "de stage, stages",
       "russian": "стажировка",
       "english": "internship",
-      "example": ""
+      "example": "De stage duurt drie maanden.",
+      "example_ru": "Стажировка длится три месяца.",
+      "example_en": "The internship lasts three months."
     },
     {
       "type_en": "verb",
@@ -2272,7 +2838,9 @@
       "dutch": "stage lopen, stage gelopen",
       "russian": "проходить стажировку",
       "english": "do an internship",
-      "example": ""
+      "example": "Zij loopt stage bij een ziekenhuis.",
+      "example_ru": "Она проходит стажировку в больнице.",
+      "example_en": "She is doing an internship at a hospital."
     },
     {
       "type_en": "noun",
@@ -2280,7 +2848,9 @@
       "dutch": "de stagiair, stagiairs",
       "russian": "стажёр",
       "english": "intern",
-      "example": ""
+      "example": "De stagiair begint vandaag met werken.",
+      "example_ru": "Стажёр начинает работать сегодня.",
+      "example_en": "The intern starts working today."
     },
     {
       "type_en": "noun",
@@ -2288,7 +2858,9 @@
       "dutch": "de stagiaire, stagiaires",
       "russian": "стажёр",
       "english": "intern",
-      "example": ""
+      "example": "De stagiaire leert veel op haar werkplek.",
+      "example_ru": "Стажёр многому учится на рабочем месте.",
+      "example_en": "The intern learns a lot at her workplace."
     },
     {
       "type_en": "noun",
@@ -2296,7 +2868,9 @@
       "dutch": "de start, starts",
       "russian": "начало",
       "english": "start",
-      "example": ""
+      "example": "De start van de cursus is in maart.",
+      "example_ru": "Начало курса в марте.",
+      "example_en": "The start of the course is in March."
     },
     {
       "type_en": "verb",
@@ -2304,7 +2878,9 @@
       "dutch": "starten, gestart",
       "russian": "начинать",
       "english": "start",
-      "example": ""
+      "example": "Wij starten morgen met het project.",
+      "example_ru": "Мы начинаем проект завтра.",
+      "example_en": "We start the project tomorrow."
     },
     {
       "type_en": "noun",
@@ -2312,7 +2888,9 @@
       "dutch": "de steen, stenen",
       "russian": "камень",
       "english": "stone",
-      "example": ""
+      "example": "De steen ligt midden op het pad.",
+      "example_ru": "Камень лежит посреди дорожки.",
+      "example_en": "The stone lies in the middle of the path."
     },
     {
       "type_en": "verb",
@@ -2320,7 +2898,9 @@
       "dutch": "stelen, gestolen",
       "russian": "красть",
       "english": "steal",
-      "example": ""
+      "example": "Iemand heeft mijn fiets gestolen.",
+      "example_ru": "Кто-то украл мой велосипед.",
+      "example_en": "Someone stole my bicycle."
     },
     {
       "type_en": "noun",
@@ -2328,7 +2908,9 @@
       "dutch": "de stoel, stoelen",
       "russian": "стул",
       "english": "chair",
-      "example": ""
+      "example": "De stoel staat bij het raam.",
+      "example_ru": "Стул стоит у окна.",
+      "example_en": "The chair is by the window."
     },
     {
       "type_en": "noun",
@@ -2336,7 +2918,9 @@
       "dutch": "de stoep, stoepen",
       "russian": "тротуар",
       "english": "sidewalk",
-      "example": ""
+      "example": "De stoep voor het huis is breed.",
+      "example_ru": "Тротуар перед домом широкий.",
+      "example_en": "The sidewalk in front of the house is wide."
     },
     {
       "type_en": "noun",
@@ -2344,7 +2928,9 @@
       "dutch": "de storing, storingen",
       "russian": "неисправность",
       "english": "malfunction",
-      "example": ""
+      "example": "Er is een storing bij de trein.",
+      "example_ru": "У поезда неисправность.",
+      "example_en": "There is a malfunction with the train."
     },
     {
       "type_en": "noun",
@@ -2352,7 +2938,9 @@
       "dutch": "de studiegenoot, studiegenoten",
       "russian": "сокурсник",
       "english": "fellow student",
-      "example": ""
+      "example": "Mijn studiegenoot komt uit Duitsland.",
+      "example_ru": "Мой сокурсник из Германии.",
+      "example_en": "My fellow student is from Germany."
     },
     {
       "type_en": "noun",
@@ -2360,7 +2948,9 @@
       "dutch": "de tabel, tabellen",
       "russian": "таблица",
       "english": "table",
-      "example": ""
+      "example": "De tabel toont de resultaten.",
+      "example_ru": "Таблица показывает результаты.",
+      "example_en": "The table shows the results."
     },
     {
       "type_en": "noun",
@@ -2368,7 +2958,9 @@
       "dutch": "de tand, tanden",
       "russian": "зуб",
       "english": "tooth",
-      "example": ""
+      "example": "De tand doet pijn als ik eet.",
+      "example_ru": "Зуб болит, когда я ем.",
+      "example_en": "The tooth hurts when I eat."
     },
     {
       "type_en": "noun",
@@ -2376,7 +2968,9 @@
       "dutch": "de tante, tantes",
       "russian": "тётя",
       "english": "aunt",
-      "example": ""
+      "example": "De tante bakt heerlijke taart.",
+      "example_ru": "Тётя печёт вкусный торт.",
+      "example_en": "The aunt bakes delicious cake."
     },
     {
       "type_en": "noun",
@@ -2384,7 +2978,9 @@
       "dutch": "de tas, tassen",
       "russian": "сумка",
       "english": "bag",
-      "example": ""
+      "example": "De tas is vol met boodschappen.",
+      "example_ru": "Сумка полна продуктов.",
+      "example_en": "The bag is full of groceries."
     },
     {
       "type_en": "noun",
@@ -2392,7 +2988,9 @@
       "dutch": "de taxi, taxi's",
       "russian": "такси",
       "english": "taxi",
-      "example": ""
+      "example": "De taxi staat al voor de deur.",
+      "example_ru": "Такси уже у двери.",
+      "example_en": "The taxi is already at the door."
     },
     {
       "type_en": "noun",
@@ -2400,7 +2998,9 @@
       "dutch": "het team, teams",
       "russian": "команда",
       "english": "team",
-      "example": ""
+      "example": "Het team speelt elke zaterdag.",
+      "example_ru": "Команда играет каждую субботу.",
+      "example_en": "The team plays every Saturday."
     },
     {
       "type_en": "noun",
@@ -2408,7 +3008,9 @@
       "dutch": "de technicus, technici",
       "russian": "техник",
       "english": "technician",
-      "example": ""
+      "example": "De technicus komt de verwarming repareren.",
+      "example_ru": "Техник приходит чинить отопление.",
+      "example_en": "The technician comes to repair the heating."
     },
     {
       "type_en": "noun",
@@ -2416,7 +3018,9 @@
       "dutch": "de teen, tenen",
       "russian": "палец ноги",
       "english": "toe",
-      "example": ""
+      "example": "Mijn teen doet pijn van het stoten.",
+      "example_ru": "Палец ноги болит от удара.",
+      "example_en": "My toe hurts from bumping it."
     },
     {
       "type_en": "noun",
@@ -2424,7 +3028,9 @@
       "dutch": "de telefoon, telefoons",
       "russian": "телефон",
       "english": "telephone",
-      "example": ""
+      "example": "De telefoon gaat de hele tijd over.",
+      "example_ru": "Телефон звонит всё время.",
+      "example_en": "The phone keeps ringing."
     },
     {
       "type_en": "noun",
@@ -2432,7 +3038,9 @@
       "dutch": "het tentamen, tentamens",
       "russian": "экзамен",
       "english": "exam",
-      "example": ""
+      "example": "Het tentamen is over twee weken.",
+      "example_ru": "Экзамен через две недели.",
+      "example_en": "The exam is in two weeks."
     },
     {
       "type_en": "adverb",
@@ -2440,7 +3048,9 @@
       "dutch": "tevoren",
       "russian": "заранее",
       "english": "beforehand",
-      "example": ""
+      "example": "Bel mij van tevoren als je komt.",
+      "example_ru": "Позвони мне заранее, если придёшь.",
+      "example_en": "Call me beforehand if you come."
     },
     {
       "type_en": "noun",
@@ -2448,7 +3058,9 @@
       "dutch": "de thee, theeën",
       "russian": "чай",
       "english": "tea",
-      "example": ""
+      "example": "De thee is nog heel heet.",
+      "example_ru": "Чай ещё очень горячий.",
+      "example_en": "The tea is still very hot."
     },
     {
       "type_en": "verb",
@@ -2456,7 +3068,9 @@
       "dutch": "tillen, getild",
       "russian": "поднимать",
       "english": "lift",
-      "example": ""
+      "example": "Zij tilt de zware doos op.",
+      "example_ru": "Она поднимает тяжёлую коробку.",
+      "example_en": "She lifts the heavy box."
     },
     {
       "type_en": "verb",
@@ -2464,7 +3078,9 @@
       "dutch": "optillen, opgetild",
       "russian": "приподнимать",
       "english": "lift up",
-      "example": ""
+      "example": "Kun je de tafel even optillen?",
+      "example_ru": "Можешь приподнять стол?",
+      "example_en": "Can you lift the table for a moment?"
     },
     {
       "type_en": "verb",
@@ -2472,7 +3088,9 @@
       "dutch": "timmeren, getimmerd",
       "russian": "заниматься столярным делом",
       "english": "do carpentry",
-      "example": ""
+      "example": "Hij timmert een nieuwe kast in de garage.",
+      "example_ru": "Он мастерит новый шкаф в гараже.",
+      "example_en": "He builds a new cupboard in the garage."
     },
     {
       "type_en": "noun",
@@ -2480,7 +3098,9 @@
       "dutch": "de timmerman, timmermannen",
       "russian": "мужчина-плотник",
       "english": "male carpenter",
-      "example": ""
+      "example": "De timmerman maakt een houten tafel.",
+      "example_ru": "Плотник делает деревянный стол.",
+      "example_en": "The carpenter makes a wooden table."
     },
     {
       "type_en": "noun",
@@ -2488,7 +3108,9 @@
       "dutch": "de tip, tippen",
       "russian": "совет",
       "english": "tip",
-      "example": ""
+      "example": "Dat is een goede tip, dank je!",
+      "example_ru": "Это хороший совет, спасибо!",
+      "example_en": "That is a good tip, thank you!"
     },
     {
       "type_en": "verb",
@@ -2496,7 +3118,9 @@
       "dutch": "toelichten, toegelicht",
       "russian": "объяснять",
       "english": "explain",
-      "example": ""
+      "example": "De docent licht het antwoord toe.",
+      "example_ru": "Преподаватель объясняет ответ.",
+      "example_en": "The teacher explains the answer."
     },
     {
       "type_en": "noun",
@@ -2504,7 +3128,9 @@
       "dutch": "de toets, toetsen",
       "russian": "тест",
       "english": "test",
-      "example": ""
+      "example": "De toets is volgende week dinsdag.",
+      "example_ru": "Тест в следующий вторник.",
+      "example_en": "The test is next Tuesday."
     },
     {
       "type_en": "noun",
@@ -2512,7 +3138,9 @@
       "dutch": "de tong, tongen",
       "russian": "язык",
       "english": "tongue",
-      "example": ""
+      "example": "De tong proeft zoet en zuur.",
+      "example_ru": "Язык чувствует сладкое и кислое.",
+      "example_en": "The tongue tastes sweet and sour."
     },
     {
       "type_en": "noun",
@@ -2520,7 +3148,9 @@
       "dutch": "de toonbank, toonbanken",
       "russian": "прилавок",
       "english": "counter",
-      "example": ""
+      "example": "De toonbank staat vol met broodjes.",
+      "example_ru": "Прилавок заставлен бутербродами.",
+      "example_en": "The counter is full of sandwiches."
     },
     {
       "type_en": "verb",
@@ -2528,7 +3158,9 @@
       "dutch": "trainen, getraind",
       "russian": "тренироваться",
       "english": "train",
-      "example": ""
+      "example": "Wij trainen drie keer per week.",
+      "example_ru": "Мы тренируемся три раза в неделю.",
+      "example_en": "We train three times a week."
     },
     {
       "type_en": "noun",
@@ -2536,7 +3168,9 @@
       "dutch": "de trainer, trainers",
       "russian": "тренер",
       "english": "trainer",
-      "example": ""
+      "example": "De trainer geeft duidelijke instructies.",
+      "example_ru": "Тренер даёт чёткие инструкции.",
+      "example_en": "The trainer gives clear instructions."
     },
     {
       "type_en": "noun",
@@ -2544,7 +3178,9 @@
       "dutch": "de training, trainingen",
       "russian": "тренировка",
       "english": "training",
-      "example": ""
+      "example": "De training begint om zes uur.",
+      "example_ru": "Тренировка начинается в шесть часов.",
+      "example_en": "The training starts at six o'clock."
     },
     {
       "type_en": "noun",
@@ -2552,7 +3188,9 @@
       "dutch": "de trap, trappen",
       "russian": "лестница",
       "english": "staircase",
-      "example": ""
+      "example": "De trap naar boven is steil.",
+      "example_ru": "Лестница наверх крутая.",
+      "example_en": "The staircase up is steep."
     },
     {
       "type_en": "noun",
@@ -2560,7 +3198,9 @@
       "dutch": "de tuinman, tuinmannen",
       "russian": "садовник",
       "english": "gardener",
-      "example": ""
+      "example": "De tuinman maait het gras elke week.",
+      "example_ru": "Садовник стрижёт газон каждую неделю.",
+      "example_en": "The gardener mows the grass every week."
     },
     {
       "type_en": "numeral",
@@ -2568,7 +3208,9 @@
       "dutch": "tweede",
       "russian": "второй",
       "english": "second",
-      "example": ""
+      "example": "Dit is de tweede keer.",
+      "example_ru": "Это второй раз.",
+      "example_en": "This is the second time."
     },
     {
       "type_en": "adjective",
@@ -2576,7 +3218,9 @@
       "dutch": "tweedehands",
       "russian": "подержанный",
       "english": "secondhand",
-      "example": ""
+      "example": "Zij koopt een tweedehands fiets.",
+      "example_ru": "Она покупает подержанный велосипед.",
+      "example_en": "She buys a secondhand bicycle."
     },
     {
       "type_en": "noun",
@@ -2584,7 +3228,9 @@
       "dutch": "de uitgang, uitgangen",
       "russian": "выход",
       "english": "exit",
-      "example": ""
+      "example": "De uitgang is aan het einde van de gang.",
+      "example_ru": "Выход в конце коридора.",
+      "example_en": "The exit is at the end of the corridor."
     },
     {
       "type_en": "noun",
@@ -2592,7 +3238,9 @@
       "dutch": "het uitje, uitjes",
       "russian": "прогулка",
       "english": "outing",
-      "example": ""
+      "example": "Het uitje naar het strand was leuk.",
+      "example_ru": "Поездка на пляж была классной.",
+      "example_en": "The outing to the beach was fun."
     },
     {
       "type_en": "verb",
@@ -2600,7 +3248,9 @@
       "dutch": "uitloggen, uitgelogd",
       "russian": "выйти из системы",
       "english": "log out",
-      "example": ""
+      "example": "Vergeet niet uit te loggen.",
+      "example_ru": "Не забудь выйти из системы.",
+      "example_en": "Don't forget to log out."
     },
     {
       "type_en": "verb",
@@ -2608,7 +3258,9 @@
       "dutch": "uitschrijven, uitgeschreven",
       "russian": "сняться с регистрации",
       "english": "deregister",
-      "example": ""
+      "example": "Zij schrijft zich uit bij de gemeente.",
+      "example_ru": "Она снимается с регистрации в муниципалитете.",
+      "example_en": "She deregisters at the municipality."
     },
     {
       "type_en": "noun",
@@ -2616,7 +3268,9 @@
       "dutch": "het uitzendbureau, uitzendbureaus",
       "russian": "агентство по трудоустройству",
       "english": "employment agency",
-      "example": ""
+      "example": "Het uitzendbureau vindt snel een baan.",
+      "example_ru": "Агентство быстро находит работу.",
+      "example_en": "The employment agency finds a job quickly."
     },
     {
       "type_en": "noun",
@@ -2624,7 +3278,9 @@
       "dutch": "de uitzendkracht, uitzendkrachten",
       "russian": "временный работник",
       "english": "temporary worker",
-      "example": ""
+      "example": "De uitzendkracht werkt hier tijdelijk.",
+      "example_ru": "Временный работник работает здесь временно.",
+      "example_en": "The temporary worker works here temporarily."
     },
     {
       "type_en": "verb",
@@ -2632,7 +3288,9 @@
       "dutch": "uitzoeken, uitgezocht",
       "russian": "выяснять",
       "english": "find out",
-      "example": ""
+      "example": "Ik zoek het voor je uit.",
+      "example_ru": "Я выясню это для тебя.",
+      "example_en": "I will find that out for you."
     },
     {
       "type_en": "noun",
@@ -2640,7 +3298,9 @@
       "dutch": "het vakgebied, vakgebieden",
       "russian": "область знаний",
       "english": "field of expertise",
-      "example": ""
+      "example": "Haar vakgebied is de gezondheidszorg.",
+      "example_ru": "Её область — здравоохранение.",
+      "example_en": "Her field of expertise is healthcare."
     },
     {
       "type_en": "adverb",
@@ -2648,7 +3308,9 @@
       "dutch": "vanmiddag",
       "russian": "сегодня днём",
       "english": "this afternoon",
-      "example": ""
+      "example": "Vanmiddag ga ik naar de supermarkt.",
+      "example_ru": "Сегодня днём я иду в супермаркет.",
+      "example_en": "This afternoon I go to the supermarket."
     },
     {
       "type_en": "adverb",
@@ -2656,7 +3318,9 @@
       "dutch": "vanmorgen",
       "russian": "сегодня утром",
       "english": "this morning",
-      "example": ""
+      "example": "Vanmorgen was het heel mistig.",
+      "example_ru": "Сегодня утром был сильный туман.",
+      "example_en": "This morning it was very foggy."
     },
     {
       "type_en": "adverb",
@@ -2664,7 +3328,9 @@
       "dutch": "vannacht",
       "russian": "сегодня ночью",
       "english": "tonight",
-      "example": ""
+      "example": "Vannacht heeft het hard geregend.",
+      "example_ru": "Ночью шёл сильный дождь.",
+      "example_en": "Last night it rained hard."
     },
     {
       "type_en": "noun",
@@ -2672,7 +3338,9 @@
       "dutch": "de veiligheid, veiligheden",
       "russian": "безопасность",
       "english": "safety",
-      "example": ""
+      "example": "De veiligheid op de werkplek is belangrijk.",
+      "example_ru": "Безопасность на рабочем месте важна.",
+      "example_en": "Safety in the workplace is important."
     },
     {
       "type_en": "adjective",
@@ -2680,7 +3348,9 @@
       "dutch": "verbaasd",
       "russian": "удивлённый",
       "english": "surprised",
-      "example": ""
+      "example": "Ik was verbaasd over het resultaat.",
+      "example_ru": "Я был удивлён результатом.",
+      "example_en": "I was surprised by the result."
     },
     {
       "type_en": "noun",
@@ -2688,7 +3358,9 @@
       "dutch": "de verdieping, verdiepingen",
       "russian": "этаж",
       "english": "floor",
-      "example": ""
+      "example": "De verdieping boven ons is leeg.",
+      "example_ru": "Этаж над нами пустой.",
+      "example_en": "The floor above us is empty."
     },
     {
       "type_en": "adjective",
@@ -2696,7 +3368,9 @@
       "dutch": "verdrietig",
       "russian": "грустный",
       "english": "sad",
-      "example": ""
+      "example": "Het kind is verdrietig.",
+      "example_ru": "Ребёнку грустно.",
+      "example_en": "The child is sad."
     },
     {
       "type_en": "noun",
@@ -2704,7 +3378,9 @@
       "dutch": "de vereniging, verenigingen",
       "russian": "ассоциация",
       "english": "association",
-      "example": ""
+      "example": "De vereniging organiseert elk jaar een feest.",
+      "example_ru": "Ассоциация организует праздник каждый год.",
+      "example_en": "The association organizes a party every year."
     },
     {
       "type_en": "noun",
@@ -2712,7 +3388,9 @@
       "dutch": "het verkeer, —",
       "russian": "дорожное движение",
       "english": "traffic",
-      "example": ""
+      "example": "Het verkeer is druk in de ochtend.",
+      "example_ru": "Движение оживлённое утром.",
+      "example_en": "Traffic is busy in the morning."
     },
     {
       "type_en": "noun",
@@ -2720,7 +3398,9 @@
       "dutch": "de verkiezing, verkiezingen",
       "russian": "выборы",
       "english": "election",
-      "example": ""
+      "example": "De verkiezing is over twee weken.",
+      "example_ru": "Выборы через две недели.",
+      "example_en": "The election is in two weeks."
     },
     {
       "type_en": "adjective",
@@ -2728,7 +3408,9 @@
       "dutch": "verkouden",
       "russian": "простуженный",
       "english": "having a cold",
-      "example": ""
+      "example": "Zij is verkouden en hoest veel.",
+      "example_ru": "Она простужена и много кашляет.",
+      "example_en": "She has a cold and coughs a lot."
     },
     {
       "type_en": "noun",
@@ -2736,7 +3418,9 @@
       "dutch": "het verpleeghuis, verpleeghuizen",
       "russian": "дом престарелых",
       "english": "nursing home",
-      "example": ""
+      "example": "Het verpleeghuis ligt aan de rand van de stad.",
+      "example_ru": "Дом престарелых на окраине города.",
+      "example_en": "The nursing home is on the edge of the city."
     },
     {
       "type_en": "noun",
@@ -2744,7 +3428,9 @@
       "dutch": "de verpleegkundige, verpleegkundigen",
       "russian": "медработник",
       "english": "nurse",
-      "example": ""
+      "example": "De verpleegkundige meet de bloeddruk.",
+      "example_ru": "Медработник измеряет давление.",
+      "example_en": "The nurse measures the blood pressure."
     },
     {
       "type_en": "noun",
@@ -2752,7 +3438,9 @@
       "dutch": "de verpleegster, verpleegsters",
       "russian": "медсестра",
       "english": "nurse",
-      "example": ""
+      "example": "De verpleegster geeft de patiënt medicijnen.",
+      "example_ru": "Медсестра даёт пациенту лекарства.",
+      "example_en": "The nurse gives the patient medicine."
     },
     {
       "type_en": "verb",
@@ -2760,7 +3448,9 @@
       "dutch": "verplegen, verpleegd",
       "russian": "ухаживать за больными",
       "english": "nurse",
-      "example": ""
+      "example": "Zij verpleegt haar zieke moeder thuis.",
+      "example_ru": "Она ухаживает за больной мамой дома.",
+      "example_en": "She nurses her sick mother at home."
     },
     {
       "type_en": "noun",
@@ -2768,7 +3458,9 @@
       "dutch": "de verpleger, verplegers",
       "russian": "медбрат",
       "english": "male nurse",
-      "example": ""
+      "example": "De verpleger werkt in het ziekenhuis.",
+      "example_ru": "Медбрат работает в больнице.",
+      "example_en": "The male nurse works in the hospital."
     },
     {
       "type_en": "adjective",
@@ -2776,7 +3468,9 @@
       "dutch": "verschrikkelijk",
       "russian": "ужасный",
       "english": "terrible",
-      "example": ""
+      "example": "Het weer was verschrikkelijk gisteren.",
+      "example_ru": "Погода вчера была ужасной.",
+      "example_en": "The weather was terrible yesterday."
     },
     {
       "type_en": "noun",
@@ -2784,7 +3478,9 @@
       "dutch": "de vertraging, vertragingen",
       "russian": "задержка",
       "english": "delay",
-      "example": ""
+      "example": "De vertraging van de trein is twintig minuten.",
+      "example_ru": "Задержка поезда — двадцать минут.",
+      "example_en": "The train delay is twenty minutes."
     },
     {
       "type_en": "verb",
@@ -2792,7 +3488,9 @@
       "dutch": "verzenden, verzonden",
       "russian": "отправлять",
       "english": "send",
-      "example": ""
+      "example": "Wij verzenden het pakket met de post.",
+      "example_ru": "Мы отправляем посылку почтой.",
+      "example_en": "We send the package by post."
     },
     {
       "type_en": "noun",
@@ -2800,7 +3498,9 @@
       "dutch": "het vlees, vlezen",
       "russian": "мясо",
       "english": "meat",
-      "example": ""
+      "example": "Het vlees ligt in de koelkast.",
+      "example_ru": "Мясо лежит в холодильнике.",
+      "example_en": "The meat is in the fridge."
     },
     {
       "type_en": "noun",
@@ -2808,7 +3508,9 @@
       "dutch": "de vloer, vloeren",
       "russian": "пол",
       "english": "floor",
-      "example": ""
+      "example": "De vloer in de keuken is schoon.",
+      "example_ru": "Пол на кухне чистый.",
+      "example_en": "The floor in the kitchen is clean."
     },
     {
       "type_en": "noun",
@@ -2816,7 +3518,9 @@
       "dutch": "het voetbal, —",
       "russian": "футбол",
       "english": "football",
-      "example": ""
+      "example": "Ik kijk graag voetbal op televisie.",
+      "example_ru": "Я люблю смотреть футбол по телевизору.",
+      "example_en": "I like to watch football on TV."
     },
     {
       "type_en": "verb",
@@ -2824,7 +3528,9 @@
       "dutch": "voetballen, gevoetbald",
       "russian": "играть в футбол",
       "english": "play football",
-      "example": ""
+      "example": "De kinderen voetballen op het plein.",
+      "example_ru": "Дети играют в футбол на площади.",
+      "example_en": "The children play football in the square."
     },
     {
       "type_en": "noun",
@@ -2832,7 +3538,9 @@
       "dutch": "de voetbalclub, voetbalclubs",
       "russian": "футбольный клуб",
       "english": "football club",
-      "example": ""
+      "example": "De voetbalclub speelt in de eerste divisie.",
+      "example_ru": "Футбольный клуб играет в первом дивизионе.",
+      "example_en": "The football club plays in the first division."
     },
     {
       "type_en": "noun",
@@ -2840,7 +3548,9 @@
       "dutch": "de vogel, vogels",
       "russian": "птица",
       "english": "bird",
-      "example": ""
+      "example": "De vogel zingt mooi in de boom.",
+      "example_ru": "Птица красиво поёт на дереве.",
+      "example_en": "The bird sings beautifully in the tree."
     },
     {
       "type_en": "adjective",
@@ -2848,7 +3558,9 @@
       "dutch": "volgend",
       "russian": "следующий",
       "english": "next",
-      "example": ""
+      "example": "De volgende halte is het station.",
+      "example_ru": "Следующая остановка — вокзал.",
+      "example_en": "The next stop is the station."
     },
     {
       "type_en": "adverb",
@@ -2856,7 +3568,9 @@
       "dutch": "vooraf",
       "russian": "заранее",
       "english": "beforehand",
-      "example": ""
+      "example": "Meld je vooraf aan voor de workshop.",
+      "example_ru": "Зарегистрируйся заранее на мастер-класс.",
+      "example_en": "Register beforehand for the workshop."
     },
     {
       "type_en": "noun",
@@ -2864,7 +3578,9 @@
       "dutch": "de voorbereiding, voorbereidingen",
       "russian": "подготовка",
       "english": "preparation",
-      "example": ""
+      "example": "De voorbereiding kost veel tijd.",
+      "example_ru": "Подготовка занимает много времени.",
+      "example_en": "The preparation takes a lot of time."
     },
     {
       "type_en": "verb",
@@ -2872,7 +3588,9 @@
       "dutch": "voorlezen, voorgelezen",
       "russian": "читать вслух",
       "english": "read aloud",
-      "example": ""
+      "example": "Zij leest het verhaal voor aan de kinderen.",
+      "example_ru": "Она читает детям историю вслух.",
+      "example_en": "She reads the story aloud to the children."
     },
     {
       "type_en": "noun",
@@ -2880,7 +3598,9 @@
       "dutch": "de voorlichting, voorlichtingen",
       "russian": "информирование",
       "english": "information",
-      "example": ""
+      "example": "De voorlichting over gezondheid is gratis.",
+      "example_ru": "Информирование о здоровье бесплатно.",
+      "example_en": "The health information session is free."
     },
     {
       "type_en": "noun",
@@ -2888,7 +3608,9 @@
       "dutch": "de voorzitter, voorzitters",
       "russian": "председатель",
       "english": "chairperson",
-      "example": ""
+      "example": "De voorzitter opent de vergadering.",
+      "example_ru": "Председатель открывает собрание.",
+      "example_en": "The chairperson opens the meeting."
     },
     {
       "type_en": "noun",
@@ -2896,7 +3618,9 @@
       "dutch": "de vork, vorken",
       "russian": "вилка",
       "english": "fork",
-      "example": ""
+      "example": "De vork ligt links van het bord.",
+      "example_ru": "Вилка лежит слева от тарелки.",
+      "example_en": "The fork is to the left of the plate."
     },
     {
       "type_en": "noun",
@@ -2904,7 +3628,9 @@
       "dutch": "de vrachtwagen, vrachtwagens",
       "russian": "грузовик",
       "english": "truck",
-      "example": ""
+      "example": "De vrachtwagen staat voor het magazijn.",
+      "example_ru": "Грузовик стоит перед складом.",
+      "example_en": "The truck is in front of the warehouse."
     },
     {
       "type_en": "adjective",
@@ -2912,7 +3638,9 @@
       "dutch": "vriendelijk",
       "russian": "дружелюбный",
       "english": "friendly",
-      "example": ""
+      "example": "De buurvrouw is altijd heel vriendelijk.",
+      "example_ru": "Соседка всегда очень приветлива.",
+      "example_en": "The neighbour is always very friendly."
     },
     {
       "type_en": "noun",
@@ -2920,7 +3648,9 @@
       "dutch": "de vrijwilliger, vrijwilligers",
       "russian": "волонтёр",
       "english": "volunteer",
-      "example": ""
+      "example": "De vrijwilliger helpt op de school.",
+      "example_ru": "Волонтёр помогает в школе.",
+      "example_en": "The volunteer helps at the school."
     },
     {
       "type_en": "verb",
@@ -2928,7 +3658,9 @@
       "dutch": "waaien, gewaaid",
       "russian": "дуть",
       "english": "blow",
-      "example": ""
+      "example": "Het waait vandaag heel hard buiten.",
+      "example_ru": "Сегодня на улице очень сильный ветер.",
+      "example_en": "It is very windy outside today."
     },
     {
       "type_en": "verb",
@@ -2936,7 +3668,9 @@
       "dutch": "waarschuwen, gewaarschuwd",
       "russian": "предупреждать",
       "english": "warn",
-      "example": ""
+      "example": "De politie waarschuwt voor gladde wegen.",
+      "example_ru": "Полиция предупреждает о скользких дорогах.",
+      "example_en": "The police warn about slippery roads."
     },
     {
       "type_en": "verb",
@@ -2944,7 +3678,9 @@
       "dutch": "wassen, gewassen",
       "russian": "мыть",
       "english": "wash",
-      "example": ""
+      "example": "Ik was mijn handen voor het eten.",
+      "example_ru": "Я мою руки перед едой.",
+      "example_en": "I wash my hands before eating."
     },
     {
       "type_en": "noun",
@@ -2952,7 +3688,9 @@
       "dutch": "de website, websites",
       "russian": "веб-сайт",
       "english": "website",
-      "example": ""
+      "example": "De website is goed en overzichtelijk.",
+      "example_ru": "Сайт хороший и понятный.",
+      "example_en": "The website is good and clear."
     },
     {
       "type_en": "noun",
@@ -2960,7 +3698,9 @@
       "dutch": "de wedstrijd, wedstrijden",
       "russian": "соревнование",
       "english": "competition",
-      "example": ""
+      "example": "De wedstrijd begint om drie uur.",
+      "example_ru": "Соревнование начинается в три часа.",
+      "example_en": "The competition starts at three o'clock."
     },
     {
       "type_en": "noun",
@@ -2968,7 +3708,9 @@
       "dutch": "het weekeinde, weekeinden",
       "russian": "выходные",
       "english": "weekend",
-      "example": ""
+      "example": "Wat doe jij in het weekeinde?",
+      "example_ru": "Что ты делаешь в выходные?",
+      "example_en": "What do you do on the weekend?"
     },
     {
       "type_en": "noun",
@@ -2976,7 +3718,9 @@
       "dutch": "de werkgever, werkgevers",
       "russian": "работодатель",
       "english": "employer",
-      "example": ""
+      "example": "De werkgever biedt een goed salaris.",
+      "example_ru": "Работодатель предлагает хорошую зарплату.",
+      "example_en": "The employer offers a good salary."
     },
     {
       "type_en": "adjective",
@@ -2984,7 +3728,9 @@
       "dutch": "werkloos",
       "russian": "безработный",
       "english": "unemployed",
-      "example": ""
+      "example": "Hij is al drie maanden werkloos.",
+      "example_ru": "Он уже три месяца безработный.",
+      "example_en": "He has been unemployed for three months."
     },
     {
       "type_en": "noun",
@@ -2992,7 +3738,9 @@
       "dutch": "de werknemer, werknemers",
       "russian": "работник",
       "english": "employee",
-      "example": ""
+      "example": "De werknemer heeft recht op vakantie.",
+      "example_ru": "Работник имеет право на отпуск.",
+      "example_en": "The employee has the right to vacation."
     },
     {
       "type_en": "noun",
@@ -3000,7 +3748,9 @@
       "dutch": "het werkstuk, werkstukken",
       "russian": "учебный проект",
       "english": "school project",
-      "example": ""
+      "example": "Het werkstuk moet vrijdag klaar zijn.",
+      "example_ru": "Проект должен быть готов к пятнице.",
+      "example_en": "The school project must be ready by Friday."
     },
     {
       "type_en": "noun",
@@ -3008,7 +3758,9 @@
       "dutch": "de wijk, wijken",
       "russian": "район",
       "english": "neighbourhood",
-      "example": ""
+      "example": "De wijk heeft een eigen speeltuin.",
+      "example_ru": "В районе есть своя площадка.",
+      "example_en": "The neighbourhood has its own playground."
     },
     {
       "type_en": "noun",
@@ -3016,7 +3768,9 @@
       "dutch": "de wind, winden",
       "russian": "ветер",
       "english": "wind",
-      "example": ""
+      "example": "De wind waait vandaag uit het westen.",
+      "example_ru": "Ветер дует сегодня с запада.",
+      "example_en": "The wind blows from the west today."
     },
     {
       "type_en": "noun",
@@ -3024,7 +3778,9 @@
       "dutch": "de wiskunde, —",
       "russian": "математика",
       "english": "mathematics",
-      "example": ""
+      "example": "De wiskunde is moeilijk voor mij.",
+      "example_ru": "Математика трудная для меня.",
+      "example_en": "Mathematics is difficult for me."
     },
     {
       "type_en": "noun",
@@ -3032,7 +3788,9 @@
       "dutch": "de wolk, wolken",
       "russian": "облако",
       "english": "cloud",
-      "example": ""
+      "example": "Er zijn donkere wolken aan de lucht.",
+      "example_ru": "На небе тёмные облака.",
+      "example_en": "There are dark clouds in the sky."
     },
     {
       "type_en": "noun",
@@ -3040,7 +3798,9 @@
       "dutch": "de woningbouwvereniging, woningbouwverenigingen",
       "russian": "жилищное товарищество",
       "english": "housing association",
-      "example": ""
+      "example": "De woningbouwvereniging verhuurt sociale woningen.",
+      "example_ru": "Жилищное товарищество сдаёт социальное жильё.",
+      "example_en": "The housing association rents out social housing."
     },
     {
       "type_en": "noun",
@@ -3048,7 +3808,9 @@
       "dutch": "de workshop, workshops",
       "russian": "мастер-класс",
       "english": "workshop",
-      "example": ""
+      "example": "De workshop over schilderen was heel leuk.",
+      "example_ru": "Мастер-класс по рисованию был очень интересным.",
+      "example_en": "The painting workshop was very fun."
     },
     {
       "type_en": "adjective",
@@ -3056,7 +3818,9 @@
       "dutch": "zenuwachtig",
       "russian": "нервный",
       "english": "nervous",
-      "example": ""
+      "example": "Ik ben zenuwachtig voor een presentatie.",
+      "example_ru": "Я нервничаю перед презентацией.",
+      "example_en": "I am nervous about a presentation."
     }
   ]
 }

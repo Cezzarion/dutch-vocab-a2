@@ -8,7 +8,9 @@
       "dutch": "aangifte doen, aangifte gedaan",
       "russian": "подать заявление",
       "english": "to file a report",
-      "example": ""
+      "example": "Zij doet aangifte bij de politie.",
+      "example_ru": "Она подаёт заявление в полицию.",
+      "example_en": "She files a report with the police."
     },
     {
       "type_en": "noun",
@@ -16,7 +18,9 @@
       "dutch": "de advocaat, advocaten",
       "russian": "адвокат",
       "english": "lawyer",
-      "example": ""
+      "example": "De advocaat helpt mij met de zaak.",
+      "example_ru": "Адвокат помогает мне с делом.",
+      "example_en": "The lawyer helps me with the case."
     },
     {
       "type_en": "noun",
@@ -24,7 +28,9 @@
       "dutch": "de asielzoeker, asielzoekers",
       "russian": "проситель убежища",
       "english": "asylum seeker",
-      "example": ""
+      "example": "De asielzoeker wacht op een beslissing.",
+      "example_ru": "Проситель убежища ждёт решения.",
+      "example_en": "The asylum seeker is waiting for a decision."
     },
     {
       "type_en": "noun",
@@ -32,7 +38,9 @@
       "dutch": "de Belastingdienst, —",
       "russian": "налоговая служба",
       "english": "Tax and Customs Administration",
-      "example": ""
+      "example": "De Belastingdienst stuurt een brief.",
+      "example_ru": "Налоговая служба отправляет письмо.",
+      "example_en": "The Tax Administration sends a letter."
     },
     {
       "type_en": "noun",
@@ -40,7 +48,9 @@
       "dutch": "de bepaalde tijd, bepaalde tijden",
       "russian": "определённый срок",
       "english": "fixed term",
-      "example": ""
+      "example": "Mijn contract is voor bepaalde tijd.",
+      "example_ru": "Мой контракт на определённый срок.",
+      "example_en": "My contract is for a fixed term."
     },
     {
       "type_en": "noun",
@@ -48,7 +58,9 @@
       "dutch": "het bezwaar, bezwaren",
       "russian": "возражение",
       "english": "objection",
-      "example": ""
+      "example": "Hij dient een bezwaar in.",
+      "example_ru": "Он подаёт возражение.",
+      "example_en": "He files an objection."
     },
     {
       "type_en": "noun",
@@ -56,7 +68,9 @@
       "dutch": "de corruptie, —",
       "russian": "коррупция",
       "english": "corruption",
-      "example": ""
+      "example": "Corruptie is strafbaar in Nederland.",
+      "example_ru": "Коррупция наказуема в Нидерландах.",
+      "example_en": "Corruption is punishable in the Netherlands."
     },
     {
       "type_en": "adjective",
@@ -64,7 +78,9 @@
       "dutch": "financieel",
       "russian": "финансовый",
       "english": "financial",
-      "example": ""
+      "example": "Zij heeft financiële problemen.",
+      "example_ru": "У неё финансовые проблемы.",
+      "example_en": "She has financial problems."
     },
     {
       "type_en": "adjective",
@@ -72,15 +88,19 @@
       "dutch": "geldig",
       "russian": "действительный",
       "english": "valid",
-      "example": ""
+      "example": "Is je paspoort nog geldig?",
+      "example_ru": "Твой паспорт ещё действителен?",
+      "example_en": "Is your passport still valid?"
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
-      "dutch": "de GGD (Gemeentelijke Gezondheidsdienst), GGD’s",
+      "dutch": "de GGD (Gemeentelijke Gezondheidsdienst), GGD's",
       "russian": "муниципальная служба здравоохранения",
       "english": "municipal health service",
-      "example": ""
+      "example": "De GGD geeft vaccinaties aan kinderen.",
+      "example_ru": "Муниципальная служба здравоохранения делает прививки детям.",
+      "example_en": "The municipal health service gives vaccinations to children."
     },
     {
       "type_en": "noun",
@@ -88,7 +108,9 @@
       "dutch": "de huwelijksmigrant, huwelijksmigranten",
       "russian": "брачный мигрант",
       "english": "marriage migrant",
-      "example": ""
+      "example": "De huwelijksmigrant moet inburgeren.",
+      "example_ru": "Брачный мигрант должен пройти интеграцию.",
+      "example_en": "The marriage migrant must complete integration."
     },
     {
       "type_en": "noun",
@@ -96,7 +118,9 @@
       "dutch": "het identiteitsbewijs (ID), identiteitsbewijzen (ID)",
       "russian": "удостоверение личности",
       "english": "identity document",
-      "example": ""
+      "example": "Neem je identiteitsbewijs mee.",
+      "example_ru": "Возьми с собой удостоверение личности.",
+      "example_en": "Bring your identity document with you."
     },
     {
       "type_en": "noun",
@@ -104,7 +128,9 @@
       "dutch": "de inboedelverzekering, inboedelverzekeringen",
       "russian": "страхование домашнего имущества",
       "english": "contents insurance",
-      "example": ""
+      "example": "De inboedelverzekering dekt brand en diefstal.",
+      "example_ru": "Страхование домашнего имущества покрывает пожар и кражу.",
+      "example_en": "Contents insurance covers fire and theft."
     },
     {
       "type_en": "noun",
@@ -112,7 +138,9 @@
       "dutch": "de inburgeraar, inburgeraars",
       "russian": "участник программы интеграции",
       "english": "integration programme participant",
-      "example": ""
+      "example": "De inburgeraar volgt een cursus Nederlands.",
+      "example_ru": "Участник программы интеграции посещает курс нидерландского.",
+      "example_en": "The integration participant takes a Dutch course."
     },
     {
       "type_en": "noun",
@@ -120,7 +148,9 @@
       "dutch": "de IND (Immigratie- en Naturalisatiedienst), —",
       "russian": "Служба иммиграции и натурализации",
       "english": "Immigration and Naturalisation Service",
-      "example": ""
+      "example": "De IND beslist over de verblijfsvergunning.",
+      "example_ru": "Служба иммиграции решает вопрос о виде на жительство.",
+      "example_en": "The IND decides on the residence permit."
     },
     {
       "type_en": "noun",
@@ -128,7 +158,9 @@
       "dutch": "de inkomstenbelasting, inkomstenbelastingen",
       "russian": "подоходный налог",
       "english": "income tax",
-      "example": ""
+      "example": "Je betaalt inkomstenbelasting over je salaris.",
+      "example_ru": "Ты платишь подоходный налог со своей зарплаты.",
+      "example_en": "You pay income tax on your salary."
     },
     {
       "type_en": "noun",
@@ -136,7 +168,9 @@
       "dutch": "de instantie, instanties",
       "russian": "учреждение",
       "english": "authority",
-      "example": ""
+      "example": "Welke instantie kan mij helpen?",
+      "example_ru": "Какое учреждение может мне помочь?",
+      "example_en": "Which authority can help me?"
     },
     {
       "type_en": "noun",
@@ -144,7 +178,9 @@
       "dutch": "het Juridisch Loket, —",
       "russian": "юридическая консультация",
       "english": "Legal Services Desk",
-      "example": ""
+      "example": "Het Juridisch Loket geeft gratis advies.",
+      "example_ru": "Юридическая консультация даёт бесплатные советы.",
+      "example_en": "The Legal Services Desk gives free advice."
     },
     {
       "type_en": "noun",
@@ -152,7 +188,9 @@
       "dutch": "de klacht, klachten",
       "russian": "жалоба",
       "english": "complaint",
-      "example": ""
+      "example": "Zij dient een klacht in bij de gemeente.",
+      "example_ru": "Она подаёт жалобу в муниципалитет.",
+      "example_en": "She files a complaint with the municipality."
     },
     {
       "type_en": "noun",
@@ -160,7 +198,9 @@
       "dutch": "het maatschappelijk werk, —",
       "russian": "социальная работа",
       "english": "social work",
-      "example": ""
+      "example": "Het maatschappelijk werk helpt bij problemen thuis.",
+      "example_ru": "Социальная работа помогает при проблемах дома.",
+      "example_en": "Social work helps with problems at home."
     },
     {
       "type_en": "noun",
@@ -168,7 +208,9 @@
       "dutch": "de migrant, migranten",
       "russian": "мигрант",
       "english": "migrant",
-      "example": ""
+      "example": "De migrant komt uit Syrië.",
+      "example_ru": "Мигрант приехал из Сирии.",
+      "example_en": "The migrant comes from Syria."
     },
     {
       "type_en": "noun",
@@ -176,7 +218,9 @@
       "dutch": "de nationaliteit, nationaliteiten",
       "russian": "гражданство",
       "english": "nationality",
-      "example": ""
+      "example": "Welke nationaliteit heb jij?",
+      "example_ru": "Какое у тебя гражданство?",
+      "example_en": "What nationality do you have?"
     },
     {
       "type_en": "noun",
@@ -184,7 +228,9 @@
       "dutch": "de naturalisatie, naturalisaties",
       "russian": "натурализация",
       "english": "naturalisation",
-      "example": ""
+      "example": "Na naturalisatie krijg je een Nederlands paspoort.",
+      "example_ru": "После натурализации ты получаешь нидерландский паспорт.",
+      "example_en": "After naturalisation you get a Dutch passport."
     },
     {
       "type_en": "noun",
@@ -192,7 +238,9 @@
       "dutch": "de ombudsman, ombudsmannen",
       "russian": "омбудсмен",
       "english": "ombudsman",
-      "example": ""
+      "example": "De ombudsman behandelt klachten over de overheid.",
+      "example_ru": "Омбудсмен рассматривает жалобы на государство.",
+      "example_en": "The ombudsman handles complaints about the government."
     },
     {
       "type_en": "noun",
@@ -200,7 +248,9 @@
       "dutch": "de onbepaalde tijd, onbepaalde tijden",
       "russian": "неопределённый срок",
       "english": "indefinite term",
-      "example": ""
+      "example": "Hij heeft een contract voor onbepaalde tijd.",
+      "example_ru": "У него контракт на неопределённый срок.",
+      "example_en": "He has a contract for an indefinite term."
     },
     {
       "type_en": "noun",
@@ -208,7 +258,9 @@
       "dutch": "de opstalverzekering, opstalverzekeringen",
       "russian": "страхование недвижимости",
       "english": "building insurance",
-      "example": ""
+      "example": "De opstalverzekering is voor je huis.",
+      "example_ru": "Страхование недвижимости — для твоего дома.",
+      "example_en": "Building insurance is for your house."
     },
     {
       "type_en": "noun",
@@ -216,7 +268,9 @@
       "dutch": "de organisatie, organisaties",
       "russian": "организация",
       "english": "organization",
-      "example": ""
+      "example": "De organisatie helpt nieuwe migranten.",
+      "example_ru": "Организация помогает новым мигрантам.",
+      "example_en": "The organization helps new migrants."
     },
     {
       "type_en": "noun",
@@ -224,7 +278,9 @@
       "dutch": "de overheid, overheden",
       "russian": "государство",
       "english": "government",
-      "example": ""
+      "example": "De overheid geeft toeslagen aan burgers.",
+      "example_ru": "Государство выплачивает пособия гражданам.",
+      "example_en": "The government gives allowances to citizens."
     },
     {
       "type_en": "noun",
@@ -232,7 +288,9 @@
       "dutch": "de polis, polissen",
       "russian": "страховой полис",
       "english": "insurance policy",
-      "example": ""
+      "example": "Lees de polis goed door.",
+      "example_ru": "Внимательно прочитай полис.",
+      "example_en": "Read the policy carefully."
     },
     {
       "type_en": "noun",
@@ -240,15 +298,19 @@
       "dutch": "de privacy, —",
       "russian": "неприкосновенность частной жизни",
       "english": "privacy",
-      "example": ""
+      "example": "Je privacy is beschermd door de wet.",
+      "example_ru": "Твоя частная жизнь защищена законом.",
+      "example_en": "Your privacy is protected by law."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
       "dutch": "het rijbewijs, rijbewijzen",
       "russian": "водительские права",
-      "english": "driver’s license",
-      "example": ""
+      "english": "driver's license",
+      "example": "Mijn rijbewijs is nog vijf jaar geldig.",
+      "example_ru": "Мои водительские права действительны ещё пять лет.",
+      "example_en": "My driver's license is valid for five more years."
     },
     {
       "type_en": "noun",
@@ -256,7 +318,9 @@
       "dutch": "de schade, —",
       "russian": "ущерб",
       "english": "damage",
-      "example": ""
+      "example": "De schade aan de auto is groot.",
+      "example_ru": "Ущерб автомобилю большой.",
+      "example_en": "The damage to the car is significant."
     },
     {
       "type_en": "noun",
@@ -264,7 +328,9 @@
       "dutch": "de schuld, schulden",
       "russian": "долги",
       "english": "debts",
-      "example": ""
+      "example": "Hij heeft veel schulden bij de bank.",
+      "example_ru": "У него много долгов в банке.",
+      "example_en": "He has many debts at the bank."
     },
     {
       "type_en": "noun",
@@ -272,7 +338,9 @@
       "dutch": "de statushouder, statushouders",
       "russian": "обладатель статуса беженца",
       "english": "residence permit holder",
-      "example": ""
+      "example": "De statushouder zoekt een woning.",
+      "example_ru": "Обладатель статуса беженца ищет жильё.",
+      "example_en": "The residence permit holder is looking for housing."
     },
     {
       "type_en": "noun",
@@ -280,7 +348,9 @@
       "dutch": "de toeslag, toeslagen",
       "russian": "пособие",
       "english": "allowance",
-      "example": ""
+      "example": "Zij vraagt een toeslag aan bij de overheid.",
+      "example_ru": "Она подаёт заявку на пособие в государственный орган.",
+      "example_en": "She applies for an allowance from the government."
     },
     {
       "type_en": "noun",
@@ -288,7 +358,9 @@
       "dutch": "de verblijfsvergunning, verblijfsvergunningen",
       "russian": "вид на жительство",
       "english": "residence permit",
-      "example": ""
+      "example": "De verblijfsvergunning is vijf jaar geldig.",
+      "example_ru": "Вид на жительство действителен пять лет.",
+      "example_en": "The residence permit is valid for five years."
     },
     {
       "type_en": "verb",
@@ -296,7 +368,9 @@
       "dutch": "verlengen, verlengd",
       "russian": "продлевать",
       "english": "to extend",
-      "example": ""
+      "example": "Ik verleng mijn paspoort bij de gemeente.",
+      "example_ru": "Я продлеваю паспорт в муниципалитете.",
+      "example_en": "I renew my passport at the municipality."
     },
     {
       "type_en": "noun",
@@ -304,7 +378,9 @@
       "dutch": "de verzekering, verzekeringen",
       "russian": "страхование",
       "english": "insurance",
-      "example": ""
+      "example": "De verzekering betaalt voor de schade.",
+      "example_ru": "Страховка оплачивает ущерб.",
+      "example_en": "The insurance pays for the damage."
     },
     {
       "type_en": "noun",
@@ -312,7 +388,9 @@
       "dutch": "de verzekeringsmaatschappij, verzekeringsmaatschappijen",
       "russian": "страховая компания",
       "english": "insurance company",
-      "example": ""
+      "example": "De verzekeringsmaatschappij stuurt de polis op.",
+      "example_ru": "Страховая компания высылает полис.",
+      "example_en": "The insurance company sends the policy."
     },
     {
       "type_en": "noun",
@@ -320,7 +398,9 @@
       "dutch": "de WA-verzekering (wettelijke aansprakelijkheid), WA-verzekeringen",
       "russian": "страхование гражданской ответственности",
       "english": "third-party liability insurance",
-      "example": ""
+      "example": "Een WA-verzekering is handig bij schade.",
+      "example_ru": "Страхование гражданской ответственности полезно при ущербе.",
+      "example_en": "Third-party liability insurance is useful in case of damage."
     }
   ]
 }

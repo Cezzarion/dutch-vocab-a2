@@ -20,14 +20,14 @@ const copy = {
     exit: 'Выйти', progress: 'Прогресс сессии', correct: 'Правильно', incorrect: 'Неправильно',
     markEasy: 'Убрать', markedEasy: 'Убрано', back: 'Назад', next: 'Дальше',
     completed: 'Все слова пройдены!', description: 'Вы завершили этот набор слов.',
-    finish: 'На главную', question: 'Вопрос',
+    finish: 'На главную', question: 'Вопрос', exampleLabel: 'Пример',
   },
   en: {
     title: 'Test', language: 'Interface language', direction: 'Word direction',
     exit: 'Exit', progress: 'Session progress', correct: 'Correct', incorrect: 'Incorrect',
     markEasy: 'Remove', markedEasy: 'Removed', back: 'Back', next: 'Next',
     completed: 'All words completed!', description: 'You have finished this vocabulary set.',
-    finish: 'Back to start', question: 'Question',
+    finish: 'Back to start', question: 'Question', exampleLabel: 'Example',
   },
 } satisfies Record<Locale, Record<string, string>>
 
@@ -61,14 +61,14 @@ export default function TestSession({
     return { entry, options: shuffleEntries([entry, ...distractors]) }
   }))
   const [questionIndex, setQuestionIndex] = useState(0)
-  const [seenCount, setSeenCount] = useState(0)
   const [results, setResults] = useState<Record<number, { selectedKey: string; isCorrect: boolean }>>({})
   const [correctCount, setCorrectCount] = useState(0)
   const [incorrectCount, setIncorrectCount] = useState(0)
 
   const currentQuestion = questions[questionIndex]
   const currentEntry = currentQuestion?.entry
-  const isComplete = questionIndex >= questions.length
+  const answeredCount = Object.keys(results).length
+  const isComplete = answeredCount === questions.length
   const strings = copy[locale]
   const currentResult = results[questionIndex]
   const isEasy = currentEntry ? easyWordKeys.has(getVocabularyEntryKey(currentEntry)) : false
@@ -84,8 +84,6 @@ export default function TestSession({
   }
 
   function advance() {
-    if (!currentResult) return
-    setSeenCount((count) => Math.max(count, questionIndex + 1))
     setQuestionIndex((index) => index + 1)
   }
 
@@ -101,7 +99,6 @@ export default function TestSession({
       setResults((current) => ({ ...current, [questionIndex]: { selectedKey: currentKey, isCorrect: true } }))
       setCorrectCount((count) => count + 1)
     }
-    setSeenCount((count) => Math.max(count, questionIndex + 1))
     setQuestionIndex((index) => index + 1)
   }
 
@@ -131,10 +128,10 @@ export default function TestSession({
         <section aria-label={strings.title} className="test-session">
           <div className="progress-row">
             <span className="progress-label">{strings.progress}</span>
-            <span className="progress-count">{seenCount} / {questions.length}</span>
+            <span className="progress-count">{answeredCount} / {questions.length}</span>
             <div aria-label={strings.progress} aria-valuemax={questions.length} aria-valuemin={0}
-              aria-valuenow={seenCount} className="progress-track" role="progressbar">
-              <span className="progress-fill" style={{ width: `${(seenCount / questions.length) * 100}%` }} />
+              aria-valuenow={answeredCount} className="progress-track" role="progressbar">
+              <span className="progress-fill" style={{ width: `${(answeredCount / questions.length) * 100}%` }} />
             </div>
           </div>
 
@@ -143,23 +140,40 @@ export default function TestSession({
             <span className="test-score-incorrect">{strings.incorrect}: <strong>{incorrectCount}</strong></span>
           </div>
 
-          {isComplete ? (
-            <div className="session-complete">
-              <span aria-hidden="true" className="completion-mark">✓</span>
-              <h1>{strings.completed}</h1>
-              <p>{strings.description}</p>
-              <p className="test-final-score">{strings.correct}: {correctCount} · {strings.incorrect}: {incorrectCount}</p>
-              <button className="next-button" onClick={onExit} type="button">{strings.finish}</button>
-            </div>
-          ) : currentEntry ? (
-            <div className="test-stage">
+          <div className="test-stage">
+           {isComplete ? (
+             <div className="test-question">
+              <div className="session-complete-inline">
+                <span aria-hidden="true" className="completion-mark">✓</span>
+                <h1>{strings.completed}</h1>
+                <p>{strings.description}</p>
+                <p className="test-final-score">{strings.correct}: {correctCount} · {strings.incorrect}: {incorrectCount}</p>
+              </div>
+              <div className="card-navigation test-navigation">
+                <button className="next-button" disabled={questionIndex === 0} onClick={goBack}
+                  type="button"><span aria-hidden="true">←</span>{strings.back}</button>
+              </div>
+             </div>
+           ) : currentEntry ? (
              <div className="test-question">
               <div className="test-prompt">
                 <span className="flashcard-side-label">{strings.question}</span>
                 <h1>{promptFor(currentEntry, locale, direction)}</h1>
-                {direction === 'dutch-to-translation' && currentEntry.example && (
+                {direction === 'dutch-to-translation' && currentEntry.example && <>
+                  <span className="flashcard-side-label">{strings.exampleLabel}</span>
                   <p className="test-example">{currentEntry.example}</p>
-                )}
+                </>}
+                {currentResult && currentEntry.example && <>
+                  {direction !== 'dutch-to-translation' && <>
+                    <span className="flashcard-side-label">{strings.exampleLabel}</span>
+                    <p className="test-example">{currentEntry.example}</p>
+                  </>}
+                  {(locale === 'ru' ? currentEntry.example_ru : currentEntry.example_en) && (
+                    <p className="test-example flashcard-example-translation">
+                      {locale === 'ru' ? currentEntry.example_ru : currentEntry.example_en}
+                    </p>
+                  )}
+                </>}
               </div>
               <div aria-label={strings.title} className="answer-options">
                 {options.map((option) => {
@@ -188,13 +202,13 @@ export default function TestSession({
                   onClick={markEasy} type="button">{isEasy ? strings.markedEasy : strings.markEasy}</button>
                 <button className="next-button" disabled={questionIndex === 0} onClick={goBack}
                   type="button"><span aria-hidden="true">←</span>{strings.back}</button>
-                <button className="next-button" disabled={!currentResult} onClick={advance}
+                <button className="next-button" onClick={advance}
                   type="button">{strings.next}<span aria-hidden="true">→</span></button>
               </div>
              </div>
-              <button className="exit-button test-exit-button" onClick={onExit} type="button">{strings.exit}</button>
-            </div>
-          ) : null}
+           ) : null}
+            <button className="exit-button test-exit-button" onClick={onExit} type="button">{isComplete ? strings.finish : strings.exit}</button>
+          </div>
         </section>
       </div>
     </main>

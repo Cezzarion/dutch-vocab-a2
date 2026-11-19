@@ -8,7 +8,9 @@
       "dutch": "het afval, —",
       "russian": "мусор",
       "english": "waste",
-      "example": ""
+      "example": "Gooi het afval in de bak.",
+      "example_ru": "Выбрось мусор в контейнер.",
+      "example_en": "Throw the waste in the bin."
     },
     {
       "type_en": "noun",
@@ -16,7 +18,9 @@
       "dutch": "de afvalstoffenheffing, afvalstoffenheffingen",
       "russian": "сбор за вывоз отходов",
       "english": "waste collection tax",
-      "example": ""
+      "example": "De afvalstoffenheffing betaal je per jaar.",
+      "example_ru": "Сбор за вывоз отходов платится ежегодно.",
+      "example_en": "You pay the waste collection tax per year."
     },
     {
       "type_en": "verb",
@@ -24,7 +28,9 @@
       "dutch": "beschermen, beschermd",
       "russian": "защищать",
       "english": "to protect",
-      "example": ""
+      "example": "De dijken beschermen het land.",
+      "example_ru": "Дамбы защищают территорию.",
+      "example_en": "The dikes protect the land."
     },
     {
       "type_en": "verb",
@@ -32,7 +38,9 @@
       "dutch": "besparen, bespaard",
       "russian": "экономить",
       "english": "to save",
-      "example": ""
+      "example": "Wij besparen op energie.",
+      "example_ru": "Мы экономим на энергии.",
+      "example_en": "We save on energy."
     },
     {
       "type_en": "noun",
@@ -40,7 +48,9 @@
       "dutch": "de dijk, dijken",
       "russian": "дамба",
       "english": "dike",
-      "example": ""
+      "example": "De dijk houdt het water tegen.",
+      "example_ru": "Дамба сдерживает воду.",
+      "example_en": "The dike holds back the water."
     },
     {
       "type_en": "noun",
@@ -48,7 +58,9 @@
       "dutch": "de eengezinswoning, eengezinswoningen",
       "russian": "односемейный дом",
       "english": "single-family home",
-      "example": ""
+      "example": "De eengezinswoning heeft een tuin.",
+      "example_ru": "У односемейного дома есть сад.",
+      "example_en": "The single-family home has a garden."
     },
     {
       "type_en": "noun",
@@ -56,7 +68,9 @@
       "dutch": "de energie, energieën",
       "russian": "энергия",
       "english": "energy",
-      "example": ""
+      "example": "De energie wordt steeds duurder.",
+      "example_ru": "Энергия становится всё дороже.",
+      "example_en": "Energy is getting more and more expensive."
     },
     {
       "type_en": "noun",
@@ -64,7 +78,9 @@
       "dutch": "het energiecontract, energiecontracten",
       "russian": "договор на поставку энергии",
       "english": "energy contract",
-      "example": ""
+      "example": "Het energiecontract loopt tot maart.",
+      "example_ru": "Договор на энергию действует до марта.",
+      "example_en": "The energy contract runs until March."
     },
     {
       "type_en": "noun",
@@ -72,7 +88,9 @@
       "dutch": "de Europese Unie (EU), —",
       "russian": "Европейский союз",
       "english": "European Union",
-      "example": ""
+      "example": "Nederland is lid van de EU.",
+      "example_ru": "Нидерланды — член ЕС.",
+      "example_en": "The Netherlands is a member of the EU."
     },
     {
       "type_en": "noun",
@@ -80,7 +98,9 @@
       "dutch": "de haven, havens",
       "russian": "порт",
       "english": "port",
-      "example": ""
+      "example": "De haven van Rotterdam is groot.",
+      "example_ru": "Порт Роттердама большой.",
+      "example_en": "The port of Rotterdam is large."
     },
     {
       "type_en": "noun",
@@ -88,7 +108,9 @@
       "dutch": "de hoofdstad, hoofdsteden",
       "russian": "столица",
       "english": "capital city",
-      "example": ""
+      "example": "Amsterdam is de hoofdstad.",
+      "example_ru": "Амстердам — столица.",
+      "example_en": "Amsterdam is the capital."
     },
     {
       "type_en": "noun",
@@ -96,7 +118,9 @@
       "dutch": "het huurcontract, huurcontracten",
       "russian": "договор аренды",
       "english": "rental contract",
-      "example": ""
+      "example": "Het huurcontract is voor één jaar.",
+      "example_ru": "Договор аренды заключён на один год.",
+      "example_en": "The rental contract is for one year."
     },
     {
       "type_en": "noun",
@@ -104,7 +128,9 @@
       "dutch": "de huurtoeslag, huurtoeslagen",
       "russian": "пособие на аренду жилья",
       "english": "rent allowance",
-      "example": ""
+      "example": "Zij vraagt huurtoeslag aan.",
+      "example_ru": "Она подаёт заявление на жилищное пособие.",
+      "example_en": "She applies for rent allowance."
     },
     {
       "type_en": "noun",
@@ -112,7 +138,9 @@
       "dutch": "de hypotheek, hypotheken",
       "russian": "ипотека",
       "english": "mortgage",
-      "example": ""
+      "example": "De hypotheek is voor dertig jaar.",
+      "example_ru": "Ипотека оформлена на тридцать лет.",
+      "example_en": "The mortgage is for thirty years."
     },
     {
       "type_en": "noun",
@@ -120,7 +148,9 @@
       "dutch": "de inwoner, inwoners",
       "russian": "житель",
       "english": "inhabitant",
-      "example": ""
+      "example": "Amsterdam heeft veel inwoners.",
+      "example_ru": "В Амстердаме много жителей.",
+      "example_en": "Amsterdam has many inhabitants."
     },
     {
       "type_en": "noun",
@@ -128,7 +158,9 @@
       "dutch": "de kwijtschelding, kwijtscheldingen",
       "russian": "освобождение от уплаты",
       "english": "remission",
-      "example": ""
+      "example": "Hij vraagt kwijtschelding aan bij de gemeente.",
+      "example_ru": "Он подаёт заявление на освобождение от уплаты в муниципалитет.",
+      "example_en": "He applies for remission at the municipality."
     },
     {
       "type_en": "noun",
@@ -136,7 +168,9 @@
       "dutch": "de leverancier, leveranciers",
       "russian": "поставщик",
       "english": "supplier",
-      "example": ""
+      "example": "De leverancier levert gas en stroom.",
+      "example_ru": "Поставщик поставляет газ и электричество.",
+      "example_en": "The supplier delivers gas and electricity."
     },
     {
       "type_en": "noun",
@@ -144,7 +178,9 @@
       "dutch": "de makelaar, makelaars",
       "russian": "агент по недвижимости",
       "english": "real estate agent",
-      "example": ""
+      "example": "De makelaar laat het huis zien.",
+      "example_ru": "Агент по недвижимости показывает дом.",
+      "example_en": "The real estate agent shows the house."
     },
     {
       "type_en": "noun",
@@ -152,7 +188,9 @@
       "dutch": "de meterstand, meterstanden",
       "russian": "показания счётчика",
       "english": "meter reading",
-      "example": ""
+      "example": "Geef de meterstand elke maand door.",
+      "example_ru": "Передавай показания счётчика каждый месяц.",
+      "example_en": "Report the meter reading every month."
     },
     {
       "type_en": "noun",
@@ -160,7 +198,9 @@
       "dutch": "het milieu, —",
       "russian": "окружающая среда",
       "english": "environment",
-      "example": ""
+      "example": "Recyclen is goed voor het milieu.",
+      "example_ru": "Переработка полезна для окружающей среды.",
+      "example_en": "Recycling is good for the environment."
     },
     {
       "type_en": "noun",
@@ -168,7 +208,9 @@
       "dutch": "de notaris, notarissen",
       "russian": "нотариус",
       "english": "notary",
-      "example": ""
+      "example": "De notaris tekent het koopcontract.",
+      "example_ru": "Нотариус подписывает договор купли-продажи.",
+      "example_en": "The notary signs the purchase contract."
     },
     {
       "type_en": "noun",
@@ -176,7 +218,9 @@
       "dutch": "het onderhoud, —",
       "russian": "обслуживание",
       "english": "maintenance",
-      "example": ""
+      "example": "Het onderhoud is voor de verhuurder.",
+      "example_ru": "Обслуживание — обязанность арендодателя.",
+      "example_en": "Maintenance is the landlord's responsibility."
     },
     {
       "type_en": "verb",
@@ -184,7 +228,9 @@
       "dutch": "onderhouden, onderhouden",
       "russian": "обслуживать",
       "english": "to maintain",
-      "example": ""
+      "example": "De verhuurder onderhoudt het pand.",
+      "example_ru": "Арендодатель обслуживает здание.",
+      "example_en": "The landlord maintains the building."
     },
     {
       "type_en": "noun",
@@ -192,7 +238,9 @@
       "dutch": "de onroerendezaakbelasting (OZB), onroerendezaakbelastingen (OZB)",
       "russian": "налог на недвижимость",
       "english": "property tax",
-      "example": ""
+      "example": "De OZB betaal je elk jaar.",
+      "example_ru": "Налог на недвижимость платится ежегодно.",
+      "example_en": "You pay property tax every year."
     },
     {
       "type_en": "noun",
@@ -200,7 +248,9 @@
       "dutch": "het openbaar vervoer (OV), —",
       "russian": "общественный транспорт",
       "english": "public transport",
-      "example": ""
+      "example": "Het OV rijdt hier vaak.",
+      "example_ru": "Общественный транспорт здесь ходит часто.",
+      "example_en": "Public transport runs frequently here."
     },
     {
       "type_en": "verb",
@@ -208,7 +258,9 @@
       "dutch": "opzeggen, opgezegd",
       "russian": "расторгать",
       "english": "to cancel",
-      "example": ""
+      "example": "Zij zegt het contract op.",
+      "example_ru": "Она расторгает контракт.",
+      "example_en": "She cancels the contract."
     },
     {
       "type_en": "noun",
@@ -216,7 +268,9 @@
       "dutch": "de overstroming, overstromingen",
       "russian": "наводнение",
       "english": "flood",
-      "example": ""
+      "example": "De overstroming richtte veel schade aan.",
+      "example_ru": "Наводнение нанесло большой ущерб.",
+      "example_en": "The flood caused a lot of damage."
     },
     {
       "type_en": "noun",
@@ -224,7 +278,9 @@
       "dutch": "de polder, polders",
       "russian": "польдер",
       "english": "polder",
-      "example": ""
+      "example": "De polder ligt onder zeeniveau.",
+      "example_ru": "Польдер расположен ниже уровня моря.",
+      "example_en": "The polder lies below sea level."
     },
     {
       "type_en": "noun",
@@ -232,7 +288,9 @@
       "dutch": "de provincie, provincies",
       "russian": "провинция",
       "english": "province",
-      "example": ""
+      "example": "Nederland heeft twaalf provincies.",
+      "example_ru": "В Нидерландах двенадцать провинций.",
+      "example_en": "The Netherlands has twelve provinces."
     },
     {
       "type_en": "noun",
@@ -240,7 +298,9 @@
       "dutch": "de regering, regeringen",
       "russian": "правительство",
       "english": "government",
-      "example": ""
+      "example": "De regering zit in Den Haag.",
+      "example_ru": "Правительство находится в Гааге.",
+      "example_en": "The government is in The Hague."
     },
     {
       "type_en": "noun",
@@ -248,7 +308,9 @@
       "dutch": "het riool, riolen",
       "russian": "канализация",
       "english": "sewer",
-      "example": ""
+      "example": "Het riool loopt onder de straat.",
+      "example_ru": "Канализация проходит под улицей.",
+      "example_en": "The sewer runs under the street."
     },
     {
       "type_en": "verb",
@@ -256,7 +318,9 @@
       "dutch": "scheiden (afval), gescheiden",
       "russian": "сортировать (отходы)",
       "english": "to separate (waste)",
-      "example": ""
+      "example": "Wij scheiden ons afval thuis.",
+      "example_ru": "Мы сортируем мусор дома.",
+      "example_en": "We separate our waste at home."
     },
     {
       "type_en": "noun",
@@ -264,7 +328,9 @@
       "dutch": "de sociale huur, —",
       "russian": "социальная аренда жилья",
       "english": "social housing",
-      "example": ""
+      "example": "De sociale huur is goedkoper.",
+      "example_ru": "Социальная аренда дешевле.",
+      "example_en": "Social housing is cheaper."
     },
     {
       "type_en": "noun",
@@ -272,7 +338,9 @@
       "dutch": "het statiegeld, —",
       "russian": "залог за тару",
       "english": "deposit",
-      "example": ""
+      "example": "Je krijgt statiegeld terug bij de winkel.",
+      "example_ru": "Ты получишь залог обратно в магазине.",
+      "example_en": "You get the deposit back at the store."
     },
     {
       "type_en": "noun",
@@ -280,7 +348,9 @@
       "dutch": "de storing, storingen",
       "russian": "неисправность",
       "english": "malfunction",
-      "example": ""
+      "example": "Er is een storing in de lift.",
+      "example_ru": "В лифте неисправность.",
+      "example_en": "There is a malfunction in the elevator."
     },
     {
       "type_en": "noun",
@@ -288,7 +358,9 @@
       "dutch": "de urgentieverklaring, urgentieverklaringen",
       "russian": "справка о срочной необходимости жилья",
       "english": "urgency declaration",
-      "example": ""
+      "example": "Met een urgentieverklaring vind je sneller een woning.",
+      "example_ru": "Со справкой о срочности ты быстрее найдёшь жильё.",
+      "example_en": "With an urgency declaration you find housing faster."
     },
     {
       "type_en": "noun",
@@ -296,7 +368,9 @@
       "dutch": "de verhuurder, verhuurders",
       "russian": "арендодатель",
       "english": "landlord",
-      "example": ""
+      "example": "De verhuurder repareert de verwarming.",
+      "example_ru": "Арендодатель ремонтирует отопление.",
+      "example_en": "The landlord repairs the heating."
     },
     {
       "type_en": "noun",
@@ -304,7 +378,9 @@
       "dutch": "de vertraging, vertragingen",
       "russian": "задержка",
       "english": "delay",
-      "example": ""
+      "example": "De trein heeft tien minuten vertraging.",
+      "example_ru": "Поезд опаздывает на десять минут.",
+      "example_en": "The train has a ten-minute delay."
     },
     {
       "type_en": "noun",
@@ -312,7 +388,9 @@
       "dutch": "het vervoersbewijs, vervoersbewijzen",
       "russian": "проездной документ",
       "english": "transport ticket",
-      "example": ""
+      "example": "Neem je vervoersbewijs altijd mee.",
+      "example_ru": "Всегда бери с собой проездной.",
+      "example_en": "Always take your transport ticket with you."
     },
     {
       "type_en": "noun",
@@ -320,7 +398,9 @@
       "dutch": "de verzekering, verzekeringen",
       "russian": "страхование",
       "english": "insurance",
-      "example": ""
+      "example": "De verzekering dekt de schade.",
+      "example_ru": "Страховка покрывает ущерб.",
+      "example_en": "The insurance covers the damage."
     },
     {
       "type_en": "noun",
@@ -328,7 +408,9 @@
       "dutch": "de vrije sector, vrije sectoren",
       "russian": "свободный сегмент",
       "english": "unregulated rental sector",
-      "example": ""
+      "example": "De vrije sector is vaak duurder.",
+      "example_ru": "Свободный сегмент часто дороже.",
+      "example_en": "The unregulated sector is often more expensive."
     },
     {
       "type_en": "noun",
@@ -336,7 +418,9 @@
       "dutch": "de woningcorporatie, woningcorporaties",
       "russian": "жилищная корпорация",
       "english": "housing association",
-      "example": ""
+      "example": "De woningcorporatie verhuurt sociale woningen.",
+      "example_ru": "Жилищная корпорация сдаёт социальное жильё.",
+      "example_en": "The housing association rents out social housing."
     },
     {
       "type_en": "noun",
@@ -344,7 +428,9 @@
       "dutch": "de woningzoekende, woningzoekenden",
       "russian": "человек, ищущий жильё",
       "english": "house seeker",
-      "example": ""
+      "example": "De woningzoekende schrijft zich in.",
+      "example_ru": "Ищущий жильё регистрируется.",
+      "example_en": "The house seeker registers."
     },
     {
       "type_en": "noun",
@@ -352,7 +438,9 @@
       "dutch": "de zeespiegel, zeespiegels",
       "russian": "уровень моря",
       "english": "sea level",
-      "example": ""
+      "example": "Nederland ligt deels onder de zeespiegel.",
+      "example_ru": "Нидерланды частично расположены ниже уровня моря.",
+      "example_en": "The Netherlands is partly below sea level."
     }
   ]
 }

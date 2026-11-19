@@ -13,8 +13,10 @@ function parseEntry(value: unknown, file: string): VocabularyEntry {
   if (!isObject(value) || !fields.every((field) => isNonEmptyString(value[field]))) {
     throw new Error(`Invalid vocabulary entry in ${file}: expected non-empty string fields ${fields.join(', ')}`)
   }
-  if (value.example !== undefined && typeof value.example !== 'string') {
-    throw new Error(`Invalid vocabulary entry in ${file}: example must be a string when provided`)
+  for (const optional of ['example', 'example_ru', 'example_en'] as const) {
+    if (value[optional] !== undefined && typeof value[optional] !== 'string') {
+      throw new Error(`Invalid vocabulary entry in ${file}: ${optional} must be a string when provided`)
+    }
   }
 
   return {
@@ -24,6 +26,8 @@ function parseEntry(value: unknown, file: string): VocabularyEntry {
     russian: value.russian as string,
     english: value.english as string,
     ...(isNonEmptyString(value.example) ? { example: value.example } : {}),
+    ...(isNonEmptyString(value.example_ru) ? { example_ru: value.example_ru } : {}),
+    ...(isNonEmptyString(value.example_en) ? { example_en: value.example_en } : {}),
   }
 }
 

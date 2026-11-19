@@ -8,7 +8,9 @@
       "dutch": "de aanvullende verzekering, aanvullende verzekeringen",
       "russian": "дополнительная страховка",
       "english": "supplementary insurance",
-      "example": ""
+      "example": "De aanvullende verzekering dekt de tandarts.",
+      "example_ru": "Дополнительная страховка покрывает стоматолога.",
+      "example_en": "The supplementary insurance covers the dentist."
     },
     {
       "type_en": "noun",
@@ -16,7 +18,9 @@
       "dutch": "de abortus, abortussen",
       "russian": "аборт",
       "english": "abortion",
-      "example": ""
+      "example": "De abortus is wettelijk toegestaan in Nederland.",
+      "example_ru": "Аборт разрешён законом в Нидерландах.",
+      "example_en": "Abortion is legally permitted in the Netherlands."
     },
     {
       "type_en": "noun",
@@ -24,7 +28,9 @@
       "dutch": "het alarmnummer, alarmnummers",
       "russian": "номер экстренного вызова",
       "english": "emergency number",
-      "example": ""
+      "example": "Het alarmnummer in Nederland is 112.",
+      "example_ru": "Номер экстренного вызова в Нидерландах — 112.",
+      "example_en": "The emergency number in the Netherlands is 112."
     },
     {
       "type_en": "noun",
@@ -32,7 +38,9 @@
       "dutch": "de basisverzekering, basisverzekeringen",
       "russian": "базовая медицинская страховка",
       "english": "basic health insurance",
-      "example": ""
+      "example": "De basisverzekering is verplicht voor iedereen.",
+      "example_ru": "Базовая медицинская страховка обязательна для всех.",
+      "example_en": "Basic health insurance is mandatory for everyone."
     },
     {
       "type_en": "noun",
@@ -40,7 +48,9 @@
       "dutch": "het beroepsgeheim, beroepsgeheimen",
       "russian": "профессиональная тайна",
       "english": "professional confidentiality",
-      "example": ""
+      "example": "De arts heeft een beroepsgeheim.",
+      "example_ru": "У врача есть профессиональная тайна.",
+      "example_en": "The doctor has professional confidentiality."
     },
     {
       "type_en": "noun",
@@ -48,7 +58,9 @@
       "dutch": "de besnijdenis, besnijdenissen",
       "russian": "обрезание",
       "english": "circumcision",
-      "example": ""
+      "example": "De besnijdenis van meisjes is verboden.",
+      "example_ru": "Обрезание девочек запрещено.",
+      "example_en": "Female circumcision is prohibited."
     },
     {
       "type_en": "noun",
@@ -56,7 +68,9 @@
       "dutch": "het bezwaar, bezwaren",
       "russian": "возражение",
       "english": "objection",
-      "example": ""
+      "example": "Zij dient een bezwaar in.",
+      "example_ru": "Она подаёт возражение.",
+      "example_en": "She files an objection."
     },
     {
       "type_en": "verb",
@@ -64,7 +78,9 @@
       "dutch": "declareren, gedeclareerd",
       "russian": "предъявлять к оплате",
       "english": "to claim expenses",
-      "example": ""
+      "example": "Hij declareert de kosten bij de verzekering.",
+      "example_ru": "Он предъявляет расходы страховой компании.",
+      "example_en": "He claims the costs from the insurance."
     },
     {
       "type_en": "noun",
@@ -72,7 +88,9 @@
       "dutch": "de donor, donoren",
       "russian": "донор",
       "english": "donor",
-      "example": ""
+      "example": "De donor redt een leven.",
+      "example_ru": "Донор спасает жизнь.",
+      "example_en": "The donor saves a life."
     },
     {
       "type_en": "noun",
@@ -80,7 +98,9 @@
       "dutch": "het donorregister, donorregisters",
       "russian": "реестр доноров",
       "english": "donor registry",
-      "example": ""
+      "example": "Sta jij in het donorregister?",
+      "example_ru": "Ты записан в реестре доноров?",
+      "example_en": "Are you in the donor registry?"
     },
     {
       "type_en": "verb",
@@ -88,7 +108,9 @@
       "dutch": "doorverwijzen, doorverwezen",
       "russian": "направлять к специалисту",
       "english": "to refer",
-      "example": ""
+      "example": "De huisarts verwijst haar door naar een specialist.",
+      "example_ru": "Терапевт направляет её к специалисту.",
+      "example_en": "The GP refers her to a specialist."
     },
     {
       "type_en": "noun",
@@ -96,7 +118,9 @@
       "dutch": "het dossier, dossiers",
       "russian": "дело",
       "english": "file",
-      "example": ""
+      "example": "Het dossier ligt bij de huisarts.",
+      "example_ru": "Дело хранится у терапевта.",
+      "example_en": "The file is at the GP's office."
     },
     {
       "type_en": "noun",
@@ -104,7 +128,9 @@
       "dutch": "de eerwraak, —",
       "russian": "убийство чести",
       "english": "honour killing",
-      "example": ""
+      "example": "Eerwraak is strafbaar in Nederland.",
+      "example_ru": "Убийство чести наказуемо в Нидерландах.",
+      "example_en": "Honour killing is punishable in the Netherlands."
     },
     {
       "type_en": "noun",
@@ -112,15 +138,19 @@
       "dutch": "de eigen bijdrage, eigen bijdragen",
       "russian": "личный взнос",
       "english": "personal contribution",
-      "example": ""
+      "example": "De eigen bijdrage betaal je zelf.",
+      "example_ru": "Личный взнос ты платишь сам.",
+      "example_en": "You pay the personal contribution yourself."
     },
     {
       "type_en": "noun",
       "type_ru": "существительное",
-      "dutch": "het eigen risico, eigen risico’s",
+      "dutch": "het eigen risico, eigen risico's",
       "russian": "франшиза",
       "english": "deductible",
-      "example": ""
+      "example": "Het eigen risico is 385 euro per jaar.",
+      "example_ru": "Франшиза составляет 385 евро в год.",
+      "example_en": "The deductible is 385 euros per year."
     },
     {
       "type_en": "noun",
@@ -128,7 +158,9 @@
       "dutch": "de euthanasie, —",
       "russian": "эвтаназия",
       "english": "euthanasia",
-      "example": ""
+      "example": "Euthanasie is onder strikte regels toegestaan.",
+      "example_ru": "Эвтаназия разрешена при строгих условиях.",
+      "example_en": "Euthanasia is allowed under strict rules."
     },
     {
       "type_en": "noun",
@@ -136,7 +168,9 @@
       "dutch": "de fysiotherapeut, fysiotherapeuten",
       "russian": "физиотерапевт",
       "english": "physiotherapist",
-      "example": ""
+      "example": "De fysiotherapeut helpt met mijn rug.",
+      "example_ru": "Физиотерапевт помогает с моей спиной.",
+      "example_en": "The physiotherapist helps with my back."
     },
     {
       "type_en": "noun",
@@ -144,7 +178,9 @@
       "dutch": "de geestelijke gezondheidszorg (GGZ), —",
       "russian": "психиатрическая помощь",
       "english": "mental healthcare",
-      "example": ""
+      "example": "De GGZ helpt bij psychische problemen.",
+      "example_ru": "Психиатрическая служба помогает при психических проблемах.",
+      "example_en": "Mental healthcare helps with psychological problems."
     },
     {
       "type_en": "noun",
@@ -152,7 +188,9 @@
       "dutch": "het geweld, —",
       "russian": "насилие",
       "english": "violence",
-      "example": ""
+      "example": "Geweld in huis is strafbaar.",
+      "example_ru": "Насилие в доме наказуемо.",
+      "example_en": "Violence at home is punishable."
     },
     {
       "type_en": "noun",
@@ -160,7 +198,9 @@
       "dutch": "de gezondheidszorg, —",
       "russian": "здравоохранение",
       "english": "healthcare",
-      "example": ""
+      "example": "De gezondheidszorg is goed geregeld hier.",
+      "example_ru": "Здравоохранение здесь хорошо организовано.",
+      "example_en": "Healthcare is well organized here."
     },
     {
       "type_en": "noun",
@@ -168,7 +208,9 @@
       "dutch": "de huisartsenpost, huisartsenposten",
       "russian": "дежурная служба врачей общей практики",
       "english": "out-of-hours GP service",
-      "example": ""
+      "example": "De huisartsenpost is 's avonds open.",
+      "example_ru": "Дежурная служба терапевтов работает вечером.",
+      "example_en": "The out-of-hours GP service is open in the evening."
     },
     {
       "type_en": "noun",
@@ -176,7 +218,9 @@
       "dutch": "het huiselijk geweld, —",
       "russian": "домашнее насилие",
       "english": "domestic violence",
-      "example": ""
+      "example": "Huiselijk geweld moet je altijd melden.",
+      "example_ru": "О домашнем насилии нужно всегда сообщать.",
+      "example_en": "You should always report domestic violence."
     },
     {
       "type_en": "noun",
@@ -184,7 +228,9 @@
       "dutch": "het levensgevaar, —",
       "russian": "угроза жизни",
       "english": "life-threatening danger",
-      "example": ""
+      "example": "Bij levensgevaar bel je 112.",
+      "example_ru": "При угрозе жизни звони 112.",
+      "example_en": "In case of life-threatening danger, call 112."
     },
     {
       "type_en": "noun",
@@ -192,7 +238,9 @@
       "dutch": "de mantelzorg, —",
       "russian": "уход за близким",
       "english": "informal care",
-      "example": ""
+      "example": "Zij geeft mantelzorg aan haar moeder.",
+      "example_ru": "Она ухаживает за своей мамой.",
+      "example_en": "She provides informal care for her mother."
     },
     {
       "type_en": "noun",
@@ -200,7 +248,9 @@
       "dutch": "de mishandeling, mishandelingen",
       "russian": "жестокое обращение",
       "english": "abuse",
-      "example": ""
+      "example": "De mishandeling werd gemeld bij de politie.",
+      "example_ru": "О жестоком обращении сообщили в полицию.",
+      "example_en": "The abuse was reported to the police."
     },
     {
       "type_en": "noun",
@@ -208,7 +258,9 @@
       "dutch": "de mondhygiënist, mondhygiënisten",
       "russian": "гигиенист полости рта",
       "english": "dental hygienist",
-      "example": ""
+      "example": "De mondhygiënist controleert je tanden.",
+      "example_ru": "Гигиенист полости рта проверяет твои зубы.",
+      "example_en": "The dental hygienist checks your teeth."
     },
     {
       "type_en": "noun",
@@ -216,7 +268,9 @@
       "dutch": "de moord, moorden",
       "russian": "убийство",
       "english": "murder",
-      "example": ""
+      "example": "De politie onderzoekt de moord.",
+      "example_ru": "Полиция расследует убийство.",
+      "example_en": "The police are investigating the murder."
     },
     {
       "type_en": "noun",
@@ -224,7 +278,9 @@
       "dutch": "de noodsituatie, noodsituaties",
       "russian": "чрезвычайная ситуация",
       "english": "emergency situation",
-      "example": ""
+      "example": "Bij een noodsituatie bel je 112.",
+      "example_ru": "В чрезвычайной ситуации звони 112.",
+      "example_en": "In an emergency, call 112."
     },
     {
       "type_en": "noun",
@@ -232,7 +288,9 @@
       "dutch": "de orgaandonatie, orgaandonaties",
       "russian": "донорство органов",
       "english": "organ donation",
-      "example": ""
+      "example": "Orgaandonatie kan levens redden.",
+      "example_ru": "Донорство органов может спасти жизни.",
+      "example_en": "Organ donation can save lives."
     },
     {
       "type_en": "verb",
@@ -240,7 +298,9 @@
       "dutch": "overlijden, overleden",
       "russian": "умирать",
       "english": "to die",
-      "example": ""
+      "example": "Zijn opa overlijdt in het ziekenhuis.",
+      "example_ru": "Его дедушка умирает в больнице.",
+      "example_en": "His grandfather dies in the hospital."
     },
     {
       "type_en": "noun",
@@ -248,7 +308,9 @@
       "dutch": "de praktijk, praktijken",
       "russian": "практика",
       "english": "practice",
-      "example": ""
+      "example": "De praktijk is om de hoek.",
+      "example_ru": "Врачебная практика за углом.",
+      "example_en": "The practice is around the corner."
     },
     {
       "type_en": "noun",
@@ -256,7 +318,9 @@
       "dutch": "de praktijkondersteuner (POH), praktijkondersteuners (POH)",
       "russian": "медицинский помощник при врачебной практике",
       "english": "practice nurse",
-      "example": ""
+      "example": "De praktijkondersteuner meet je bloeddruk.",
+      "example_ru": "Медицинский помощник измеряет твоё давление.",
+      "example_en": "The practice nurse measures your blood pressure."
     },
     {
       "type_en": "noun",
@@ -264,7 +328,9 @@
       "dutch": "de premie, premies",
       "russian": "страховой взнос",
       "english": "premium",
-      "example": ""
+      "example": "De premie betaal je elke maand.",
+      "example_ru": "Страховой взнос ты платишь каждый месяц.",
+      "example_en": "You pay the premium every month."
     },
     {
       "type_en": "noun",
@@ -272,7 +338,9 @@
       "dutch": "het recept, recepten",
       "russian": "рецепт",
       "english": "prescription",
-      "example": ""
+      "example": "De arts schrijft een recept voor.",
+      "example_ru": "Врач выписывает рецепт.",
+      "example_en": "The doctor writes a prescription."
     },
     {
       "type_en": "noun",
@@ -280,7 +348,9 @@
       "dutch": "het recht, rechten",
       "russian": "право",
       "english": "right",
-      "example": ""
+      "example": "Je hebt recht op goede zorg.",
+      "example_ru": "Ты имеешь право на хорошую медицинскую помощь.",
+      "example_en": "You have the right to good care."
     },
     {
       "type_en": "noun",
@@ -288,7 +358,9 @@
       "dutch": "de specialist, specialisten",
       "russian": "врач-специалист",
       "english": "specialist",
-      "example": ""
+      "example": "De specialist bekijkt de foto's morgen.",
+      "example_ru": "Специалист посмотрит снимки завтра.",
+      "example_en": "The specialist will look at the images tomorrow."
     },
     {
       "type_en": "noun",
@@ -296,7 +368,9 @@
       "dutch": "de spoed, —",
       "russian": "срочность",
       "english": "urgency",
-      "example": ""
+      "example": "Het is spoed, bel de ambulance!",
+      "example_ru": "Это срочно, звони в скорую!",
+      "example_en": "It's urgent, call the ambulance!"
     },
     {
       "type_en": "noun",
@@ -304,7 +378,9 @@
       "dutch": "de Spoedeisende Hulp (SEH), —",
       "russian": "отделение неотложной помощи",
       "english": "emergency department",
-      "example": ""
+      "example": "De SEH is dag en nacht open.",
+      "example_ru": "Отделение неотложной помощи работает круглосуточно.",
+      "example_en": "The emergency department is open day and night."
     },
     {
       "type_en": "adjective",
@@ -312,7 +388,9 @@
       "dutch": "strafbaar",
       "russian": "наказуемый",
       "english": "punishable",
-      "example": ""
+      "example": "Dat strafbare gedrag leidt tot een boete.",
+      "example_ru": "Это наказуемое поведение ведёт к штрафу.",
+      "example_en": "That punishable behaviour leads to a fine."
     },
     {
       "type_en": "noun",
@@ -320,7 +398,9 @@
       "dutch": "de therapeut, therapeuten",
       "russian": "терапевт",
       "english": "therapist",
-      "example": ""
+      "example": "De therapeut luistert goed naar je.",
+      "example_ru": "Терапевт внимательно тебя слушает.",
+      "example_en": "The therapist listens carefully to you."
     },
     {
       "type_en": "noun",
@@ -328,7 +408,9 @@
       "dutch": "de toestemming, —",
       "russian": "согласие",
       "english": "consent",
-      "example": ""
+      "example": "De arts vraagt eerst om toestemming.",
+      "example_ru": "Врач сначала спрашивает согласие.",
+      "example_en": "The doctor first asks for consent."
     },
     {
       "type_en": "noun",
@@ -336,7 +418,9 @@
       "dutch": "de tolk, tolken",
       "russian": "переводчик",
       "english": "interpreter",
-      "example": ""
+      "example": "De tolk vertaalt bij de huisarts.",
+      "example_ru": "Переводчик переводит у терапевта.",
+      "example_en": "The interpreter translates at the GP's office."
     },
     {
       "type_en": "noun",
@@ -344,7 +428,9 @@
       "dutch": "de vaccinatie, vaccinaties",
       "russian": "вакцинация",
       "english": "vaccination",
-      "example": ""
+      "example": "De vaccinatie beschermt tegen ziektes.",
+      "example_ru": "Вакцинация защищает от болезней.",
+      "example_en": "The vaccination protects against diseases."
     },
     {
       "type_en": "noun",
@@ -352,7 +438,9 @@
       "dutch": "de vergoeding, vergoedingen",
       "russian": "возмещение",
       "english": "reimbursement",
-      "example": ""
+      "example": "De vergoeding komt van de verzekering.",
+      "example_ru": "Возмещение приходит от страховой компании.",
+      "example_en": "The reimbursement comes from the insurance."
     },
     {
       "type_en": "noun",
@@ -360,7 +448,9 @@
       "dutch": "de verkrachting, verkrachtingen",
       "russian": "изнасилование",
       "english": "rape",
-      "example": ""
+      "example": "Verkrachting is een ernstig misdrijf.",
+      "example_ru": "Изнасилование — серьёзное преступление.",
+      "example_en": "Rape is a serious crime."
     },
     {
       "type_en": "noun",
@@ -368,7 +458,9 @@
       "dutch": "de verwijzing, verwijzingen",
       "russian": "направление",
       "english": "referral",
-      "example": ""
+      "example": "Je hebt een verwijzing van de huisarts nodig.",
+      "example_ru": "Тебе нужно направление от терапевта.",
+      "example_en": "You need a referral from the GP."
     },
     {
       "type_en": "noun",
@@ -376,7 +468,9 @@
       "dutch": "de verzekering, verzekeringen",
       "russian": "страхование",
       "english": "insurance",
-      "example": ""
+      "example": "De verzekering betaalt de behandeling.",
+      "example_ru": "Страховка оплачивает лечение.",
+      "example_en": "The insurance pays for the treatment."
     },
     {
       "type_en": "noun",
@@ -384,7 +478,9 @@
       "dutch": "de zorg, —",
       "russian": "здравоохранение",
       "english": "care",
-      "example": ""
+      "example": "De zorg in Nederland is goed.",
+      "example_ru": "Здравоохранение в Нидерландах хорошее.",
+      "example_en": "Healthcare in the Netherlands is good."
     },
     {
       "type_en": "noun",
@@ -392,7 +488,9 @@
       "dutch": "de zorgtoeslag, zorgtoeslagen",
       "russian": "пособие на медицинскую страховку",
       "english": "healthcare benefit",
-      "example": ""
+      "example": "De zorgtoeslag helpt bij de premie.",
+      "example_ru": "Пособие на медстраховку помогает с оплатой взноса.",
+      "example_en": "The healthcare benefit helps with the premium."
     },
     {
       "type_en": "noun",
@@ -400,7 +498,9 @@
       "dutch": "de zorgverzekering, zorgverzekeringen",
       "russian": "медицинская страховка",
       "english": "health insurance",
-      "example": ""
+      "example": "Iedereen moet een zorgverzekering hebben.",
+      "example_ru": "Каждый должен иметь медицинскую страховку.",
+      "example_en": "Everyone must have health insurance."
     }
   ]
 }
