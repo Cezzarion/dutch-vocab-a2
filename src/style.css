@@ -192,6 +192,8 @@ button { font: inherit; }
 .province-region.is-incorrect { fill: #f5c8c4; stroke: #bd4e46; }
 @keyframes province-target-pulse { from { fill: #e7f1f7; } to { fill: #c5deed; } }
 .province-label-panel { display: grid; gap: 16px; }
+.matching-panel-footer { margin-top: 2px; padding-top: 16px; border-top: 1px dashed #b9c4cd; }
+.matching-exit-button { width: 100%; justify-content: center; }
 .province-label-panel h2 { margin: 0; color: #17324f; font-family: 'Playfair Display', Georgia, serif; font-size: 23px; }
 .province-label-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
 .province-label { min-height: 48px; padding: 10px 12px; border: 1.5px solid #d7dce1; border-radius: 13px; background: #fff; color: #40546a; cursor: grab; font-size: 14px; font-weight: 700; text-align: center; box-shadow: 0 3px 10px rgb(27 48 69 / 4%); transition: transform .15s ease, border-color .15s ease, background .15s ease, color .15s ease; user-select: none; }
@@ -199,9 +201,47 @@ button { font: inherit; }
 .province-label:active { cursor: grabbing; }
 .province-label.is-active { border-color: #244c70; background: #edf3f7; color: #17324f; box-shadow: inset 0 0 0 1px #244c70; }
 .province-label.is-incorrect { border-color: #bd4e46; background: #fbe9e7; color: #9e332e; }
-.province-complete { display: grid; justify-items: center; gap: 12px; padding: 20px; text-align: center; }
-.province-complete h1 { margin: 0; color: #17324f; font-family: 'Playfair Display', Georgia, serif; font-size: clamp(28px, 4vw, 42px); }
-.province-exit-button { justify-self: end; }
+.matching-complete { display: grid; place-content: center; justify-items: center; gap: 8px; min-height: 180px; padding: 16px; color: #33775a; text-align: center; }
+.matching-complete .completion-mark { width: 42px; height: 42px; font-size: 20px; }
+.matching-complete p { margin: 0; font-size: 16px; font-weight: 700; }
+.education-session { display: grid; justify-items: center; gap: 18px; width: 100%; margin: 0 auto; }
+.education-game-grid { display: grid; grid-template-columns: minmax(0, 860px) minmax(200px, 240px); align-items: start; justify-content: center; gap: clamp(20px, 3vw, 36px); width: min(100%, 1136px); }
+.education-diagram-wrap { width: 100%; overflow: hidden; border: 1px solid #d8e4eb; border-radius: 20px; background: #b8e8f4; box-shadow: 0 20px 48px rgb(29 48 66 / 9%); }
+.education-diagram { display: block; width: 100%; height: auto; }
+.education-bg { fill: #b8e8f4; }
+.education-age { fill: #17324f; font: 28px Arial, sans-serif; text-anchor: end; }
+.education-side-label { fill: #17324f; font: 32px Arial, sans-serif; text-anchor: middle; }
+.education-higher-box, .education-mbo-frame { fill: #fff; stroke: #0878b5; stroke-width: 5px; }
+.education-mbo-column { fill: #b5e5f4; }
+.education-secondary-block { fill: #58b3df; }
+.education-vmbo-block { fill: #58b3df; }
+.education-primary-block { fill: #0874b8; }
+.education-primary-label { fill: #fff; font: 32px Arial, sans-serif; text-anchor: middle; }
+.education-pathway-card { fill: #fff; }
+.education-pathway-label { fill: #0064ad; font: 22px Arial, sans-serif; text-anchor: middle; }
+.education-arrow { fill: none; stroke: #0878b5; stroke-width: 5px; marker-end: url(#education-arrow); }
+.education-arrow-horizontal { stroke-width: 6px; }
+.education-target { fill: transparent; stroke: transparent; stroke-width: 4px; cursor: pointer; transition: fill .15s ease, stroke .15s ease; }
+.education-higher-box.education-target { fill: #edf8fc; stroke: #248db9; }
+.education-mbo-target.education-target { fill: rgb(232 248 254 / 62%); stroke: #248db9; stroke-dasharray: 10 6; }
+.education-secondary-target.education-target { fill: rgb(190 232 247 / 52%); stroke: #248db9; stroke-dasharray: 10 6; }
+.education-vmbo-target.education-target { fill: rgb(190 232 247 / 62%); stroke: #248db9; stroke-dasharray: 10 6; }
+.education-target:hover, .education-target.is-drop-target { fill: rgb(229 238 245 / 70%); stroke: #315c7d; }
+.education-target.is-target-selected { fill: rgb(197 222 237 / 60%); stroke: #244c70; stroke-dasharray: 10 6; }
+.education-target.is-correct { fill: rgb(131 207 157 / 78%); stroke: #38805a; cursor: default; }
+.education-target.is-correct { stroke-dasharray: none; }
+.education-target.is-incorrect { fill: rgb(245 200 196 / 82%); stroke: #bd4e46; }
+.education-label-vwo, .education-label-havo, .education-label-vmbo { fill: transparent; stroke: transparent; }
+.education-target:focus-visible { outline: none; fill: rgb(229 238 245 / 75%); stroke: #d48a60; }
+.education-label-panel { display: grid; gap: 16px; }
+.education-label-panel h2 { margin: 0; color: #17324f; font-family: 'Playfair Display', Georgia, serif; font-size: 23px; }
+.education-label-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.education-label { min-height: 58px; border: 1.5px solid #d7dce1; border-radius: 14px; background: #fff; color: #40546a; cursor: grab; font-size: 17px; font-weight: 700; text-transform: lowercase; box-shadow: 0 3px 10px rgb(27 48 69 / 4%); transition: transform .15s ease, border-color .15s ease, background .15s ease, color .15s ease; user-select: none; }
+.education-label:hover { transform: translateY(-1px); border-color: #9aafc0; }
+.education-label:active { cursor: grabbing; }
+.education-label.is-active { border-color: #244c70; background: #edf3f7; color: #17324f; box-shadow: inset 0 0 0 1px #244c70; }
+.education-label.is-incorrect { border-color: #bd4e46; background: #fbe9e7; color: #9e332e; }
+.education-match-label { fill: #164b35; font: 700 38px Arial, sans-serif; text-anchor: middle; pointer-events: none; }
 .flashcard-stage { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 720px) minmax(0, 1fr); align-items: center; gap: 16px 0; width: 100%; }
 .flashcard-stage .flashcard { grid-column: 2; grid-row: 1; }
 .flashcard-stage .card-navigation { grid-column: 2; grid-row: 2; }
@@ -265,6 +305,9 @@ button:focus-visible { outline: 3px solid #d48a60; outline-offset: 3px; }
   .province-game-grid { grid-template-columns: minmax(0, 1fr); justify-items: center; }
   .province-map { width: min(100%, 520px); }
   .province-label-panel { width: min(100%, 720px); }
+  .education-game-grid { grid-template-columns: minmax(0, 1fr); justify-items: center; }
+  .education-diagram-wrap { max-width: 760px; }
+  .education-label-panel { width: min(100%, 720px); }
 }
 
 @media (max-width: 560px) {
@@ -292,7 +335,11 @@ button:focus-visible { outline: 3px solid #d48a60; outline-offset: 3px; }
   .province-game-grid { gap: 22px; }
   .province-map { padding: 8px; border-radius: 18px; }
   .province-label-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .province-exit-button { justify-self: center; }
+  .education-diagram-wrap { border-radius: 14px; }
+  .education-age { font-size: 30px; }
+  .education-pathway-label { font-size: 22px; }
+  .education-label-list { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .education-label { min-height: 48px; font-size: 15px; }
   .flashcard { min-height: 300px; padding: 0; border-radius: 22px; }
   .flashcard-face { padding: 24px; border-radius: 22px; }
 }

@@ -1,8 +1,8 @@
-import { useMemo, useState, type DragEvent, type KeyboardEvent, type MouseEvent } from 'react'
+import { useMemo, type DragEvent, type KeyboardEvent, type MouseEvent } from 'react'
 import GlobalControls, { type Direction } from '../../components/GlobalControls'
 import { provinces, type ProvinceId } from '../../data/provinces'
-import { shuffleEntries } from '../../domain/vocabulary'
 import type { Locale } from '../../types/vocabulary'
+import { useMatchingRound } from '../matching/useMatchingRound'
 import provinceMapSvg from '../../assets/netherlands-provinces-map.svg?raw'
 
 interface ProvincesMapSessionProps {
@@ -40,6 +40,8 @@ function findProvinceId(target: EventTarget): ProvinceId | null {
   return provinces.find((province) => province.id === id)?.id ?? null
 }
 
+const provinceIds = provinces.map(({ id }) => id)
+
 export default function ProvincesMapSession({
   locale,
   direction,
@@ -48,76 +50,26 @@ export default function ProvincesMapSession({
   onExit,
 }: ProvincesMapSessionProps) {
   const strings = copy[locale]
-  const [completedIds, setCompletedIds] = useState<Set<ProvinceId>>(() => new Set())
-  const [wrongTargetId, setWrongTargetId] = useState<ProvinceId | null>(null)
-  const [wrongLabelId, setWrongLabelId] = useState<ProvinceId | null>(null)
-  const [activeProvinceId, setActiveProvinceId] = useState<ProvinceId | null>(null)
-  const [activeTargetId, setActiveTargetId] = useState<ProvinceId | null>(null)
-  const [dragTargetId, setDragTargetId] = useState<ProvinceId | null>(null)
-  const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null)
-  const [provinceOrder, setProvinceOrder] = useState(() => shuffleEntries([...provinces]))
-  const isComplete = completedIds.size === provinces.length
-  const remainingProvinces = provinceOrder.filter(({ id }) => !completedIds.has(id))
+  const round = useMatchingRound(provinceIds)
+  const remainingProvinces = round.remaining.map((id) => provinces.find((province) => province.id === id)!)
 
   const mapMarkup = useMemo(() => provinces.reduce((markup, province) => {
-    const stateClass = completedIds.has(province.id)
-      ? ' is-correct'
-      : wrongTargetId === province.id ? ' is-incorrect'
-        : activeTargetId === province.id ? ' is-target-selected'
-          : dragTargetId === province.id ? ' is-drop-target' : ''
+    const targetState = round.targetState(province.id)
+    const stateClass = targetState === 'selected' ? ' is-target-selected'
+      : targetState ? ` is-${targetState}` : ''
     const targetMarkup = `class="province-region" data-province="${province.id}"`
     const accessibleTargetMarkup = `class="province-region${stateClass}" data-province="${province.id}"`
     const withClass = markup.replace(targetMarkup, accessibleTargetMarkup)
     return withClass.replace(
       `data-name="${province.name}"`,
-      `data-name="${province.name}" tabindex="0" role="button" aria-pressed="${activeTargetId === province.id}" aria-label="${strings.selectProvince}: ${province.name}"`,
+      `data-name="${province.name}" tabindex="${round.completed.has(province.id) ? -1 : 0}" role="button" aria-pressed="${round.activeTarget === province.id}" aria-disabled="${round.completed.has(province.id)}" aria-label="${strings.selectProvince}: ${province.name}"`,
     )
-  }, provinceMapSvg), [activeTargetId, completedIds, dragTargetId, strings.selectProvince, wrongTargetId])
-
-  function clearIncorrectFeedback() {
-    setWrongTargetId(null)
-    setWrongLabelId(null)
-    setFeedback(null)
-  }
-
-  function placeProvince(labelId: ProvinceId, targetId: ProvinceId) {
-    if (completedIds.has(labelId)) return
-    if (labelId !== targetId) {
-      setWrongTargetId(targetId)
-      setWrongLabelId(labelId)
-      setActiveProvinceId(labelId)
-      setActiveTargetId(null)
-      setFeedback('incorrect')
-      return
-    }
-
-    setCompletedIds((current) => new Set(current).add(labelId))
-    setWrongTargetId(null)
-    setWrongLabelId(null)
-    setActiveProvinceId(null)
-    setActiveTargetId(null)
-    setFeedback('correct')
-  }
-
-  function resetRound() {
-    setCompletedIds(new Set())
-    setWrongTargetId(null)
-    setWrongLabelId(null)
-    setActiveProvinceId(null)
-    setActiveTargetId(null)
-    setFeedback(null)
-    setProvinceOrder(shuffleEntries([...provinces]))
-  }
+  }, provinceMapSvg), [round.activeTarget, round.completed, round.dragTarget, round.wrongTarget, strings.selectProvince])
 
   function handleMapClick(event: MouseEvent<HTMLDivElement>) {
     const targetId = findProvinceId(event.target)
     if (!targetId) return
-    if (activeProvinceId) {
-      placeProvince(activeProvinceId, targetId)
-      return
-    }
-    clearIncorrectFeedback()
-    setActiveTargetId((current) => current === targetId ? null : targetId)
+    round.selectTarget(targetId)
   }
 
   function handleMapKeyDown(event: KeyboardEvent<HTMLDivElement>) {
@@ -125,35 +77,29 @@ export default function ProvincesMapSession({
     const targetId = findProvinceId(event.target)
     if (!targetId) return
     event.preventDefault()
-    if (activeProvinceId) {
-      placeProvince(activeProvinceId, targetId)
-    } else {
-      clearIncorrectFeedback()
-      setActiveTargetId(targetId)
-    }
+    round.selectTarget(targetId)
   }
 
   function handleMapDragOver(event: DragEvent<HTMLDivElement>) {
     const targetId = findProvinceId(event.target)
-    if (!targetId) return
+    if (!targetId || round.completed.has(targetId)) return
     event.preventDefault()
     event.dataTransfer.dropEffect = 'move'
-    setDragTargetId((current) => current === targetId ? current : targetId)
+    round.dragOver(targetId)
   }
 
   function handleMapDrop(event: DragEvent<HTMLDivElement>) {
     const targetId = findProvinceId(event.target)
     const labelId = event.dataTransfer.getData('text/plain') as ProvinceId
-    setDragTargetId(null)
-    if (!targetId || !provinces.some((province) => province.id === labelId)) return
+    if (!targetId || !provinceIds.includes(labelId)) return
     event.preventDefault()
-    placeProvince(labelId, targetId)
+    round.drop(labelId, targetId)
   }
 
   function handleMapDragLeave(event: DragEvent<HTMLDivElement>) {
     const nextTarget = event.relatedTarget
     if (!(nextTarget instanceof Node) || !event.currentTarget.contains(nextTarget)) {
-      setDragTargetId(null)
+      round.setDragTarget(null)
     }
   }
 
@@ -165,7 +111,7 @@ export default function ProvincesMapSession({
             <span aria-hidden="true" className="brand-mark">NL</span>
             <div>
               <p className="brand-name">{strings.title}</p>
-              <p className="brand-subtitle">{isComplete ? strings.completeDescription : strings.subtitle}</p>
+              <p className="brand-subtitle">{round.isComplete ? strings.completeDescription : strings.subtitle}</p>
             </div>
           </div>
           <div className="session-controls">
@@ -184,78 +130,74 @@ export default function ProvincesMapSession({
           <div className="province-toolbar">
             <div className="province-progress">
               <span className="progress-label">{strings.progress}</span>
-              <span className="progress-count">{completedIds.size} / {provinces.length}</span>
+              <span className="progress-count">{round.completed.size} / {provinces.length}</span>
               <div aria-label={strings.progress} aria-valuemax={provinces.length} aria-valuemin={0}
-                aria-valuenow={completedIds.size} className="progress-track" role="progressbar">
-                <span className="progress-fill" style={{ width: `${(completedIds.size / provinces.length) * 100}%` }} />
+                aria-valuenow={round.completed.size} className="progress-track" role="progressbar">
+                <span className="progress-fill" style={{ width: `${(round.completed.size / provinces.length) * 100}%` }} />
               </div>
             </div>
-            <button className="reset-easy-words-button province-reset-button" onClick={resetRound} type="button">
+            <button className="reset-easy-words-button province-reset-button" onClick={round.reset} type="button">
               {strings.reset}
             </button>
           </div>
 
           <p className="province-instruction">{strings.instruction}</p>
-          {feedback && (
-            <p aria-live="polite" className={`province-feedback is-${feedback}`}>
-              {feedback === 'correct' ? strings.correct : strings.incorrect}
+          {round.feedback && (
+            <p aria-live="polite" className={`province-feedback is-${round.feedback}`}>
+              {round.feedback === 'correct' ? strings.correct : strings.incorrect}
             </p>
           )}
 
-          {isComplete ? (
-            <div className="province-complete">
-              <span aria-hidden="true" className="completion-mark">✓</span>
-              <h1>{strings.complete}</h1>
-            </div>
-          ) : (
-            <div className="province-game-grid">
-              <div
-                className="province-map"
-                dangerouslySetInnerHTML={{ __html: mapMarkup }}
-                onClick={handleMapClick}
-                onDragOver={handleMapDragOver}
-                onDragLeave={handleMapDragLeave}
-                onDrop={handleMapDrop}
-                onKeyDown={handleMapKeyDown}
-              />
-              <div className="province-label-panel">
-                <h2>{strings.labels}</h2>
+          <div className="province-game-grid">
+            <div
+              className="province-map"
+              dangerouslySetInnerHTML={{ __html: mapMarkup }}
+              onClick={handleMapClick}
+              onDragOver={handleMapDragOver}
+              onDragLeave={handleMapDragLeave}
+              onDrop={handleMapDrop}
+              onKeyDown={handleMapKeyDown}
+            />
+            <div className="province-label-panel">
+              <h2>{strings.labels}</h2>
+              {round.isComplete ? (
+                <div className="matching-complete">
+                  <span aria-hidden="true" className="completion-mark">✓</span>
+                  <p>{strings.complete}</p>
+                </div>
+              ) : (
                 <div className="province-label-list">
-                  {remainingProvinces.map((province) => (
+                  {remainingProvinces.map((province) => {
+                    const itemState = round.itemState(province.id)
+                    const itemClass = itemState === 'selected' ? 'active' : itemState
+                    return (
                     <button
-                      aria-pressed={activeProvinceId === province.id}
-                      className={`province-label${activeProvinceId === province.id ? ' is-active' : ''}${wrongLabelId === province.id ? ' is-incorrect' : ''}`}
+                      aria-pressed={round.activeItem === province.id}
+                      className={`province-label${itemClass ? ` is-${itemClass}` : ''}`}
                       draggable
                       key={province.id}
                       onClick={() => {
-                        clearIncorrectFeedback()
-                        if (activeTargetId) {
-                          const targetId = activeTargetId
-                          setActiveTargetId(null)
-                          placeProvince(province.id, targetId)
-                        } else {
-                          setActiveProvinceId(province.id)
-                        }
+                        round.selectItem(province.id)
                       }}
                       onDragStart={(event) => {
                         event.dataTransfer.setData('text/plain', province.id)
                         event.dataTransfer.effectAllowed = 'move'
-                        clearIncorrectFeedback()
-                        setActiveTargetId(null)
-                        setActiveProvinceId(province.id)
+                        round.beginDrag(province.id)
                       }}
-                      onDragEnd={() => setDragTargetId(null)}
+                      onDragEnd={() => round.setDragTarget(null)}
                       type="button"
                     >
                       {province.name}
                     </button>
-                  ))}
+                    )
+                  })}
                 </div>
+              )}
+              <div className="matching-panel-footer">
+                <button className="exit-button matching-exit-button" onClick={onExit} type="button">{strings.exit}</button>
               </div>
             </div>
-          )}
-
-          <button className="exit-button province-exit-button" onClick={onExit} type="button">{strings.exit}</button>
+          </div>
         </section>
       </div>
     </main>
